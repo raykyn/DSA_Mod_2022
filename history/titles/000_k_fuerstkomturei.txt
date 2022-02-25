@@ -1,0 +1,21 @@
+﻿k_fuerstkomturei = {
+    1.1.1 = {
+        liege = e_schwarze_horde
+    }
+    1020.1.1 = {
+        holder = 584
+    }
+}
+
+d_arbasien = {
+    1.1.1 = {
+        liege = k_fuerstkomturei
+    }
+    1032.1.2 = {
+        liege = k_fuerstkomturei
+    }
+    1032.1.1 = {
+        holder = 668
+    }
+}
+

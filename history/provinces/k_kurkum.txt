@@ -1,0 +1,18 @@
+﻿# 479 - Kurkum
+479 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 480 - Zehnthof
+480 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+

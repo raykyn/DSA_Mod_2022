@@ -1,0 +1,15 @@
+﻿k_rabenmark = {
+    1.1.1 = {
+        liege = e_mittelreich
+    }
+    1.1.1 = {
+        government = theocracy_government
+    }
+    1028.1.1 = {
+        holder = 578
+    }
+    1038.1.1 = {
+        government = feudal_government
+    }
+}
+

@@ -1,0 +1,9 @@
+﻿k_rommilyser_mark = {
+    1.1.1 = {
+        liege = e_mittelreich
+    }
+    1036.1.1 = {
+        holder = 575
+    }
+}
+

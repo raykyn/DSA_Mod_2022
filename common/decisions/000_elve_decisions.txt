@@ -1,0 +1,21 @@
+be_forever_young = {
+	picture = "gfx/interface/illustrations/decisions/decision_major_religion.dds"
+	
+	is_shown = {
+		has_trait = elve
+	}
+	
+	effect = {
+		custom_tooltip = set_age_decision_effect_tooltip
+		trigger_event = immortality_set_age.1
+	}
+	
+	ai_check_interval = 36
+	
+	ai_potential = {
+		always = yes
+	} 
+	ai_will_do = {
+		base = 1000
+	} 
+}

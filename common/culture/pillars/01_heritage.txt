@@ -1,0 +1,4 @@
+heritage_gueldenlaendish = { type = heritage }
+
+heritage_dwarvish = { type = heritage }
+

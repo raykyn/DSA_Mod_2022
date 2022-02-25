@@ -1,0 +1,540 @@
+﻿# 445 - Oberbeilunk
+445 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 446 - Beilunk
+446 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 447 - Drîleuen
+447 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 448 - Neu-Hargenborn
+448 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 449 - Borobunth
+449 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 450 - Borostett
+450 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 451 - Greifenau
+451 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 452 - Grünau
+452 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 453 - Bedofeld
+453 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 454 - Grenzmarken
+454 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 456 - Valdahon
+456 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 457 - Maîch
+457 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 458 - Maîchenmatt
+458 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 459 - Ringfeste
+459 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 460 - Durbosch
+460 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 461 - Föhrenkuppe
+461 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 462 - Graî
+462 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 455 - Ouhan
+455 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 463 - Zweiseen
+463 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 464 - Shamaham
+464 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 465 - Kendram
+465 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 466 - Kleinfurt
+466 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 467 - Waldereck
+467 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 468 - Ogerbusch
+468 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 469 - Norbenstein
+469 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 470 - Norbeneck
+470 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 471 - Arbenforst
+471 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 472 - Arbasien
+472 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 473 - Saldersand
+473 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 474 - Salderküst
+474 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 475 - Rhoderstein
+475 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 476 - Ostend
+476 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 477 - Lyll
+477 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 478 - Amarasch
+478 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 486 - Borowein
+486 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 487 - Hugesweier
+487 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 488 - Mendena
+488 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 489 - Burgheym
+489 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 490 - Keilerau
+490 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 491 - Alkenhorst
+491 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 492 - Hagensmoor
+492 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 493 - Rallerfeste
+493 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 494 - Salvunk
+494 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 495 - Löwenstein
+495 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 496 - Sardosk
+496 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 497 - Schwarzbuckel
+497 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 498 - Hügelbrunnen
+498 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 499 - Ulracht
+499 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 500 - Zossberg
+500 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 501 - Föhrenhain
+501 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 502 - Muschelstrand
+502 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 503 - Sassandra
+503 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 504 - Dinglingen
+504 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 505 - Alsum
+505 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 506 - Kohlrungen
+506 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 507 - Isoldern
+507 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 508 - Ilsur
+508 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 509 - Perlstein
+509 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 510 - Port Rulat
+510 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 511 - Tisal
+511 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+

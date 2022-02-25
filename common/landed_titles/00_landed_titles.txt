@@ -1,0 +1,4510 @@
+﻿e_mittelreich = {
+    color = { 104 152 52 }
+    color2 = { 255 255 255 }
+    capital = c_raulsmark
+
+    k_garetien = {
+        color = { 104 152 52 }
+        color2 = { 255 255 255 }
+        capital = c_raulsmark
+
+        d_gareth = {
+            color = { 104 152 52 }
+            color2 = { 255 255 255 }
+            capital = c_raulsmark
+
+            c_raulsmark = {
+                color = { 104 152 52 }
+                color2 = { 255 255 255 }
+
+                b_rohalsfelden = {
+                    color = { 104 152 52 }
+                    color2 = { 255 255 255 }
+                    province = 1
+                }
+
+                b_neu_gareth = {
+                    color = { 104 66 52 }
+                    color2 = { 255 255 255 }
+                    province = 2
+                }
+
+                b_meilersgrund = {
+                    color = { 104 115 52 }
+                    color2 = { 255 255 255 }
+                    province = 3
+                }
+
+                b_weisshorn = {
+                    color = { 104 135 52 }
+                    color2 = { 255 255 255 }
+                    province = 4
+                }
+
+                b_goldenkron = {
+                    color = { 104 25 52 }
+                    color2 = { 255 255 255 }
+                    province = 5
+                }
+
+            }
+
+            c_alt_gareth = {
+                color = { 254 15 127 }
+                color2 = { 255 255 255 }
+
+                b_alt_gareth = {
+                    color = { 254 15 127 }
+                    color2 = { 255 255 255 }
+                    province = 6
+                }
+
+            }
+
+            c_gerbaldsmark = {
+                color = { 13 80 11 }
+                color2 = { 255 255 255 }
+
+                b_silkwiesen = {
+                    color = { 13 80 11 }
+                    color2 = { 255 255 255 }
+                    province = 7
+                }
+
+                b_brachenwacht = {
+                    color = { 13 100 11 }
+                    color2 = { 255 255 255 }
+                    province = 8
+                }
+
+                b_st_ancilla = {
+                    color = { 13 60 11 }
+                    color2 = { 255 255 255 }
+                    province = 9
+                }
+
+                b_briskengrund = {
+                    color = { 13 140 11 }
+                    color2 = { 255 255 255 }
+                    province = 10
+                }
+
+                b_wiehingen = {
+                    color = { 13 120 11 }
+                    color2 = { 255 255 255 }
+                    province = 11
+                }
+
+            }
+
+            c_vierok = {
+                color = { 108 20 100 }
+                color2 = { 255 255 255 }
+
+                b_schellenpfort = {
+                    color = { 108 20 100 }
+                    color2 = { 255 255 255 }
+                    province = 12
+                }
+
+                b_vierok = {
+                    color = { 108 20 200 }
+                    color2 = { 255 255 255 }
+                    province = 13
+                }
+
+                b_garafansbrueck = {
+                    color = { 108 20 150 }
+                    color2 = { 255 255 255 }
+                    province = 14
+                }
+
+                b_untergardeln = {
+                    color = { 108 20 0 }
+                    color2 = { 255 255 255 }
+                    province = 15
+                }
+
+            }
+
+            c_goldenstein = {
+                color = { 47 36 0 }
+                color2 = { 255 255 255 }
+
+                b_goldenstein = {
+                    color = { 47 36 0 }
+                    color2 = { 255 255 255 }
+                    province = 16
+                }
+
+                b_nattersquell = {
+                    color = { 47 36 200 }
+                    color2 = { 255 255 255 }
+                    province = 17
+                }
+
+                b_muehlingen = {
+                    color = { 47 36 100 }
+                    color2 = { 255 255 255 }
+                    province = 18
+                }
+
+            }
+
+            c_alriksmark = {
+                color = { 44 78 250 }
+                color2 = { 255 255 255 }
+
+                b_alrikshorst = {
+                    color = { 44 78 250 }
+                    color2 = { 255 255 255 }
+                    province = 19
+                }
+
+                b_alrikshain = {
+                    color = { 44 78 150 }
+                    color2 = { 255 255 255 }
+                    province = 20
+                }
+
+                b_st_belliatlus = {
+                    color = { 44 78 50 }
+                    color2 = { 255 255 255 }
+                    province = 21
+                }
+
+                b_finkenbach = {
+                    color = { 44 78 0 }
+                    color2 = { 255 255 255 }
+                    province = 22
+                }
+
+            }
+
+            c_eslamsmark = {
+                color = { 250 121 240 }
+                color2 = { 255 255 255 }
+
+                b_menzelshall = {
+                    color = { 250 121 240 }
+                    color2 = { 255 255 255 }
+                    province = 23
+                }
+
+                b_ackbar = {
+                    color = { 250 121 180 }
+                    color2 = { 255 255 255 }
+                    province = 24
+                }
+
+                b_perainenau = {
+                    color = { 250 121 120 }
+                    color2 = { 255 255 255 }
+                    province = 25
+                }
+
+                b_scheuerlintz = {
+                    color = { 250 121 60 }
+                    color2 = { 255 255 255 }
+                    province = 26
+                }
+
+            }
+
+            c_sighelmsmark = {
+                color = { 250 24 180 }
+                color2 = { 255 255 255 }
+
+                b_neusighelmsstein = {
+                    color = { 250 24 180 }
+                    color2 = { 255 255 255 }
+                    province = 27
+                }
+
+                b_gueldenfeldt = {
+                    color = { 250 24 120 }
+                    color2 = { 255 255 255 }
+                    province = 28
+                }
+
+                b_aurenwald = {
+                    color = { 250 24 60 }
+                    color2 = { 255 255 255 }
+                    province = 29
+                }
+
+                b_sighelmsaue = {
+                    color = { 250 24 0 }
+                    color2 = { 255 255 255 }
+                    province = 30
+                }
+
+            }
+
+            c_ochsenblut = {
+                color = { 46 170 60 }
+                color2 = { 255 255 255 }
+
+                b_ochsenblut = {
+                    color = { 46 170 60 }
+                    color2 = { 255 255 255 }
+                    province = 31
+                }
+
+                b_st_radul = {
+                    color = { 46 170 120 }
+                    color2 = { 255 255 255 }
+                    province = 32
+                }
+
+                b_mueckenhang = {
+                    color = { 46 170 180 }
+                    color2 = { 255 255 255 }
+                    province = 33
+                }
+
+                b_heiterfeld = {
+                    color = { 46 170 240 }
+                    color2 = { 255 255 255 }
+                    province = 34
+                }
+
+                b_wagenhalt = {
+                    color = { 46 170 0 }
+                    color2 = { 255 255 255 }
+                    province = 35
+                }
+
+            }
+
+        }
+
+        d_schlund = {
+            color = { 115 191 90 }
+            color2 = { 255 255 255 }
+            capital = c_ingerimmsschlund
+
+            c_ingerimmsschlund = {
+                color = { 115 191 90 }
+                color2 = { 255 255 255 }
+
+                b_fandolesch = {
+                    color = { 115 191 90 }
+                    color2 = { 255 255 255 }
+                    province = 36
+                }
+
+                b_albenfeld = {
+                    color = { 115 191 150 }
+                    color2 = { 255 255 255 }
+                    province = 37
+                }
+
+                b_halden = {
+                    color = { 115 191 210 }
+                    color2 = { 255 255 255 }
+                    province = 38
+                }
+
+                b_roden = {
+                    color = { 115 191 30 }
+                    color2 = { 255 255 255 }
+                    province = 39
+                }
+
+                b_krauzung = {
+                    color = { 115 191 250 }
+                    color2 = { 255 255 255 }
+                    province = 40
+                }
+
+            }
+
+            c_nettersquell = {
+                color = { 218 92 220 }
+                color2 = { 255 255 255 }
+
+                b_gryffenwacht = {
+                    color = { 218 92 220 }
+                    color2 = { 255 255 255 }
+                    province = 41
+                }
+
+                b_nattergrund = {
+                    color = { 218 92 160 }
+                    color2 = { 255 255 255 }
+                    province = 42
+                }
+
+                b_praioslob = {
+                    color = { 218 92 100 }
+                    color2 = { 255 255 255 }
+                    province = 43
+                }
+
+                b_st_ukurien = {
+                    color = { 218 92 40 }
+                    color2 = { 255 255 255 }
+                    province = 44
+                }
+
+            }
+
+            c_wandleth = {
+                color = { 113 146 154 }
+                color2 = { 255 255 255 }
+
+                b_wandleth = {
+                    color = { 113 146 154 }
+                    color2 = { 255 255 255 }
+                    province = 45
+                }
+
+            }
+
+            c_erlenstamm = {
+                color = { 27 139 160 }
+                color2 = { 255 255 255 }
+
+                b_freudenstein = {
+                    color = { 27 139 160 }
+                    color2 = { 255 255 255 }
+                    province = 46
+                }
+
+                b_wiesburg = {
+                    color = { 27 139 100 }
+                    color2 = { 255 255 255 }
+                    province = 47
+                }
+
+                b_st_falkhilde = {
+                    color = { 27 139 40 }
+                    color2 = { 255 255 255 }
+                    province = 48
+                }
+
+                b_erlengrund = {
+                    color = { 27 139 250 }
+                    color2 = { 255 255 255 }
+                    province = 49
+                }
+
+                b_murimel = {
+                    color = { 27 139 0 }
+                    color2 = { 255 255 255 }
+                    province = 50
+                }
+
+            }
+
+            c_ruchin = {
+                color = { 120 155 20 }
+                color2 = { 255 255 255 }
+
+                b_kuchin = {
+                    color = { 120 155 20 }
+                    color2 = { 255 255 255 }
+                    province = 51
+                }
+
+                b_ruchin = {
+                    color = { 120 155 80 }
+                    color2 = { 255 255 255 }
+                    province = 52
+                }
+
+                b_schlund = {
+                    color = { 120 155 140 }
+                    color2 = { 255 255 255 }
+                    province = 53
+                }
+
+                b_untergreupel = {
+                    color = { 120 155 200 }
+                    color2 = { 255 255 255 }
+                    province = 54
+                }
+
+                b_hangwald = {
+                    color = { 120 155 250 }
+                    color2 = { 255 255 255 }
+                    province = 55
+                }
+
+            }
+
+            c_torbelstein = {
+                color = { 78 37 50 }
+                color2 = { 255 255 255 }
+
+                b_koenigswaldhuet = {
+                    color = { 78 37 50 }
+                    color2 = { 255 255 255 }
+                    province = 56
+                }
+
+                b_st_dappertin = {
+                    color = { 78 37 110 }
+                    color2 = { 255 255 255 }
+                    province = 57
+                }
+
+                b_perainsgarten = {
+                    color = { 78 37 170 }
+                    color2 = { 255 255 255 }
+                    province = 58
+                }
+
+                b_unterdachsen = {
+                    color = { 78 37 230 }
+                    color2 = { 255 255 255 }
+                    province = 59
+                }
+
+            }
+
+            c_hartsteen = {
+                color = { 12 49 80 }
+                color2 = { 255 255 255 }
+
+                b_oberhartsteen = {
+                    color = { 12 49 80 }
+                    color2 = { 255 255 255 }
+                    province = 60
+                }
+
+                b_hartwalden = {
+                    color = { 12 49 140 }
+                    color2 = { 255 255 255 }
+                    province = 61
+                }
+
+                b_desmetal = {
+                    color = { 12 49 200 }
+                    color2 = { 255 255 255 }
+                    province = 62
+                }
+
+                b_hausen = {
+                    color = { 12 49 250 }
+                    color2 = { 255 255 255 }
+                    province = 63
+                }
+
+                b_darpatwacht = {
+                    color = { 12 49 0 }
+                    color2 = { 255 255 255 }
+                    province = 64
+                }
+
+            }
+
+            c_viehwiesen = {
+                color = { 151 183 50 }
+                color2 = { 255 255 255 }
+
+                b_ox = {
+                    color = { 151 183 50 }
+                    color2 = { 255 255 255 }
+                    province = 65
+                }
+
+                b_st_ogdolf = {
+                    color = { 151 183 125 }
+                    color2 = { 255 255 255 }
+                    province = 66
+                }
+
+                b_torbelstein = {
+                    color = { 151 183 200 }
+                    color2 = { 255 255 255 }
+                    province = 67
+                }
+
+                b_dachsen = {
+                    color = { 151 183 250 }
+                    color2 = { 255 255 255 }
+                    province = 68
+                }
+
+            }
+
+        }
+
+        d_eslamsgrund = {
+            color = { 48 90 200 }
+            color2 = { 255 255 255 }
+            capital = c_eslamsgrund
+
+            c_eslamsgrund = {
+                color = { 48 90 200 }
+                color2 = { 255 255 255 }
+
+                b_baladinstein = {
+                    color = { 48 90 200 }
+                    color2 = { 255 255 255 }
+                    province = 69
+                }
+
+                b_benget = {
+                    color = { 48 90 250 }
+                    color2 = { 255 255 255 }
+                    province = 70
+                }
+
+                b_grafenfels = {
+                    color = { 48 90 0 }
+                    color2 = { 255 255 255 }
+                    province = 71
+                }
+
+                b_neuenacker = {
+                    color = { 48 90 50 }
+                    color2 = { 255 255 255 }
+                    province = 72
+                }
+
+                b_kaisertal = {
+                    color = { 48 90 100 }
+                    color2 = { 255 255 255 }
+                    province = 73
+                }
+
+            }
+
+            c_eslamsgrund_2 = {
+                color = { 48 90 150 }
+                color2 = { 255 255 255 }
+
+                b_eslamsgrund = {
+                    color = { 48 90 150 }
+                    color2 = { 255 255 255 }
+                    province = 74
+                }
+
+            }
+
+            c_falkenstein = {
+                color = { 153 245 190 }
+                color2 = { 255 255 255 }
+
+                b_falkengrund = {
+                    color = { 153 245 190 }
+                    color2 = { 255 255 255 }
+                    province = 75
+                }
+
+                b_liebchengrund = {
+                    color = { 153 245 0 }
+                    color2 = { 255 255 255 }
+                    province = 76
+                }
+
+                b_rondratrutz = {
+                    color = { 153 245 95 }
+                    color2 = { 255 255 255 }
+                    province = 77
+                }
+
+            }
+
+            c_dornensee = {
+                color = { 143 4 14 }
+                color2 = { 255 255 255 }
+
+                b_dornau = {
+                    color = { 143 4 14 }
+                    color2 = { 255 255 255 }
+                    province = 78
+                }
+
+                b_praiosgnad = {
+                    color = { 143 4 74 }
+                    color2 = { 255 255 255 }
+                    province = 79
+                }
+
+                b_nimmerjoch = {
+                    color = { 143 4 134 }
+                    color2 = { 255 255 255 }
+                    province = 80
+                }
+
+                b_hortungen = {
+                    color = { 143 4 194 }
+                    color2 = { 255 255 255 }
+                    province = 81
+                }
+
+            }
+
+            c_schlundgau = {
+                color = { 48 74 100 }
+                color2 = { 255 255 255 }
+
+                b_rathsamsberge = {
+                    color = { 48 74 100 }
+                    color2 = { 255 255 255 }
+                    province = 82
+                }
+
+                b_st_berathraban = {
+                    color = { 48 74 175 }
+                    color2 = { 255 255 255 }
+                    province = 83
+                }
+
+                b_tolakstein = {
+                    color = { 48 74 250 }
+                    color2 = { 255 255 255 }
+                    province = 84
+                }
+
+                b_joching = {
+                    color = { 48 74 0 }
+                    color2 = { 255 255 255 }
+                    province = 85
+                }
+
+            }
+
+            c_hoellenwall = {
+                color = { 46 121 170 }
+                color2 = { 255 255 255 }
+
+                b_silvadon = {
+                    color = { 46 121 170 }
+                    color2 = { 255 255 255 }
+                    province = 86
+                }
+
+                b_marmonte = {
+                    color = { 46 121 250 }
+                    color2 = { 255 255 255 }
+                    province = 87
+                }
+
+                b_st_ireanor = {
+                    color = { 46 121 0 }
+                    color2 = { 255 255 255 }
+                    province = 88
+                }
+
+                b_dornbusch = {
+                    color = { 46 121 85 }
+                    color2 = { 255 255 255 }
+                    province = 89
+                }
+
+            }
+
+            c_halhof = {
+                color = { 86 252 85 }
+                color2 = { 255 255 255 }
+
+                b_greifenstolz = {
+                    color = { 86 252 85 }
+                    color2 = { 255 255 255 }
+                    province = 90
+                }
+
+                b_eychgras = {
+                    color = { 86 252 145 }
+                    color2 = { 255 255 255 }
+                    province = 91
+                }
+
+                b_merun = {
+                    color = { 86 252 205 }
+                    color2 = { 255 255 255 }
+                    province = 92
+                }
+
+                b_lichterneck = {
+                    color = { 86 252 0 }
+                    color2 = { 255 255 255 }
+                    province = 93
+                }
+
+            }
+
+            c_gallstein = {
+                color = { 113 143 165 }
+                color2 = { 255 255 255 }
+
+                b_mor'tres = {
+                    color = { 113 143 165 }
+                    color2 = { 255 255 255 }
+                    province = 94
+                }
+
+                b_gallestra = {
+                    color = { 113 143 250 }
+                    color2 = { 255 255 255 }
+                    province = 95
+                }
+
+                b_perainefelden = {
+                    color = { 113 143 80 }
+                    color2 = { 255 255 255 }
+                    province = 96
+                }
+
+                b_silberblick = {
+                    color = { 113 143 0 }
+                    color2 = { 255 255 255 }
+                    province = 97
+                }
+
+            }
+
+            c_fremmelsfelde = {
+                color = { 230 74 55 }
+                color2 = { 255 255 255 }
+
+                b_hahnenfels = {
+                    color = { 230 74 55 }
+                    color2 = { 255 255 255 }
+                    province = 98
+                }
+
+                b_fremmelshof = {
+                    color = { 230 74 155 }
+                    color2 = { 255 255 255 }
+                    province = 99
+                }
+
+                b_gippelstein = {
+                    color = { 230 74 255 }
+                    color2 = { 255 255 255 }
+                    province = 100
+                }
+
+            }
+
+            c_zagbar = {
+                color = { 228 79 65 }
+                color2 = { 255 255 255 }
+
+                b_zagrosch = {
+                    color = { 228 79 65 }
+                    color2 = { 255 255 255 }
+                    province = 101
+                }
+
+                b_zagbar = {
+                    color = { 228 79 155 }
+                    color2 = { 255 255 255 }
+                    province = 102
+                }
+
+                b_kupfergrab = {
+                    color = { 228 79 255 }
+                    color2 = { 255 255 255 }
+                    province = 103
+                }
+
+            }
+
+        }
+
+        d_reichsforst = {
+            color = { 236 81 35 }
+            color2 = { 255 255 255 }
+            capital = c_rubreth
+
+            c_rubreth = {
+                color = { 236 81 35 }
+                color2 = { 255 255 255 }
+
+                b_rubreth = {
+                    color = { 236 81 35 }
+                    color2 = { 255 255 255 }
+                    province = 104
+                }
+
+                b_waldwiesen = {
+                    color = { 236 81 145 }
+                    color2 = { 255 255 255 }
+                    province = 105
+                }
+
+                b_cresseneck = {
+                    color = { 236 81 255 }
+                    color2 = { 255 255 255 }
+                    province = 106
+                }
+
+            }
+
+            c_randersburg = {
+                color = { 103 249 90 }
+                color2 = { 255 255 255 }
+
+                b_randersburg = {
+                    color = { 103 249 90 }
+                    color2 = { 255 255 255 }
+                    province = 114
+                }
+
+                b_hornbach = {
+                    color = { 103 249 175 }
+                    color2 = { 255 255 255 }
+                    province = 115
+                }
+
+                b_st_barmhilde = {
+                    color = { 103 249 255 }
+                    color2 = { 255 255 255 }
+                    province = 116
+                }
+
+                b_sonnenfeld = {
+                    color = { 103 249 0 }
+                    color2 = { 255 255 255 }
+                    province = 117
+                }
+
+            }
+
+            c_schwarztannen = {
+                color = { 103 27 245 }
+                color2 = { 255 255 255 }
+
+                b_esenfeld = {
+                    color = { 103 27 245 }
+                    color2 = { 255 255 255 }
+                    province = 129
+                }
+
+                b_schwarztannen = {
+                    color = { 103 27 0 }
+                    color2 = { 255 255 255 }
+                    province = 130
+                }
+
+                b_hexenmuehle = {
+                    color = { 103 27 80 }
+                    color2 = { 255 255 255 }
+                    province = 131
+                }
+
+                b_erlenfall = {
+                    color = { 103 27 160 }
+                    color2 = { 255 255 255 }
+                    province = 132
+                }
+
+            }
+
+            c_waldfang = {
+                color = { 165 244 0 }
+                color2 = { 255 255 255 }
+
+                b_waldfang = {
+                    color = { 165 244 0 }
+                    color2 = { 255 255 255 }
+                    province = 121
+                }
+
+                b_goldlinden = {
+                    color = { 165 244 90 }
+                    color2 = { 255 255 255 }
+                    province = 122
+                }
+
+                b_schweigende_wacht = {
+                    color = { 165 244 180 }
+                    color2 = { 255 255 255 }
+                    province = 123
+                }
+
+                b_hirschpforten = {
+                    color = { 165 244 255 }
+                    color2 = { 255 255 255 }
+                    province = 124
+                }
+
+            }
+
+            c_rallerspfort = {
+                color = { 24 194 100 }
+                color2 = { 255 255 255 }
+
+                b_rotkraehenborn = {
+                    color = { 24 194 100 }
+                    color2 = { 255 255 255 }
+                    province = 118
+                }
+
+                b_rallerspfort = {
+                    color = { 24 194 180 }
+                    color2 = { 255 255 255 }
+                    province = 119
+                }
+
+                b_leuchtenfeld = {
+                    color = { 24 194 255 }
+                    color2 = { 255 255 255 }
+                    province = 120
+                }
+
+            }
+
+            c_syrrenholt = {
+                color = { 110 139 40 }
+                color2 = { 255 255 255 }
+
+                b_syrrenholt = {
+                    color = { 110 139 40 }
+                    color2 = { 255 255 255 }
+                    province = 111
+                }
+
+                b_untergras = {
+                    color = { 110 139 110 }
+                    color2 = { 255 255 255 }
+                    province = 112
+                }
+
+                b_st_emmeran = {
+                    color = { 110 139 255 }
+                    color2 = { 255 255 255 }
+                    province = 113
+                }
+
+            }
+
+            c_hirschfurten = {
+                color = { 100 98 130 }
+                color2 = { 255 255 255 }
+
+                b_hirschwalden = {
+                    color = { 100 98 130 }
+                    color2 = { 255 255 255 }
+                    province = 107
+                }
+
+                b_samlor = {
+                    color = { 100 98 190 }
+                    color2 = { 255 255 255 }
+                    province = 108
+                }
+
+                b_marano = {
+                    color = { 100 98 255 }
+                    color2 = { 255 255 255 }
+                    province = 109
+                }
+
+                b_talbach = {
+                    color = { 100 98 0 }
+                    color2 = { 255 255 255 }
+                    province = 110
+                }
+
+            }
+
+            c_luring = {
+                color = { 2 17 185 }
+                color2 = { 255 255 255 }
+
+                b_luring = {
+                    color = { 2 17 185 }
+                    color2 = { 255 255 255 }
+                    province = 125
+                }
+
+                b_spinnried = {
+                    color = { 2 17 255 }
+                    color2 = { 255 255 255 }
+                    province = 126
+                }
+
+                b_truegensfeld = {
+                    color = { 2 17 0 }
+                    color2 = { 255 255 255 }
+                    province = 127
+                }
+
+                b_cronenfurt = {
+                    color = { 2 17 90 }
+                    color2 = { 255 255 255 }
+                    province = 128
+                }
+
+            }
+
+        }
+
+        d_hartsteen = {
+            color = { 147 106 45 }
+            color2 = { 255 255 255 }
+            capital = c_natzungen
+
+            c_natzungen = {
+                color = { 147 106 45 }
+                color2 = { 255 255 255 }
+
+                b_natzungen = {
+                    color = { 147 106 45 }
+                    color2 = { 255 255 255 }
+                    province = 133
+                }
+
+                b_praioreth = {
+                    color = { 147 106 115 }
+                    color2 = { 255 255 255 }
+                    province = 134
+                }
+
+                b_muhlwasser = {
+                    color = { 147 106 185 }
+                    color2 = { 255 255 255 }
+                    province = 135
+                }
+
+                b_poppelhoven = {
+                    color = { 147 106 255 }
+                    color2 = { 255 255 255 }
+                    province = 136
+                }
+
+                b_langtal = {
+                    color = { 147 106 0 }
+                    color2 = { 255 255 255 }
+                    province = 137
+                }
+
+            }
+
+            c_hartsteen_2 = {
+                color = { 77 224 158 }
+                color2 = { 255 255 255 }
+
+                b_hartsteen = {
+                    color = { 77 224 158 }
+                    color2 = { 255 255 255 }
+                    province = 138
+                }
+
+            }
+
+            c_puleth = {
+                color = { 201 7 235 }
+                color2 = { 255 255 255 }
+
+                b_aldengrund = {
+                    color = { 201 7 235 }
+                    color2 = { 255 255 255 }
+                    province = 139
+                }
+
+                b_puleth = {
+                    color = { 201 7 160 }
+                    color2 = { 255 255 255 }
+                    province = 140
+                }
+
+                b_tannenheim = {
+                    color = { 201 7 80 }
+                    color2 = { 255 255 255 }
+                    province = 141
+                }
+
+                b_sommerau = {
+                    color = { 201 7 0 }
+                    color2 = { 255 255 255 }
+                    province = 142
+                }
+
+            }
+
+            c_baerenau = {
+                color = { 218 29 120 }
+                color2 = { 255 255 255 }
+
+                b_liliengrund = {
+                    color = { 218 29 120 }
+                    color2 = { 255 255 255 }
+                    province = 143
+                }
+
+                b_baerenau = {
+                    color = { 218 29 180 }
+                    color2 = { 255 255 255 }
+                    province = 144
+                }
+
+                b_krolocksaue = {
+                    color = { 218 29 255 }
+                    color2 = { 255 255 255 }
+                    province = 145
+                }
+
+                b_cavans_steg = {
+                    color = { 218 29 60 }
+                    color2 = { 255 255 255 }
+                    province = 146
+                }
+
+                b_ibelstein = {
+                    color = { 218 29 0 }
+                    color2 = { 255 255 255 }
+                    province = 147
+                }
+
+            }
+
+            c_feidewald = {
+                color = { 205 204 225 }
+                color2 = { 255 255 255 }
+
+                b_feidewald = {
+                    color = { 205 204 225 }
+                    color2 = { 255 255 255 }
+                    province = 148
+                }
+
+                b_hirschenrode = {
+                    color = { 205 204 0 }
+                    color2 = { 255 255 255 }
+                    province = 149
+                }
+
+            }
+
+            c_hutt = {
+                color = { 245 103 95 }
+                color2 = { 255 255 255 }
+
+                b_hutt = {
+                    color = { 245 103 95 }
+                    color2 = { 255 255 255 }
+                    province = 150
+                }
+
+                b_dorp = {
+                    color = { 245 103 0 }
+                    color2 = { 255 255 255 }
+                    province = 151
+                }
+
+                b_bertolfshufen = {
+                    color = { 245 103 255 }
+                    color2 = { 255 255 255 }
+                    province = 152
+                }
+
+                b_schirchrain = {
+                    color = { 245 103 200 }
+                    color2 = { 255 255 255 }
+                    province = 153
+                }
+
+                b_moorsch = {
+                    color = { 245 103 150 }
+                    color2 = { 255 255 255 }
+                    province = 154
+                }
+
+            }
+
+            c_rabensbrueck = {
+                color = { 149 47 100 }
+                color2 = { 255 255 255 }
+
+                b_rabensbrueck = {
+                    color = { 149 47 100 }
+                    color2 = { 255 255 255 }
+                    province = 155
+                }
+
+                b_reck = {
+                    color = { 149 47 0 }
+                    color2 = { 255 255 255 }
+                    province = 156
+                }
+
+                b_sturmwacht = {
+                    color = { 149 47 200 }
+                    color2 = { 255 255 255 }
+                    province = 157
+                }
+
+                b_oberdommel = {
+                    color = { 149 47 255 }
+                    color2 = { 255 255 255 }
+                    province = 158
+                }
+
+            }
+
+            c_bugenhog = {
+                color = { 153 105 235 }
+                color2 = { 255 255 255 }
+
+                b_bugenhog = {
+                    color = { 153 105 235 }
+                    color2 = { 255 255 255 }
+                    province = 159
+                }
+
+                b_reynhartsbruck = {
+                    color = { 153 105 0 }
+                    color2 = { 255 255 255 }
+                    province = 160
+                }
+
+                b_perainsgarten_2 = {
+                    color = { 153 105 80 }
+                    color2 = { 255 255 255 }
+                    province = 161
+                }
+
+                b_leplenfeld = {
+                    color = { 153 105 160 }
+                    color2 = { 255 255 255 }
+                    province = 162
+                }
+
+            }
+
+            c_reichsgau = {
+                color = { 105 155 135 }
+                color2 = { 255 255 255 }
+
+                b_zwingzahn = {
+                    color = { 105 155 135 }
+                    color2 = { 255 255 255 }
+                    province = 163
+                }
+
+                b_horeth = {
+                    color = { 105 155 0 }
+                    color2 = { 255 255 255 }
+                    province = 164
+                }
+
+                b_st_noiona = {
+                    color = { 105 155 255 }
+                    color2 = { 255 255 255 }
+                    province = 165
+                }
+
+                b_finsterstein = {
+                    color = { 105 155 70 }
+                    color2 = { 255 255 255 }
+                    province = 166
+                }
+
+                b_firunshoeh = {
+                    color = { 105 155 195 }
+                    color2 = { 255 255 255 }
+                    province = 167
+                }
+
+            }
+
+        }
+
+        d_waldstein = {
+            color = { 170 16 85 }
+            color2 = { 255 255 255 }
+            capital = c_silz
+
+            c_silz = {
+                color = { 170 16 85 }
+                color2 = { 255 255 255 }
+
+                b_silz = {
+                    color = { 170 16 85 }
+                    color2 = { 255 255 255 }
+                    province = 181
+                }
+
+                b_gansbach = {
+                    color = { 170 16 255 }
+                    color2 = { 255 255 255 }
+                    province = 182
+                }
+
+            }
+
+            c_leihenbutt = {
+                color = { 111 53 140 }
+                color2 = { 255 255 255 }
+
+                b_waldesruh = {
+                    color = { 111 53 140 }
+                    color2 = { 255 255 255 }
+                    province = 173
+                }
+
+                b_leihenbutt = {
+                    color = { 111 53 0 }
+                    color2 = { 255 255 255 }
+                    province = 174
+                }
+
+                b_perainelob = {
+                    color = { 111 53 255 }
+                    color2 = { 255 255 255 }
+                    province = 175
+                }
+
+                b_sommerberg = {
+                    color = { 111 53 70 }
+                    color2 = { 255 255 255 }
+                    province = 176
+                }
+
+            }
+
+            c_linara = {
+                color = { 101 239 165 }
+                color2 = { 255 255 255 }
+
+                b_bitani = {
+                    color = { 101 239 165 }
+                    color2 = { 255 255 255 }
+                    province = 186
+                }
+
+                b_ueberdiebreite = {
+                    color = { 101 239 255 }
+                    color2 = { 255 255 255 }
+                    province = 187
+                }
+
+                b_rallerwacht = {
+                    color = { 101 239 0 }
+                    color2 = { 255 255 255 }
+                    province = 188
+                }
+
+                b_leuental = {
+                    color = { 101 239 80 }
+                    color2 = { 255 255 255 }
+                    province = 189
+                }
+
+            }
+
+            c_osenbrueck = {
+                color = { 66 49 224 }
+                color2 = { 255 255 255 }
+
+                b_windenstein = {
+                    color = { 66 49 224 }
+                    color2 = { 255 255 255 }
+                    province = 193
+                }
+
+                b_osenbrueck = {
+                    color = { 66 49 0 }
+                    color2 = { 255 255 255 }
+                    province = 194
+                }
+
+            }
+
+            c_schwanenbruch = {
+                color = { 195 134 255 }
+                color2 = { 255 255 255 }
+
+                b_schwanenbruch = {
+                    color = { 195 134 255 }
+                    color2 = { 255 255 255 }
+                    province = 184
+                }
+
+                b_seytnach = {
+                    color = { 195 134 0 }
+                    color2 = { 255 255 255 }
+                    province = 185
+                }
+
+            }
+
+            c_tannwirk = {
+                color = { 32 124 185 }
+                color2 = { 255 255 255 }
+
+                b_tannwirk = {
+                    color = { 32 124 185 }
+                    color2 = { 255 255 255 }
+                    province = 179
+                }
+
+                b_tannewacht = {
+                    color = { 32 124 0 }
+                    color2 = { 255 255 255 }
+                    province = 180
+                }
+
+            }
+
+            c_ulmenhain = {
+                color = { 191 35 105 }
+                color2 = { 255 255 255 }
+
+                b_dullerwueben = {
+                    color = { 191 35 105 }
+                    color2 = { 255 255 255 }
+                    province = 195
+                }
+
+                b_hagenbronn = {
+                    color = { 191 35 255 }
+                    color2 = { 255 255 255 }
+                    province = 196
+                }
+
+                b_essental = {
+                    color = { 191 35 0 }
+                    color2 = { 255 255 255 }
+                    province = 197
+                }
+
+            }
+
+            c_uslenried = {
+                color = { 90 76 105 }
+                color2 = { 255 255 255 }
+
+                b_uslenried = {
+                    color = { 90 76 105 }
+                    color2 = { 255 255 255 }
+                    province = 168
+                }
+
+                b_streitzensfeld = {
+                    color = { 90 76 0 }
+                    color2 = { 255 255 255 }
+                    province = 169
+                }
+
+                b_gantekssee = {
+                    color = { 90 76 255 }
+                    color2 = { 255 255 255 }
+                    province = 170
+                }
+
+                b_usla = {
+                    color = { 90 76 200 }
+                    color2 = { 255 255 255 }
+                    province = 171
+                }
+
+                b_rallersquell = {
+                    color = { 90 76 150 }
+                    color2 = { 255 255 255 }
+                    province = 172
+                }
+
+            }
+
+            c_zweiflingen = {
+                color = { 202 177 60 }
+                color2 = { 255 255 255 }
+
+                b_zweifelfels = {
+                    color = { 202 177 60 }
+                    color2 = { 255 255 255 }
+                    province = 177
+                }
+
+                b_sankt_henrica = {
+                    color = { 202 177 255 }
+                    color2 = { 255 255 255 }
+                    province = 178
+                }
+
+            }
+
+            c_falkenwind = {
+                color = { 249 52 180 }
+                color2 = { 255 255 255 }
+
+                b_falkenwind = {
+                    color = { 249 52 180 }
+                    color2 = { 255 255 255 }
+                    province = 190
+                }
+
+                b_bergensteen = {
+                    color = { 249 52 0 }
+                    color2 = { 255 255 255 }
+                    province = 191
+                }
+
+                b_moorwacht = {
+                    color = { 249 52 90 }
+                    color2 = { 255 255 255 }
+                    province = 192
+                }
+
+            }
+
+            c_sertis = {
+                color = { 72 113 45 }
+                color2 = { 255 255 255 }
+
+                b_hornbeil = {
+                    color = { 72 113 45 }
+                    color2 = { 255 255 255 }
+                    province = 201
+                }
+
+                b_eynweiher = {
+                    color = { 72 113 255 }
+                    color2 = { 255 255 255 }
+                    province = 202
+                }
+
+            }
+
+            c_neerbusch = {
+                color = { 212 245 195 }
+                color2 = { 255 255 255 }
+
+                b_njertal = {
+                    color = { 212 245 195 }
+                    color2 = { 255 255 255 }
+                    province = 198
+                }
+
+                b_klappechs = {
+                    color = { 212 245 0 }
+                    color2 = { 255 255 255 }
+                    province = 199
+                }
+
+                b_neerquell = {
+                    color = { 212 245 100 }
+                    color2 = { 255 255 255 }
+                    province = 200
+                }
+
+            }
+
+            c_serrinmoor = {
+                color = { 67 72 60 }
+                color2 = { 255 255 255 }
+
+                b_serrinstein = {
+                    color = { 67 72 60 }
+                    color2 = { 255 255 255 }
+                    province = 203
+                }
+
+                b_weissenstein = {
+                    color = { 67 72 255 }
+                    color2 = { 255 255 255 }
+                    province = 204
+                }
+
+                b_derrelsbach = {
+                    color = { 67 72 0 }
+                    color2 = { 255 255 255 }
+                    province = 205
+                }
+
+                b_serrinwald = {
+                    color = { 67 72 160 }
+                    color2 = { 255 255 255 }
+                    province = 206
+                }
+
+            }
+
+            c_hirschfurt = {
+                color = { 54 231 23 }
+                color2 = { 255 255 255 }
+
+                b_hirschfurt = {
+                    color = { 54 231 23 }
+                    color2 = { 255 255 255 }
+                    province = 183
+                }
+
+            }
+
+        }
+
+        d_perricum = {
+            color = { 6 130 61 }
+            color2 = { 255 255 255 }
+            capital = c_perricum
+
+            c_perricum = {
+                color = { 6 130 61 }
+                color2 = { 255 255 255 }
+
+                b_rabicum = {
+                    color = { 6 130 61 }
+                    color2 = { 255 255 255 }
+                    province = 238
+                }
+
+                b_perricum = {
+                    color = { 6 130 255 }
+                    color2 = { 255 255 255 }
+                    province = 239
+                }
+
+                b_st_theria = {
+                    color = { 6 130 0 }
+                    color2 = { 255 255 255 }
+                    province = 240
+                }
+
+                b_efferdsand = {
+                    color = { 6 130 150 }
+                    color2 = { 255 255 255 }
+                    province = 241
+                }
+
+            }
+
+            c_brendiltal = {
+                color = { 92 64 36 }
+                color2 = { 255 255 255 }
+
+                b_herdentor = {
+                    color = { 92 64 36 }
+                    color2 = { 255 255 255 }
+                    province = 233
+                }
+
+                b_sebarin = {
+                    color = { 92 64 255 }
+                    color2 = { 255 255 255 }
+                    province = 234
+                }
+
+                b_varintal = {
+                    color = { 92 64 100 }
+                    color2 = { 255 255 255 }
+                    province = 235
+                }
+
+                b_kraehenwacht = {
+                    color = { 92 64 150 }
+                    color2 = { 255 255 255 }
+                    province = 236
+                }
+
+                b_ebengard = {
+                    color = { 92 64 200 }
+                    color2 = { 255 255 255 }
+                    province = 237
+                }
+
+            }
+
+            c_haselhain = {
+                color = { 216 187 84 }
+                color2 = { 255 255 255 }
+
+                b_haselhain = {
+                    color = { 216 187 84 }
+                    color2 = { 255 255 255 }
+                    province = 229
+                }
+
+                b_haselhain_2 = {
+                    color = { 216 187 255 }
+                    color2 = { 255 255 255 }
+                    province = 230
+                }
+
+                b_eslamskesh = {
+                    color = { 216 187 0 }
+                    color2 = { 255 255 255 }
+                    province = 231
+                }
+
+                b_baran'scheck = {
+                    color = { 216 187 170 }
+                    color2 = { 255 255 255 }
+                    province = 232
+                }
+
+            }
+
+            c_duersten_darrenfurt = {
+                color = { 80 133 210 }
+                color2 = { 255 255 255 }
+
+                b_darrenfurt = {
+                    color = { 80 133 210 }
+                    color2 = { 255 255 255 }
+                    province = 224
+                }
+
+                b_darrenfurt_2 = {
+                    color = { 80 133 0 }
+                    color2 = { 255 255 255 }
+                    province = 225
+                }
+
+                b_darren_ulah = {
+                    color = { 80 133 50 }
+                    color2 = { 255 255 255 }
+                    province = 226
+                }
+
+                b_duersten = {
+                    color = { 80 133 100 }
+                    color2 = { 255 255 255 }
+                    province = 227
+                }
+
+                b_firunswald = {
+                    color = { 80 133 150 }
+                    color2 = { 255 255 255 }
+                    province = 228
+                }
+
+            }
+
+            c_gnitzenkuhl = {
+                color = { 14 80 147 }
+                color2 = { 255 255 255 }
+
+                b_alriksauen = {
+                    color = { 14 80 147 }
+                    color2 = { 255 255 255 }
+                    province = 221
+                }
+
+                b_gnitzenkuhl = {
+                    color = { 14 80 255 }
+                    color2 = { 255 255 255 }
+                    province = 222
+                }
+
+                b_st_liaiella = {
+                    color = { 14 80 0 }
+                    color2 = { 255 255 255 }
+                    province = 223
+                }
+
+            }
+
+            c_gerbenwald = {
+                color = { 211 0 44 }
+                color2 = { 255 255 255 }
+
+                b_barbenwehr = {
+                    color = { 211 0 44 }
+                    color2 = { 255 255 255 }
+                    province = 218
+                }
+
+                b_gerbental = {
+                    color = { 211 0 255 }
+                    color2 = { 255 255 255 }
+                    province = 219
+                }
+
+                b_willigental = {
+                    color = { 211 0 150 }
+                    color2 = { 255 255 255 }
+                    province = 220
+                }
+
+            }
+
+            c_weissbarun = {
+                color = { 213 39 51 }
+                color2 = { 255 255 255 }
+
+                b_ferkinaschreck = {
+                    color = { 213 39 51 }
+                    color2 = { 255 255 255 }
+                    province = 214
+                }
+
+                b_hordenberg = {
+                    color = { 213 39 255 }
+                    color2 = { 255 255 255 }
+                    province = 215
+                }
+
+                b_ashal'deyran = {
+                    color = { 213 39 0 }
+                    color2 = { 255 255 255 }
+                    province = 216
+                }
+
+                b_dreisteinen = {
+                    color = { 213 39 150 }
+                    color2 = { 255 255 255 }
+                    province = 217
+                }
+
+            }
+
+            c_sturmfels = {
+                color = { 186 137 114 }
+                color2 = { 255 255 255 }
+
+                b_sturmspitze = {
+                    color = { 186 137 114 }
+                    color2 = { 255 255 255 }
+                    province = 211
+                }
+
+                b_alriksburg = {
+                    color = { 186 137 255 }
+                    color2 = { 255 255 255 }
+                    province = 212
+                }
+
+                b_wolfszahn = {
+                    color = { 186 137 0 }
+                    color2 = { 255 255 255 }
+                    province = 213
+                }
+
+            }
+
+            c_wasserburg = {
+                color = { 132 16 101 }
+                color2 = { 255 255 255 }
+
+                b_rosshang = {
+                    color = { 132 16 101 }
+                    color2 = { 255 255 255 }
+                    province = 207
+                }
+
+                b_wasserburg = {
+                    color = { 132 16 255 }
+                    color2 = { 255 255 255 }
+                    province = 208
+                }
+
+                b_loewentor = {
+                    color = { 132 16 0 }
+                    color2 = { 255 255 255 }
+                    province = 209
+                }
+
+                b_kelsenburg = {
+                    color = { 132 16 175 }
+                    color2 = { 255 255 255 }
+                    province = 210
+                }
+
+            }
+
+        }
+
+        d_greifenfurt = {
+            color = { 204 109 170 }
+            color2 = { 255 255 255 }
+            capital = c_greifenfurt
+
+            c_greifenfurt = {
+                color = { 204 109 170 }
+                color2 = { 255 255 255 }
+
+                b_halmengarth = {
+                    color = { 204 109 170 }
+                    color2 = { 255 255 255 }
+                    province = 242
+                }
+
+                b_greifenfurt = {
+                    color = { 204 109 0 }
+                    color2 = { 255 255 255 }
+                    province = 243
+                }
+
+                b_syllenwies = {
+                    color = { 204 109 255 }
+                    color2 = { 255 255 255 }
+                    province = 244
+                }
+
+            }
+
+            c_hasenfeld = {
+                color = { 203 196 125 }
+                color2 = { 255 255 255 }
+
+                b_haagenstein = {
+                    color = { 203 196 125 }
+                    color2 = { 255 255 255 }
+                    province = 245
+                }
+
+                b_waldalriksrode = {
+                    color = { 203 196 0 }
+                    color2 = { 255 255 255 }
+                    province = 246
+                }
+
+                b_ebersfelde = {
+                    color = { 203 196 255 }
+                    color2 = { 255 255 255 }
+                    province = 247
+                }
+
+            }
+
+            c_quastenbroich = {
+                color = { 193 222 65 }
+                color2 = { 255 255 255 }
+
+                b_quastenbroich = {
+                    color = { 193 222 65 }
+                    color2 = { 255 255 255 }
+                    province = 248
+                }
+
+                b_siebeneichen = {
+                    color = { 193 222 255 }
+                    color2 = { 255 255 255 }
+                    province = 249
+                }
+
+            }
+
+            c_reichsweg = {
+                color = { 191 252 0 }
+                color2 = { 255 255 255 }
+
+                b_reichsweg = {
+                    color = { 191 252 0 }
+                    color2 = { 255 255 255 }
+                    province = 295
+                }
+
+                b_reichsweg_2 = {
+                    color = { 191 252 130 }
+                    color2 = { 255 255 255 }
+                    province = 296
+                }
+
+                b_reichsweg_3 = {
+                    color = { 191 252 255 }
+                    color2 = { 255 255 255 }
+                    province = 297
+                }
+
+            }
+
+            c_dunkelsfarn = {
+                color = { 181 110 0 }
+                color2 = { 255 255 255 }
+
+                b_dunkelsfarn = {
+                    color = { 181 110 0 }
+                    color2 = { 255 255 255 }
+                    province = 293
+                }
+
+                b_kroentenbrunn = {
+                    color = { 181 110 255 }
+                    color2 = { 255 255 255 }
+                    province = 294
+                }
+
+            }
+
+            c_nardesfeld = {
+                color = { 133 118 0 }
+                color2 = { 255 255 255 }
+
+                b_schmalfurt = {
+                    color = { 133 118 0 }
+                    color2 = { 255 255 255 }
+                    province = 259
+                }
+
+                b_berleichen = {
+                    color = { 133 118 85 }
+                    color2 = { 255 255 255 }
+                    province = 260
+                }
+
+                b_nardeshain = {
+                    color = { 133 118 170 }
+                    color2 = { 255 255 255 }
+                    province = 261
+                }
+
+                b_karghyde = {
+                    color = { 133 118 255 }
+                    color2 = { 255 255 255 }
+                    province = 262
+                }
+
+            }
+
+            c_zalgo = {
+                color = { 11 242 0 }
+                color2 = { 255 255 255 }
+
+                b_zalgomuehlen = {
+                    color = { 11 242 0 }
+                    color2 = { 255 255 255 }
+                    province = 256
+                }
+
+                b_schillburg = {
+                    color = { 11 242 130 }
+                    color2 = { 255 255 255 }
+                    province = 257
+                }
+
+                b_faehrufer = {
+                    color = { 11 242 255 }
+                    color2 = { 255 255 255 }
+                    province = 258
+                }
+
+            }
+
+            c_hexenhain = {
+                color = { 103 93 0 }
+                color2 = { 255 255 255 }
+
+                b_rosskuppe = {
+                    color = { 103 93 0 }
+                    color2 = { 255 255 255 }
+                    province = 263
+                }
+
+                b_aehrenfeld = {
+                    color = { 103 93 85 }
+                    color2 = { 255 255 255 }
+                    province = 264
+                }
+
+                b_scraan_am_blauen_laach = {
+                    color = { 103 93 170 }
+                    color2 = { 255 255 255 }
+                    province = 265
+                }
+
+                b_altricksforst = {
+                    color = { 103 93 255 }
+                    color2 = { 255 255 255 }
+                    province = 266
+                }
+
+            }
+
+            c_kressenburg = {
+                color = { 181 115 175 }
+                color2 = { 255 255 255 }
+
+                b_kressenburg = {
+                    color = { 181 115 175 }
+                    color2 = { 255 255 255 }
+                    province = 250
+                }
+
+                b_st_therbun_im_walde = {
+                    color = { 181 115 0 }
+                    color2 = { 255 255 255 }
+                    province = 251
+                }
+
+            }
+
+            c_koenigsgau = {
+                color = { 95 108 255 }
+                color2 = { 255 255 255 }
+
+                b_kaiserley = {
+                    color = { 95 108 255 }
+                    color2 = { 255 255 255 }
+                    province = 252
+                }
+
+                b_waldschatten = {
+                    color = { 95 108 0 }
+                    color2 = { 255 255 255 }
+                    province = 253
+                }
+
+            }
+
+            c_eslamsroden = {
+                color = { 42 137 85 }
+                color2 = { 255 255 255 }
+
+                b_breitenquell = {
+                    color = { 42 137 85 }
+                    color2 = { 255 255 255 }
+                    province = 298
+                }
+
+                b_eslamsroden = {
+                    color = { 42 137 0 }
+                    color2 = { 255 255 255 }
+                    province = 299
+                }
+
+                b_weidensee = {
+                    color = { 42 137 170 }
+                    color2 = { 255 255 255 }
+                    province = 300
+                }
+
+                b_karens = {
+                    color = { 42 137 255 }
+                    color2 = { 255 255 255 }
+                    province = 301
+                }
+
+            }
+
+            c_orkenwall = {
+                color = { 112 130 0 }
+                color2 = { 255 255 255 }
+
+                b_orkenwall = {
+                    color = { 112 130 0 }
+                    color2 = { 255 255 255 }
+                    province = 302
+                }
+
+                b_kloster_zu_orkenwall = {
+                    color = { 112 130 255 }
+                    color2 = { 255 255 255 }
+                    province = 303
+                }
+
+            }
+
+            c_feldharsch = {
+                color = { 59 41 0 }
+                color2 = { 255 255 255 }
+
+                b_feldharsch = {
+                    color = { 59 41 0 }
+                    color2 = { 255 255 255 }
+                    province = 254
+                }
+
+                b_perainefried = {
+                    color = { 59 41 255 }
+                    color2 = { 255 255 255 }
+                    province = 255
+                }
+
+            }
+
+            c_beldenhag = {
+                color = { 105 7 0 }
+                color2 = { 255 255 255 }
+
+                b_beldenruh = {
+                    color = { 105 7 0 }
+                    color2 = { 255 255 255 }
+                    province = 315
+                }
+
+                b_minderbreugen = {
+                    color = { 105 7 130 }
+                    color2 = { 255 255 255 }
+                    province = 316
+                }
+
+                b_schwarzensee = {
+                    color = { 105 7 255 }
+                    color2 = { 255 255 255 }
+                    province = 317
+                }
+
+            }
+
+            c_donfanger = {
+                color = { 188 109 0 }
+                color2 = { 255 255 255 }
+
+                b_donfanger = {
+                    color = { 188 109 0 }
+                    color2 = { 255 255 255 }
+                    province = 270
+                }
+
+                b_donfgrund = {
+                    color = { 188 109 255 }
+                    color2 = { 255 255 255 }
+                    province = 271
+                }
+
+            }
+
+            c_finsterkamm = {
+                color = { 244 210 0 }
+                color2 = { 255 255 255 }
+
+                b_finsterwacht = {
+                    color = { 244 210 0 }
+                    color2 = { 255 255 255 }
+                    province = 282
+                }
+
+                b_schwertsleyda = {
+                    color = { 244 210 255 }
+                    color2 = { 255 255 255 }
+                    province = 283
+                }
+
+            }
+
+            c_finsterrode = {
+                color = { 41 2 0 }
+                color2 = { 255 255 255 }
+
+                b_waldrast = {
+                    color = { 41 2 0 }
+                    color2 = { 255 255 255 }
+                    province = 284
+                }
+
+                b_radulfshausen = {
+                    color = { 41 2 130 }
+                    color2 = { 255 255 255 }
+                    province = 285
+                }
+
+                b_gamsdrift = {
+                    color = { 41 2 255 }
+                    color2 = { 255 255 255 }
+                    province = 286
+                }
+
+            }
+
+            c_greifenberg = {
+                color = { 41 69 0 }
+                color2 = { 255 255 255 }
+
+                b_greifenberg = {
+                    color = { 41 69 0 }
+                    color2 = { 255 255 255 }
+                    province = 306
+                }
+
+                b_fuchswinkeln = {
+                    color = { 41 69 130 }
+                    color2 = { 255 255 255 }
+                    province = 307
+                }
+
+                b_scraans_zuversicht = {
+                    color = { 41 69 255 }
+                    color2 = { 255 255 255 }
+                    province = 308
+                }
+
+            }
+
+            c_greifenhorst = {
+                color = { 123 141 0 }
+                color2 = { 255 255 255 }
+
+                b_orkenwacht = {
+                    color = { 123 141 0 }
+                    color2 = { 255 255 255 }
+                    province = 275
+                }
+
+                b_greifenhorst = {
+                    color = { 123 141 130 }
+                    color2 = { 255 255 255 }
+                    province = 276
+                }
+
+                b_breitenhof = {
+                    color = { 123 141 255 }
+                    color2 = { 255 255 255 }
+                    province = 277
+                }
+
+            }
+
+            c_helbrache = {
+                color = { 53 51 0 }
+                color2 = { 255 255 255 }
+
+                b_helberge = {
+                    color = { 53 51 0 }
+                    color2 = { 255 255 255 }
+                    province = 287
+                }
+
+                b_espengrund = {
+                    color = { 53 51 255 }
+                    color2 = { 255 255 255 }
+                    province = 288
+                }
+
+            }
+
+            c_hesindelburg = {
+                color = { 86 71 0 }
+                color2 = { 255 255 255 }
+
+                b_eichstein = {
+                    color = { 86 71 0 }
+                    color2 = { 255 255 255 }
+                    province = 267
+                }
+
+                b_hesindelburg = {
+                    color = { 86 71 130 }
+                    color2 = { 255 255 255 }
+                    province = 268
+                }
+
+                b_rabenhorst = {
+                    color = { 86 71 255 }
+                    color2 = { 255 255 255 }
+                    province = 269
+                }
+
+            }
+
+            c_hundsgrab = {
+                color = { 102 120 130 }
+                color2 = { 255 255 255 }
+
+                b_lohengrunde = {
+                    color = { 102 120 130 }
+                    color2 = { 255 255 255 }
+                    province = 309
+                }
+
+                b_hundsgrab = {
+                    color = { 102 120 0 }
+                    color2 = { 255 255 255 }
+                    province = 310
+                }
+
+                b_brandons_ehr = {
+                    color = { 102 120 255 }
+                    color2 = { 255 255 255 }
+                    province = 311
+                }
+
+            }
+
+            c_nebelstein = {
+                color = { 70 50 0 }
+                color2 = { 255 255 255 }
+
+                b_orkentrutz = {
+                    color = { 70 50 0 }
+                    color2 = { 255 255 255 }
+                    province = 278
+                }
+
+                b_schroffenstein = {
+                    color = { 70 50 85 }
+                    color2 = { 255 255 255 }
+                    province = 279
+                }
+
+                b_keilholtz = {
+                    color = { 70 50 170 }
+                    color2 = { 255 255 255 }
+                    province = 280
+                }
+
+                b_wichelshausen = {
+                    color = { 70 50 255 }
+                    color2 = { 255 255 255 }
+                    province = 281
+                }
+
+            }
+
+            c_schnayttach = {
+                color = { 183 21 0 }
+                color2 = { 255 255 255 }
+
+                b_pilzhain = {
+                    color = { 183 21 0 }
+                    color2 = { 255 255 255 }
+                    province = 312
+                }
+
+                b_schnayttach = {
+                    color = { 183 21 130 }
+                    color2 = { 255 255 255 }
+                    province = 313
+                }
+
+                b_dunfion = {
+                    color = { 183 21 255 }
+                    color2 = { 255 255 255 }
+                    province = 314
+                }
+
+            }
+
+            c_breitenbruck = {
+                color = { 136 184 0 }
+                color2 = { 255 255 255 }
+
+                b_breitenbruck = {
+                    color = { 136 184 0 }
+                    color2 = { 255 255 255 }
+                    province = 304
+                }
+
+                b_breitenbruck_2 = {
+                    color = { 136 184 255 }
+                    color2 = { 255 255 255 }
+                    province = 305
+                }
+
+            }
+
+            c_weihenhorst = {
+                color = { 249 11 0 }
+                color2 = { 255 255 255 }
+
+                b_weihenhorst = {
+                    color = { 249 11 0 }
+                    color2 = { 255 255 255 }
+                    province = 272
+                }
+
+                b_rieperngaum = {
+                    color = { 249 11 130 }
+                    color2 = { 255 255 255 }
+                    province = 273
+                }
+
+                b_kraehenhorst = {
+                    color = { 249 11 255 }
+                    color2 = { 255 255 255 }
+                    province = 274
+                }
+
+            }
+
+            c_dergelstein = {
+                color = { 33 39 0 }
+                color2 = { 255 255 255 }
+
+                b_boronshof = {
+                    color = { 33 39 0 }
+                    color2 = { 255 255 255 }
+                    province = 289
+                }
+
+                b_dergelstein = {
+                    color = { 33 39 85 }
+                    color2 = { 255 255 255 }
+                    province = 290
+                }
+
+                b_gruenwarte = {
+                    color = { 33 39 170 }
+                    color2 = { 255 255 255 }
+                    province = 291
+                }
+
+                b_hainroden = {
+                    color = { 33 39 255 }
+                    color2 = { 255 255 255 }
+                    province = 292
+                }
+
+            }
+
+        }
+
+    }
+
+    k_perricum = {
+        color = { 0 0 0 }
+        color2 = { 255 255 255 }
+        capital = c_perricum
+
+    }
+
+    k_greifenfurt = {
+        color = { 0 0 0 }
+        color2 = { 255 255 255 }
+        capital = c_greifenfurt
+
+    }
+
+    k_darpatien = {
+        color = { 242 28 0 }
+        color2 = { 255 255 255 }
+        capital = c_rommilys
+
+        d_ochsenwasser = {
+            color = { 242 28 0 }
+            color2 = { 255 255 255 }
+            capital = c_rommilys
+
+            c_rommilys = {
+                color = { 242 28 0 }
+                color2 = { 255 255 255 }
+
+                b_hohenstein = {
+                    color = { 242 28 0 }
+                    color2 = { 255 255 255 }
+                    province = 318
+                }
+
+                b_rommilys = {
+                    color = { 242 28 130 }
+                    color2 = { 255 255 255 }
+                    province = 319
+                }
+
+                b_schwanen = {
+                    color = { 242 28 255 }
+                    color2 = { 255 255 255 }
+                    province = 320
+                }
+
+            }
+
+            c_neuborn = {
+                color = { 251 13 0 }
+                color2 = { 255 255 255 }
+
+                b_sturmfels = {
+                    color = { 251 13 0 }
+                    color2 = { 255 255 255 }
+                    province = 321
+                }
+
+                b_niederborn = {
+                    color = { 251 13 255 }
+                    color2 = { 255 255 255 }
+                    province = 322
+                }
+
+            }
+
+            c_dettenhofen = {
+                color = { 230 108 0 }
+                color2 = { 255 255 255 }
+
+                b_dettenhofen = {
+                    color = { 230 108 0 }
+                    color2 = { 255 255 255 }
+                    province = 323
+                }
+
+                b_wolfskopf = {
+                    color = { 230 108 255 }
+                    color2 = { 255 255 255 }
+                    province = 324
+                }
+
+            }
+
+            c_pulverberg = {
+                color = { 222 153 0 }
+                color2 = { 255 255 255 }
+
+                b_mersingen = {
+                    color = { 222 153 0 }
+                    color2 = { 255 255 255 }
+                    province = 325
+                }
+
+                b_pulverbergen = {
+                    color = { 222 153 130 }
+                    color2 = { 255 255 255 }
+                    province = 326
+                }
+
+                b_sancta_boronia = {
+                    color = { 222 153 255 }
+                    color2 = { 255 255 255 }
+                    province = 327
+                }
+
+            }
+
+            c_devensberg = {
+                color = { 147 90 0 }
+                color2 = { 255 255 255 }
+
+                b_devendoch = {
+                    color = { 147 90 0 }
+                    color2 = { 255 255 255 }
+                    province = 328
+                }
+
+                b_devensberg = {
+                    color = { 147 90 255 }
+                    color2 = { 255 255 255 }
+                    province = 329
+                }
+
+            }
+
+            c_balderweith = {
+                color = { 147 90 130 }
+                color2 = { 255 255 255 }
+
+                b_balderweith = {
+                    color = { 147 90 130 }
+                    color2 = { 255 255 255 }
+                    province = 330
+                }
+
+            }
+
+            c_aschenfeld = {
+                color = { 82 235 0 }
+                color2 = { 255 255 255 }
+
+                b_aschenfeld = {
+                    color = { 82 235 0 }
+                    color2 = { 255 255 255 }
+                    province = 331
+                }
+
+                b_vierbyrgen = {
+                    color = { 82 235 255 }
+                    color2 = { 255 255 255 }
+                    province = 332
+                }
+
+            }
+
+            c_bohlenburg = {
+                color = { 13 211 0 }
+                color2 = { 255 255 255 }
+
+                b_bohlenburg = {
+                    color = { 13 211 0 }
+                    color2 = { 255 255 255 }
+                    province = 333
+                }
+
+                b_bohlenstett = {
+                    color = { 13 211 255 }
+                    color2 = { 255 255 255 }
+                    province = 334
+                }
+
+            }
+
+            c_wolkenried = {
+                color = { 193 176 0 }
+                color2 = { 255 255 255 }
+
+                b_gorbentrutz = {
+                    color = { 193 176 0 }
+                    color2 = { 255 255 255 }
+                    province = 335
+                }
+
+                b_moosbrunn = {
+                    color = { 193 176 255 }
+                    color2 = { 255 255 255 }
+                    province = 336
+                }
+
+            }
+
+            c_rammholz = {
+                color = { 106 159 0 }
+                color2 = { 255 255 255 }
+
+                b_boronia = {
+                    color = { 106 159 0 }
+                    color2 = { 255 255 255 }
+                    province = 337
+                }
+
+                b_drollenpfort = {
+                    color = { 106 159 255 }
+                    color2 = { 255 255 255 }
+                    province = 338
+                }
+
+            }
+
+            c_echsmoos = {
+                color = { 106 159 130 }
+                color2 = { 255 255 255 }
+
+                b_gryffenstein = {
+                    color = { 106 159 130 }
+                    color2 = { 255 255 255 }
+                    province = 339
+                }
+
+            }
+
+            c_zwerch = {
+                color = { 162 191 0 }
+                color2 = { 255 255 255 }
+
+                b_travinianshall = {
+                    color = { 162 191 0 }
+                    color2 = { 255 255 255 }
+                    province = 340
+                }
+
+                b_zwerch = {
+                    color = { 162 191 255 }
+                    color2 = { 255 255 255 }
+                    province = 341
+                }
+
+                b_rankaraliretena = {
+                    color = { 162 191 130 }
+                    color2 = { 255 255 255 }
+                    province = 342
+                }
+
+            }
+
+            c_gallys = {
+                color = { 110 180 0 }
+                color2 = { 255 255 255 }
+
+                b_gallys = {
+                    color = { 110 180 0 }
+                    color2 = { 255 255 255 }
+                    province = 343
+                }
+
+                b_daffel = {
+                    color = { 110 180 255 }
+                    color2 = { 255 255 255 }
+                    province = 344
+                }
+
+            }
+
+            c_grassing = {
+                color = { 180 165 0 }
+                color2 = { 255 255 255 }
+
+                b_grassing = {
+                    color = { 180 165 0 }
+                    color2 = { 255 255 255 }
+                    province = 345
+                }
+
+                b_arlingen = {
+                    color = { 180 165 255 }
+                    color2 = { 255 255 255 }
+                    province = 346
+                }
+
+                b_auweiler = {
+                    color = { 180 165 130 }
+                    color2 = { 255 255 255 }
+                    province = 347
+                }
+
+            }
+
+            c_ochsenweide = {
+                color = { 172 13 0 }
+                color2 = { 255 255 255 }
+
+                b_ochsenfels = {
+                    color = { 172 13 0 }
+                    color2 = { 255 255 255 }
+                    province = 348
+                }
+
+                b_ochsenweide = {
+                    color = { 172 13 255 }
+                    color2 = { 255 255 255 }
+                    province = 349
+                }
+
+            }
+
+            c_zweimuehlen = {
+                color = { 75 88 0 }
+                color2 = { 255 255 255 }
+
+                b_zweimuehlen = {
+                    color = { 75 88 0 }
+                    color2 = { 255 255 255 }
+                    province = 350
+                }
+
+                b_talf = {
+                    color = { 75 88 255 }
+                    color2 = { 255 255 255 }
+                    province = 351
+                }
+
+            }
+
+        }
+
+        d_wehrheim = {
+            color = { 128 249 0 }
+            color2 = { 255 255 255 }
+            capital = c_wehrheim
+
+            c_wehrheim = {
+                color = { 128 249 0 }
+                color2 = { 255 255 255 }
+
+                b_wehrheim = {
+                    color = { 128 249 0 }
+                    color2 = { 255 255 255 }
+                    province = 352
+                }
+
+                b_waldsend = {
+                    color = { 128 249 255 }
+                    color2 = { 255 255 255 }
+                    province = 353
+                }
+
+                b_helmdahl = {
+                    color = { 128 249 130 }
+                    color2 = { 255 255 255 }
+                    province = 354
+                }
+
+            }
+
+            c_lodenbach = {
+                color = { 128 249 190 }
+                color2 = { 255 255 255 }
+
+                b_lodenbach = {
+                    color = { 128 249 190 }
+                    color2 = { 255 255 255 }
+                    province = 355
+                }
+
+            }
+
+            c_immlingen = {
+                color = { 82 129 0 }
+                color2 = { 255 255 255 }
+
+                b_dreistein = {
+                    color = { 82 129 0 }
+                    color2 = { 255 255 255 }
+                    province = 356
+                }
+
+                b_wolfsfels = {
+                    color = { 82 129 255 }
+                    color2 = { 255 255 255 }
+                    province = 357
+                }
+
+            }
+
+            c_meidenstein = {
+                color = { 122 248 0 }
+                color2 = { 255 255 255 }
+
+                b_meidenstein = {
+                    color = { 122 248 0 }
+                    color2 = { 255 255 255 }
+                    province = 358
+                }
+
+                b_barken = {
+                    color = { 122 248 255 }
+                    color2 = { 255 255 255 }
+                    province = 359
+                }
+
+            }
+
+            c_rappenfluhe = {
+                color = { 76 225 0 }
+                color2 = { 255 255 255 }
+
+                b_rappenstein = {
+                    color = { 76 225 0 }
+                    color2 = { 255 255 255 }
+                    province = 360
+                }
+
+                b_rappenfluhe = {
+                    color = { 76 225 255 }
+                    color2 = { 255 255 255 }
+                    province = 361
+                }
+
+            }
+
+            c_mistelhausen = {
+                color = { 76 225 80 }
+                color2 = { 255 255 255 }
+
+                b_mistelstein = {
+                    color = { 76 225 80 }
+                    color2 = { 255 255 255 }
+                    province = 362
+                }
+
+                b_mistelhausen = {
+                    color = { 76 225 160 }
+                    color2 = { 255 255 255 }
+                    province = 363
+                }
+
+            }
+
+            c_rosenbusch = {
+                color = { 0 229 255 }
+                color2 = { 255 255 255 }
+
+                b_dornstyn = {
+                    color = { 0 229 255 }
+                    color2 = { 255 255 255 }
+                    province = 364
+                }
+
+                b_rosenhausen = {
+                    color = { 0 229 130 }
+                    color2 = { 255 255 255 }
+                    province = 365
+                }
+
+                b_dorntempel = {
+                    color = { 0 229 0 }
+                    color2 = { 255 255 255 }
+                    province = 366
+                }
+
+            }
+
+            c_hallingen = {
+                color = { 34 203 0 }
+                color2 = { 255 255 255 }
+
+                b_bregelsaum = {
+                    color = { 34 203 0 }
+                    color2 = { 255 255 255 }
+                    province = 367
+                }
+
+                b_hallingen = {
+                    color = { 34 203 255 }
+                    color2 = { 255 255 255 }
+                    province = 368
+                }
+
+            }
+
+            c_bruecksgau = {
+                color = { 252 16 0 }
+                color2 = { 255 255 255 }
+
+                b_brueckstein = {
+                    color = { 252 16 0 }
+                    color2 = { 255 255 255 }
+                    province = 369
+                }
+
+                b_bruecksgau = {
+                    color = { 252 16 255 }
+                    color2 = { 255 255 255 }
+                    province = 370
+                }
+
+            }
+
+            c_waldmarkt = {
+                color = { 131 197 0 }
+                color2 = { 255 255 255 }
+
+                b_lauben = {
+                    color = { 131 197 0 }
+                    color2 = { 255 255 255 }
+                    province = 371
+                }
+
+                b_hirschwailer = {
+                    color = { 131 197 255 }
+                    color2 = { 255 255 255 }
+                    province = 372
+                }
+
+            }
+
+            c_galbenburg = {
+                color = { 237 51 255 }
+                color2 = { 255 255 255 }
+
+                b_galbenburg = {
+                    color = { 237 51 255 }
+                    color2 = { 255 255 255 }
+                    province = 373
+                }
+
+                b_galbenweiler = {
+                    color = { 237 51 130 }
+                    color2 = { 255 255 255 }
+                    province = 374
+                }
+
+                b_galbenstein = {
+                    color = { 237 51 0 }
+                    color2 = { 255 255 255 }
+                    province = 375
+                }
+
+            }
+
+            c_dergelsmund = {
+                color = { 46 81 255 }
+                color2 = { 255 255 255 }
+
+                b_dergelheim = {
+                    color = { 46 81 255 }
+                    color2 = { 255 255 255 }
+                    province = 376
+                }
+
+                b_perz = {
+                    color = { 46 81 130 }
+                    color2 = { 255 255 255 }
+                    province = 377
+                }
+
+                b_st_praiodan = {
+                    color = { 46 81 0 }
+                    color2 = { 255 255 255 }
+                    province = 378
+                }
+
+            }
+
+            c_koenigsweber = {
+                color = { 175 175 255 }
+                color2 = { 255 255 255 }
+
+                b_leffenstein = {
+                    color = { 175 175 255 }
+                    color2 = { 255 255 255 }
+                    province = 379
+                }
+
+                b_berler = {
+                    color = { 175 175 130 }
+                    color2 = { 255 255 255 }
+                    province = 380
+                }
+
+                b_binsboeckel = {
+                    color = { 175 175 0 }
+                    color2 = { 255 255 255 }
+                    province = 381
+                }
+
+            }
+
+            c_broeckling = {
+                color = { 210 126 0 }
+                color2 = { 255 255 255 }
+
+                b_rabenmund = {
+                    color = { 210 126 0 }
+                    color2 = { 255 255 255 }
+                    province = 382
+                }
+
+                b_broeckling = {
+                    color = { 210 126 255 }
+                    color2 = { 255 255 255 }
+                    province = 383
+                }
+
+            }
+
+            c_schlotz = {
+                color = { 210 126 130 }
+                color2 = { 255 255 255 }
+
+                b_schlotz = {
+                    color = { 210 126 130 }
+                    color2 = { 255 255 255 }
+                    province = 384
+                }
+
+            }
+
+            c_oppstein = {
+                color = { 150 26 0 }
+                color2 = { 255 255 255 }
+
+                b_schwerterburg = {
+                    color = { 150 26 0 }
+                    color2 = { 255 255 255 }
+                    province = 385
+                }
+
+                b_oppstein = {
+                    color = { 150 26 255 }
+                    color2 = { 255 255 255 }
+                    province = 386
+                }
+
+                b_drachweiler = {
+                    color = { 150 26 130 }
+                    color2 = { 255 255 255 }
+                    province = 387
+                }
+
+            }
+
+            c_friedwang = {
+                color = { 1 117 0 }
+                color2 = { 255 255 255 }
+
+                b_friedstein = {
+                    color = { 1 117 0 }
+                    color2 = { 255 255 255 }
+                    province = 388
+                }
+
+                b_friedwang = {
+                    color = { 1 117 255 }
+                    color2 = { 255 255 255 }
+                    province = 389
+                }
+
+                b_nordenheim = {
+                    color = { 1 117 130 }
+                    color2 = { 255 255 255 }
+                    province = 390
+                }
+
+            }
+
+            c_wutzenwald = {
+                color = { 187 50 0 }
+                color2 = { 255 255 255 }
+
+                b_wutzenwald = {
+                    color = { 187 50 0 }
+                    color2 = { 255 255 255 }
+                    province = 391
+                }
+
+            }
+
+        }
+
+        d_trollzacken = {
+            color = { 94 195 130 }
+            color2 = { 255 255 255 }
+            capital = c_altzoll
+
+            c_altzoll = {
+                color = { 94 195 130 }
+                color2 = { 255 255 255 }
+
+                b_altzoll = {
+                    color = { 94 195 130 }
+                    color2 = { 255 255 255 }
+                    province = 392
+                }
+
+                b_wulfen = {
+                    color = { 94 195 0 }
+                    color2 = { 255 255 255 }
+                    province = 393
+                }
+
+                b_storckenfels = {
+                    color = { 94 195 255 }
+                    color2 = { 255 255 255 }
+                    province = 394
+                }
+
+            }
+
+            c_rechthag = {
+                color = { 238 251 0 }
+                color2 = { 255 255 255 }
+
+                b_rechthag_1 = {
+                    color = { 238 251 0 }
+                    color2 = { 255 255 255 }
+                    province = 395
+                }
+
+                b_rechthag_2 = {
+                    color = { 238 251 255 }
+                    color2 = { 255 255 255 }
+                    province = 396
+                }
+
+            }
+
+            c_trutzenburg = {
+                color = { 238 251 130 }
+                color2 = { 255 255 255 }
+
+                b_trutzburg = {
+                    color = { 238 251 130 }
+                    color2 = { 255 255 255 }
+                    province = 397
+                }
+
+            }
+
+            c_ostenklotz = {
+                color = { 118 16 0 }
+                color2 = { 255 255 255 }
+
+                b_golzburg = {
+                    color = { 118 16 0 }
+                    color2 = { 255 255 255 }
+                    province = 398
+                }
+
+                b_golzheim = {
+                    color = { 118 16 255 }
+                    color2 = { 255 255 255 }
+                    province = 399
+                }
+
+            }
+
+            c_aehrengatter = {
+                color = { 118 16 80 }
+                color2 = { 255 255 255 }
+
+                b_gatterburg = {
+                    color = { 118 16 80 }
+                    color2 = { 255 255 255 }
+                    province = 400
+                }
+
+                b_radil = {
+                    color = { 118 16 160 }
+                    color2 = { 255 255 255 }
+                    province = 401
+                }
+
+            }
+
+            c_zumbelweide = {
+                color = { 72 17 0 }
+                color2 = { 255 255 255 }
+
+                b_zumbelburg = {
+                    color = { 72 17 0 }
+                    color2 = { 255 255 255 }
+                    province = 402
+                }
+
+                b_zumbelstett = {
+                    color = { 72 17 255 }
+                    color2 = { 255 255 255 }
+                    province = 403
+                }
+
+            }
+
+            c_sensenhoeh = {
+                color = { 72 17 80 }
+                color2 = { 255 255 255 }
+
+                b_sensenhoeh = {
+                    color = { 72 17 80 }
+                    color2 = { 255 255 255 }
+                    province = 404
+                }
+
+                b_sensenmatt = {
+                    color = { 72 17 160 }
+                    color2 = { 255 255 255 }
+                    province = 405
+                }
+
+            }
+
+            c_praiosau = {
+                color = { 46 190 0 }
+                color2 = { 255 255 255 }
+
+                b_praiosau = {
+                    color = { 46 190 0 }
+                    color2 = { 255 255 255 }
+                    province = 406
+                }
+
+                b_aarentann = {
+                    color = { 46 190 255 }
+                    color2 = { 255 255 255 }
+                    province = 407
+                }
+
+            }
+
+            c_rabenfeld = {
+                color = { 46 190 80 }
+                color2 = { 255 255 255 }
+
+                b_rabenberg = {
+                    color = { 46 190 80 }
+                    color2 = { 255 255 255 }
+                    province = 408
+                }
+
+                b_rabenfeld = {
+                    color = { 46 190 160 }
+                    color2 = { 255 255 255 }
+                    province = 409
+                }
+
+            }
+
+            c_eckelstor = {
+                color = { 207 26 0 }
+                color2 = { 255 255 255 }
+
+                b_eckelstein = {
+                    color = { 207 26 0 }
+                    color2 = { 255 255 255 }
+                    province = 410
+                }
+
+                b_eckelstor = {
+                    color = { 207 26 255 }
+                    color2 = { 255 255 255 }
+                    province = 411
+                }
+
+            }
+
+            c_westerklotz = {
+                color = { 207 26 80 }
+                color2 = { 255 255 255 }
+
+                b_alt_bergenbach = {
+                    color = { 207 26 80 }
+                    color2 = { 255 255 255 }
+                    province = 412
+                }
+
+                b_hagens_hof = {
+                    color = { 207 26 160 }
+                    color2 = { 255 255 255 }
+                    province = 413
+                }
+
+            }
+
+            c_wassertaelern = {
+                color = { 191 203 0 }
+                color2 = { 255 255 255 }
+
+                b_wassertaelern = {
+                    color = { 191 203 0 }
+                    color2 = { 255 255 255 }
+                    province = 414
+                }
+
+            }
+
+            c_taelerort = {
+                color = { 191 203 255 }
+                color2 = { 255 255 255 }
+
+                b_taelerort = {
+                    color = { 191 203 255 }
+                    color2 = { 255 255 255 }
+                    province = 415
+                }
+
+            }
+
+            c_rotenzenn = {
+                color = { 191 203 80 }
+                color2 = { 255 255 255 }
+
+                b_rotenzenn = {
+                    color = { 191 203 80 }
+                    color2 = { 255 255 255 }
+                    province = 416
+                }
+
+            }
+
+            c_trollstaett = {
+                color = { 191 203 160 }
+                color2 = { 255 255 255 }
+
+                b_trollstaett = {
+                    color = { 191 203 160 }
+                    color2 = { 255 255 255 }
+                    province = 417
+                }
+
+            }
+
+            c_gugelforst = {
+                color = { 202 143 0 }
+                color2 = { 255 255 255 }
+
+                b_gugelstett = {
+                    color = { 202 143 0 }
+                    color2 = { 255 255 255 }
+                    province = 418
+                }
+
+                b_lorsunk = {
+                    color = { 202 143 255 }
+                    color2 = { 255 255 255 }
+                    province = 419
+                }
+
+            }
+
+            c_trollsgau = {
+                color = { 202 143 80 }
+                color2 = { 255 255 255 }
+
+                b_trollzwinge = {
+                    color = { 202 143 80 }
+                    color2 = { 255 255 255 }
+                    province = 420
+                }
+
+                b_adlerhorst = {
+                    color = { 202 143 160 }
+                    color2 = { 255 255 255 }
+                    province = 421
+                }
+
+            }
+
+            c_knoppsberg = {
+                color = { 138 41 0 }
+                color2 = { 255 255 255 }
+
+                b_knoppsberg = {
+                    color = { 138 41 0 }
+                    color2 = { 255 255 255 }
+                    province = 422
+                }
+
+                b_feldhuetten = {
+                    color = { 138 41 255 }
+                    color2 = { 255 255 255 }
+                    province = 423
+                }
+
+            }
+
+            c_zackenberg = {
+                color = { 138 41 65 }
+                color2 = { 255 255 255 }
+
+                b_trollkamm = {
+                    color = { 138 41 65 }
+                    color2 = { 255 255 255 }
+                    province = 424
+                }
+
+                b_zackenberg = {
+                    color = { 138 41 130 }
+                    color2 = { 255 255 255 }
+                    province = 425
+                }
+
+                b_felshoehn = {
+                    color = { 138 41 195 }
+                    color2 = { 255 255 255 }
+                    province = 426
+                }
+
+            }
+
+            c_gluckenhang = {
+                color = { 27 162 0 }
+                color2 = { 255 255 255 }
+
+                b_gluckenhang = {
+                    color = { 27 162 0 }
+                    color2 = { 255 255 255 }
+                    province = 427
+                }
+
+                b_zuderfal = {
+                    color = { 27 162 255 }
+                    color2 = { 255 255 255 }
+                    province = 428
+                }
+
+                b_urbach = {
+                    color = { 27 162 130 }
+                    color2 = { 255 255 255 }
+                    province = 429
+                }
+
+            }
+
+            c_bergthann = {
+                color = { 125 137 0 }
+                color2 = { 255 255 255 }
+
+                b_thannfest = {
+                    color = { 125 137 0 }
+                    color2 = { 255 255 255 }
+                    province = 430
+                }
+
+                b_dergelmund = {
+                    color = { 125 137 255 }
+                    color2 = { 255 255 255 }
+                    province = 431
+                }
+
+                b_zackenwacht = {
+                    color = { 125 137 130 }
+                    color2 = { 255 255 255 }
+                    province = 432
+                }
+
+            }
+
+            c_vellberg = {
+                color = { 58 220 0 }
+                color2 = { 255 255 255 }
+
+                b_mallvenstein = {
+                    color = { 58 220 0 }
+                    color2 = { 255 255 255 }
+                    province = 433
+                }
+
+                b_vellberg = {
+                    color = { 58 220 255 }
+                    color2 = { 255 255 255 }
+                    province = 434
+                }
+
+            }
+
+            c_arvepass = {
+                color = { 58 220 80 }
+                color2 = { 255 255 255 }
+
+                b_angareth = {
+                    color = { 58 220 80 }
+                    color2 = { 255 255 255 }
+                    province = 435
+                }
+
+                b_bergesruh = {
+                    color = { 58 220 160 }
+                    color2 = { 255 255 255 }
+                    province = 436
+                }
+
+            }
+
+            c_trollnase = {
+                color = { 54 181 0 }
+                color2 = { 255 255 255 }
+
+                b_cave_of_strutzz_ = {
+                    color = { 54 181 0 }
+                    color2 = { 255 255 255 }
+                    province = 437
+                }
+
+                b_cravolds_haag = {
+                    color = { 54 181 255 }
+                    color2 = { 255 255 255 }
+                    province = 438
+                }
+
+            }
+
+            c_gadang = {
+                color = { 54 181 80 }
+                color2 = { 255 255 255 }
+
+                b_firunsau = {
+                    color = { 54 181 80 }
+                    color2 = { 255 255 255 }
+                    province = 439
+                }
+
+            }
+
+            c_gorbingen = {
+                color = { 54 181 160 }
+                color2 = { 255 255 255 }
+
+                b_morgan = {
+                    color = { 54 181 160 }
+                    color2 = { 255 255 255 }
+                    province = 440
+                }
+
+            }
+
+            c_hengefeldt = {
+                color = { 240 183 0 }
+                color2 = { 255 255 255 }
+
+                b_hengefels = {
+                    color = { 240 183 0 }
+                    color2 = { 255 255 255 }
+                    province = 441
+                }
+
+                b_treuenklamm = {
+                    color = { 240 183 255 }
+                    color2 = { 255 255 255 }
+                    province = 442
+                }
+
+            }
+
+            c_efferdstraene = {
+                color = { 240 183 80 }
+                color2 = { 255 255 255 }
+
+                b_efferdstraene = {
+                    color = { 240 183 80 }
+                    color2 = { 255 255 255 }
+                    province = 443
+                }
+
+                b_jolis = {
+                    color = { 240 183 160 }
+                    color2 = { 255 255 255 }
+                    province = 444
+                }
+
+            }
+
+        }
+
+        d_zweimuehlen_zwerch = {
+            color = { 0 0 0 }
+            color2 = { 255 255 255 }
+            capital = c_zweimuehlen
+
+        }
+
+    }
+
+    k_traviamark = {
+        color = { 0 0 0 }
+        color2 = { 255 255 255 }
+        capital = c_rommilys
+
+    }
+
+    k_rommilyser_mark = {
+        color = { 0 0 0 }
+        color2 = { 255 255 255 }
+        capital = c_rommilys
+
+    }
+
+    k_rabenmark = {
+        color = { 0 0 0 }
+        color2 = { 255 255 255 }
+        capital = c_altzoll
+
+    }
+
+    k_tobrien = {
+        color = { 124 85 0 }
+        color2 = { 255 255 255 }
+        capital = c_beilunk
+
+        d_beilunk = {
+            color = { 124 85 0 }
+            color2 = { 255 255 255 }
+            capital = c_beilunk
+
+            c_beilunk = {
+                color = { 124 85 0 }
+                color2 = { 255 255 255 }
+
+                b_oberbeilunk = {
+                    color = { 124 85 0 }
+                    color2 = { 255 255 255 }
+                    province = 445
+                }
+
+                b_beilunk = {
+                    color = { 124 85 255 }
+                    color2 = { 255 255 255 }
+                    province = 446
+                }
+
+            }
+
+            c_drileuen = {
+                color = { 124 85 80 }
+                color2 = { 255 255 255 }
+
+                b_drileuen = {
+                    color = { 124 85 80 }
+                    color2 = { 255 255 255 }
+                    province = 447
+                }
+
+                b_neu_hargenborn = {
+                    color = { 124 85 160 }
+                    color2 = { 255 255 255 }
+                    province = 448
+                }
+
+            }
+
+            c_borobunth = {
+                color = { 9 212 0 }
+                color2 = { 255 255 255 }
+
+                b_borobunth = {
+                    color = { 9 212 0 }
+                    color2 = { 255 255 255 }
+                    province = 449
+                }
+
+                b_borostett = {
+                    color = { 9 212 255 }
+                    color2 = { 255 255 255 }
+                    province = 450
+                }
+
+            }
+
+            c_greifenau = {
+                color = { 9 212 80 }
+                color2 = { 255 255 255 }
+
+                b_greifenau = {
+                    color = { 9 212 80 }
+                    color2 = { 255 255 255 }
+                    province = 451
+                }
+
+            }
+
+            c_gruenau = {
+                color = { 151 160 0 }
+                color2 = { 255 255 255 }
+
+                b_gruenau = {
+                    color = { 151 160 0 }
+                    color2 = { 255 255 255 }
+                    province = 452
+                }
+
+                b_bedofeld = {
+                    color = { 151 160 255 }
+                    color2 = { 255 255 255 }
+                    province = 453
+                }
+
+            }
+
+            c_grenzmarken = {
+                color = { 151 160 80 }
+                color2 = { 255 255 255 }
+
+                b_grenzmarken = {
+                    color = { 151 160 80 }
+                    color2 = { 255 255 255 }
+                    province = 454
+                }
+
+            }
+
+            c_valdahon = {
+                color = { 90 231 80 }
+                color2 = { 255 255 255 }
+
+                b_valdahon = {
+                    color = { 90 231 80 }
+                    color2 = { 255 255 255 }
+                    province = 456
+                }
+
+            }
+
+            c_maich = {
+                color = { 90 231 255 }
+                color2 = { 255 255 255 }
+
+                b_maich = {
+                    color = { 90 231 255 }
+                    color2 = { 255 255 255 }
+                    province = 457
+                }
+
+                b_maichenmatt = {
+                    color = { 90 231 0 }
+                    color2 = { 255 255 255 }
+                    province = 458
+                }
+
+            }
+
+            c_lorgoloschs_ring = {
+                color = { 90 231 160 }
+                color2 = { 255 255 255 }
+
+                b_ringfeste = {
+                    color = { 90 231 160 }
+                    color2 = { 255 255 255 }
+                    province = 459
+                }
+
+                b_durbosch = {
+                    color = { 90 231 120 }
+                    color2 = { 255 255 255 }
+                    province = 460
+                }
+
+            }
+
+            c_foehrenkuppe = {
+                color = { 145 243 80 }
+                color2 = { 255 255 255 }
+
+                b_foehrenkuppe = {
+                    color = { 145 243 80 }
+                    color2 = { 255 255 255 }
+                    province = 461
+                }
+
+            }
+
+            c_grai = {
+                color = { 145 243 255 }
+                color2 = { 255 255 255 }
+
+                b_grai = {
+                    color = { 145 243 255 }
+                    color2 = { 255 255 255 }
+                    province = 462
+                }
+
+            }
+
+            c_ouhan = {
+                color = { 151 160 160 }
+                color2 = { 255 255 255 }
+
+                b_ouhan = {
+                    color = { 151 160 160 }
+                    color2 = { 255 255 255 }
+                    province = 455
+                }
+
+            }
+
+            c_zweiseen = {
+                color = { 145 243 0 }
+                color2 = { 255 255 255 }
+
+                b_zweiseen = {
+                    color = { 145 243 0 }
+                    color2 = { 255 255 255 }
+                    province = 463
+                }
+
+            }
+
+            c_shamaham = {
+                color = { 145 243 160 }
+                color2 = { 255 255 255 }
+
+                b_shamaham = {
+                    color = { 145 243 160 }
+                    color2 = { 255 255 255 }
+                    province = 464
+                }
+
+                b_kendram = {
+                    color = { 145 243 120 }
+                    color2 = { 255 255 255 }
+                    province = 465
+                }
+
+            }
+
+            c_kleinfurt = {
+                color = { 73 171 80 }
+                color2 = { 255 255 255 }
+
+                b_kleinfurt = {
+                    color = { 73 171 80 }
+                    color2 = { 255 255 255 }
+                    province = 466
+                }
+
+            }
+
+            c_waldereck = {
+                color = { 73 171 255 }
+                color2 = { 255 255 255 }
+
+                b_waldereck = {
+                    color = { 73 171 255 }
+                    color2 = { 255 255 255 }
+                    province = 467
+                }
+
+            }
+
+            c_ogerbusch = {
+                color = { 73 171 0 }
+                color2 = { 255 255 255 }
+
+                b_ogerbusch = {
+                    color = { 73 171 0 }
+                    color2 = { 255 255 255 }
+                    province = 468
+                }
+
+            }
+
+            c_norbeneck = {
+                color = { 73 171 160 }
+                color2 = { 255 255 255 }
+
+                b_norbenstein = {
+                    color = { 73 171 160 }
+                    color2 = { 255 255 255 }
+                    province = 469
+                }
+
+                b_norbeneck = {
+                    color = { 73 171 120 }
+                    color2 = { 255 255 255 }
+                    province = 470
+                }
+
+            }
+
+            c_arbasien = {
+                color = { 50 75 80 }
+                color2 = { 255 255 255 }
+
+                b_arbenforst = {
+                    color = { 50 75 80 }
+                    color2 = { 255 255 255 }
+                    province = 471
+                }
+
+                b_arbasien = {
+                    color = { 50 75 255 }
+                    color2 = { 255 255 255 }
+                    province = 472
+                }
+
+            }
+
+            c_saldersand = {
+                color = { 50 75 0 }
+                color2 = { 255 255 255 }
+
+                b_saldersand = {
+                    color = { 50 75 0 }
+                    color2 = { 255 255 255 }
+                    province = 473
+                }
+
+                b_salderkuest = {
+                    color = { 50 75 160 }
+                    color2 = { 255 255 255 }
+                    province = 474
+                }
+
+            }
+
+            c_rhoderstein = {
+                color = { 140 103 80 }
+                color2 = { 255 255 255 }
+
+                b_rhoderstein = {
+                    color = { 140 103 80 }
+                    color2 = { 255 255 255 }
+                    province = 475
+                }
+
+            }
+
+            c_ostend = {
+                color = { 140 103 255 }
+                color2 = { 255 255 255 }
+
+                b_ostend = {
+                    color = { 140 103 255 }
+                    color2 = { 255 255 255 }
+                    province = 476
+                }
+
+            }
+
+            c_lyll = {
+                color = { 140 103 0 }
+                color2 = { 255 255 255 }
+
+                b_lyll = {
+                    color = { 140 103 0 }
+                    color2 = { 255 255 255 }
+                    province = 477
+                }
+
+                b_amarasch = {
+                    color = { 140 103 160 }
+                    color2 = { 255 255 255 }
+                    province = 478
+                }
+
+            }
+
+        }
+
+        d_mendena = {
+            color = { 143 156 130 }
+            color2 = { 255 255 255 }
+            capital = c_borowein
+
+            c_borowein = {
+                color = { 143 156 130 }
+                color2 = { 255 255 255 }
+
+                b_borowein = {
+                    color = { 143 156 130 }
+                    color2 = { 255 255 255 }
+                    province = 486
+                }
+
+                b_hugesweier = {
+                    color = { 143 156 0 }
+                    color2 = { 255 255 255 }
+                    province = 487
+                }
+
+            }
+
+            c_mendena = {
+                color = { 143 156 255 }
+                color2 = { 255 255 255 }
+
+                b_mendena = {
+                    color = { 143 156 255 }
+                    color2 = { 255 255 255 }
+                    province = 488
+                }
+
+            }
+
+            c_keilerau = {
+                color = { 19 212 80 }
+                color2 = { 255 255 255 }
+
+                b_burgheym = {
+                    color = { 19 212 80 }
+                    color2 = { 255 255 255 }
+                    province = 489
+                }
+
+                b_keilerau = {
+                    color = { 19 212 255 }
+                    color2 = { 255 255 255 }
+                    province = 490
+                }
+
+            }
+
+            c_quellensprung = {
+                color = { 19 212 0 }
+                color2 = { 255 255 255 }
+
+                b_alkenhorst = {
+                    color = { 19 212 0 }
+                    color2 = { 255 255 255 }
+                    province = 491
+                }
+
+                b_hagensmoor = {
+                    color = { 19 212 160 }
+                    color2 = { 255 255 255 }
+                    province = 492
+                }
+
+            }
+
+            c_rallerfeste = {
+                color = { 121 131 80 }
+                color2 = { 255 255 255 }
+
+                b_rallerfeste = {
+                    color = { 121 131 80 }
+                    color2 = { 255 255 255 }
+                    province = 493
+                }
+
+            }
+
+            c_salvunk = {
+                color = { 121 131 255 }
+                color2 = { 255 255 255 }
+
+                b_salvunk = {
+                    color = { 121 131 255 }
+                    color2 = { 255 255 255 }
+                    province = 494
+                }
+
+            }
+
+            c_sardosk = {
+                color = { 121 131 0 }
+                color2 = { 255 255 255 }
+
+                b_loewenstein = {
+                    color = { 121 131 0 }
+                    color2 = { 255 255 255 }
+                    province = 495
+                }
+
+                b_sardosk = {
+                    color = { 121 131 160 }
+                    color2 = { 255 255 255 }
+                    province = 496
+                }
+
+            }
+
+            c_schwarzbuckel = {
+                color = { 88 205 80 }
+                color2 = { 255 255 255 }
+
+                b_schwarzbuckel = {
+                    color = { 88 205 80 }
+                    color2 = { 255 255 255 }
+                    province = 497
+                }
+
+                b_huegelbrunnen = {
+                    color = { 88 205 255 }
+                    color2 = { 255 255 255 }
+                    province = 498
+                }
+
+            }
+
+            c_ulracht = {
+                color = { 88 205 0 }
+                color2 = { 255 255 255 }
+
+                b_ulracht = {
+                    color = { 88 205 0 }
+                    color2 = { 255 255 255 }
+                    province = 499
+                }
+
+            }
+
+            c_zossberg = {
+                color = { 88 205 160 }
+                color2 = { 255 255 255 }
+
+                b_zossberg = {
+                    color = { 88 205 160 }
+                    color2 = { 255 255 255 }
+                    province = 500
+                }
+
+            }
+
+            c_foehrenhain = {
+                color = { 218 221 80 }
+                color2 = { 255 255 255 }
+
+                b_foehrenhain = {
+                    color = { 218 221 80 }
+                    color2 = { 255 255 255 }
+                    province = 501
+                }
+
+            }
+
+            c_muschelstrand = {
+                color = { 218 221 255 }
+                color2 = { 255 255 255 }
+
+                b_muschelstrand = {
+                    color = { 218 221 255 }
+                    color2 = { 255 255 255 }
+                    province = 502
+                }
+
+            }
+
+            c_suedwall = {
+                color = { 218 221 0 }
+                color2 = { 255 255 255 }
+
+                b_sassandra = {
+                    color = { 218 221 0 }
+                    color2 = { 255 255 255 }
+                    province = 503
+                }
+
+                b_dinglingen = {
+                    color = { 218 221 160 }
+                    color2 = { 255 255 255 }
+                    province = 504
+                }
+
+            }
+
+            c_tesral = {
+                color = { 87 49 80 }
+                color2 = { 255 255 255 }
+
+                b_alsum = {
+                    color = { 87 49 80 }
+                    color2 = { 255 255 255 }
+                    province = 505
+                }
+
+            }
+
+            c_kohlrungen = {
+                color = { 87 49 255 }
+                color2 = { 255 255 255 }
+
+                b_kohlrungen = {
+                    color = { 87 49 255 }
+                    color2 = { 255 255 255 }
+                    province = 506
+                }
+
+            }
+
+            c_ilsur = {
+                color = { 87 49 0 }
+                color2 = { 255 255 255 }
+
+                b_isoldern = {
+                    color = { 87 49 0 }
+                    color2 = { 255 255 255 }
+                    province = 507
+                }
+
+                b_ilsur = {
+                    color = { 87 49 160 }
+                    color2 = { 255 255 255 }
+                    province = 508
+                }
+
+            }
+
+            c_rulat = {
+                color = { 173 228 80 }
+                color2 = { 255 255 255 }
+
+                b_perlstein = {
+                    color = { 173 228 80 }
+                    color2 = { 255 255 255 }
+                    province = 509
+                }
+
+                b_port_rulat = {
+                    color = { 173 228 255 }
+                    color2 = { 255 255 255 }
+                    province = 510
+                }
+
+            }
+
+            c_tisal = {
+                color = { 173 228 0 }
+                color2 = { 255 255 255 }
+
+                b_tisal = {
+                    color = { 173 228 0 }
+                    color2 = { 255 255 255 }
+                    province = 511
+                }
+
+            }
+
+        }
+
+    }
+
+    k_beilunk = {
+        color = { 0 0 0 }
+        color2 = { 255 255 255 }
+        capital = c_beilunk
+
+    }
+
+}
+
+e_schwarze_horde = {
+    color = { 0 0 0 }
+    color2 = { 255 255 255 }
+    k_warunkei = {
+        color = { 0 0 0 }
+        color2 = { 255 255 255 }
+        capital = c_altzoll
+
+    }
+
+    k_schwimmende_heptarchie = {
+        color = { 0 0 0 }
+        color2 = { 255 255 255 }
+        capital = c_rulat
+
+    }
+
+    k_xeraanien = {
+        color = { 0 0 0 }
+        color2 = { 255 255 255 }
+        capital = c_borowein
+
+    }
+
+    k_fuerstkomturei = {
+        color = { 0 0 0 }
+        color2 = { 255 255 255 }
+        capital = c_borowein
+
+        d_arbasien = {
+            color = { 0 0 0 }
+            color2 = { 255 255 255 }
+            capital = c_norbeneck
+
+        }
+
+    }
+
+}
+
+k_heliodan = {
+    color = { 0 0 0 }
+    color2 = { 255 255 255 }
+    landless = yes
+    capital = c_raulsmark
+
+}
+
+k_kurkum = {
+    color = { 73 189 80 }
+    color2 = { 255 255 255 }
+    capital = c_kurkum
+
+    d_kurkum = {
+        color = { 73 189 80 }
+        color2 = { 255 255 255 }
+        capital = c_kurkum
+
+        c_kurkum = {
+            color = { 73 189 80 }
+            color2 = { 255 255 255 }
+
+            b_kurkum = {
+                color = { 73 189 80 }
+                color2 = { 255 255 255 }
+                province = 479
+            }
+
+            b_zehnthof = {
+                color = { 73 189 255 }
+                color2 = { 255 255 255 }
+                province = 480
+            }
+
+        }
+
+    }
+
+}
+
+k_lorgolosch = {
+    color = { 73 189 0 }
+    color2 = { 255 255 255 }
+    capital = c_lorgolosch
+
+    d_lorgolosch = {
+        color = { 73 189 0 }
+        color2 = { 255 255 255 }
+        capital = c_lorgolosch
+
+        c_lorgolosch = {
+            color = { 73 189 0 }
+            color2 = { 255 255 255 }
+
+            b_schatodor = {
+                color = { 73 189 0 }
+                color2 = { 255 255 255 }
+                province = 481
+            }
+
+            b_west_lorgolosch = {
+                color = { 73 189 160 }
+                color2 = { 255 255 255 }
+                province = 482
+            }
+
+            b_ost_lorgolosch = {
+                color = { 73 189 120 }
+                color2 = { 255 255 255 }
+                province = 483
+            }
+
+        }
+
+        c_ilderasch = {
+            color = { 247 148 0 }
+            color2 = { 255 255 255 }
+
+            b_ilderasch = {
+                color = { 247 148 0 }
+                color2 = { 255 255 255 }
+                province = 484
+            }
+
+            b_kibrom = {
+                color = { 247 148 255 }
+                color2 = { 255 255 255 }
+                province = 485
+            }
+
+        }
+
+    }
+
+}
+

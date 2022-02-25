@@ -1,0 +1,114 @@
+﻿k_lorgolosch = {
+    800.1.1 = {
+        holder = 674
+    }
+    900.1.1 = {
+        holder = 673
+    }
+    1015.1.1 = {
+        holder = 672
+    }
+}
+
+d_lorgolosch = {
+    1.1.1 = {
+        liege = k_lorgolosch
+    }
+    800.1.1 = {
+        holder = 674
+    }
+    900.1.1 = {
+        holder = 673
+    }
+    1015.1.1 = {
+        holder = 672
+    }
+}
+
+c_lorgolosch = {
+    1.1.1 = {
+        liege = d_lorgolosch
+    }
+    800.1.1 = {
+        holder = 674
+    }
+    900.1.1 = {
+        holder = 673
+    }
+    1015.1.1 = {
+        holder = 672
+    }
+    1020.1.1 = {
+        holder = 667
+    }
+    1020.1.1 = {
+        liege = k_xeraanien
+    }
+    1029.1.1 = {
+        holder = 584
+    }
+    1029.1.1 = {
+        liege = k_fuerstkomturei
+    }
+    1032.1.1 = {
+        holder = 668
+    }
+    1039.1.1 = {
+        holder = 660
+    }
+}
+
+b_schatodor = {
+    1.1.1 = {
+        liege = c_lorgolosch
+    }
+}
+
+b_west_lorgolosch = {
+    1.1.1 = {
+        liege = c_lorgolosch
+    }
+}
+
+b_ost_lorgolosch = {
+    1.1.1 = {
+        liege = c_lorgolosch
+    }
+}
+
+c_ilderasch = {
+    1.1.1 = {
+        liege = d_lorgolosch
+    }
+    1020.1.1 = {
+        holder = 667
+    }
+    1020.1.1 = {
+        liege = k_xeraanien
+    }
+    1029.1.1 = {
+        holder = 584
+    }
+    1029.1.1 = {
+        liege = k_fuerstkomturei
+    }
+    1032.1.1 = {
+        holder = 668
+    }
+    1039.1.1 = {
+        holder = 660
+    }
+}
+
+b_ilderasch = {
+    1.1.1 = {
+        liege = c_ilderasch
+    }
+}
+
+b_kibrom = {
+    1.1.1 = {
+        liege = c_ilderasch
+    }
+}
+

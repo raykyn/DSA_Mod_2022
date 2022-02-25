@@ -1,0 +1,12 @@
+﻿k_xeraanien = {
+    1.1.1 = {
+        liege = e_schwarze_horde
+    }
+    1019.1.1 = {
+        holder = 667
+    }
+    1029.1.1 = {
+        holder = 0
+    }
+}
+

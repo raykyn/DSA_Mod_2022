@@ -1,0 +1,9 @@
+﻿k_perricum = {
+    1.1.1 = {
+        liege = e_mittelreich
+    }
+    1028.1.1 = {
+        holder = 463
+    }
+}
+

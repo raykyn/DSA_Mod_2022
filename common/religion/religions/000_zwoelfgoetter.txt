@@ -1,0 +1,217 @@
+zwoelfgoetter_religion = {
+	family = rf_abrahamic
+	
+	graphical_faith = catholic_gfx
+	
+	piety_icon_group = christian
+	doctrine_background_icon = core_tenet_banner_christian.dds
+	
+	# Main
+	doctrine = doctrine_gender_equal
+	doctrine = doctrine_pluralism_righteous
+	doctrine = doctrine_theocracy_temporal
+	doctrine = doctrine_spiritual_head
+	
+	# Marriage doctrines
+	doctrine = doctrine_monogamy
+	doctrine = doctrine_divorce_approval
+	doctrine = doctrine_bastardry_legitimization
+	doctrine = doctrine_consanguinity_cousins
+	
+	# Crime doctrines
+	doctrine = doctrine_homosexuality_accepted
+	doctrine = doctrine_deviancy_crime
+	doctrine = doctrine_adultery_men_shunned
+	doctrine = doctrine_adultery_women_shunned
+	doctrine = doctrine_kinslaying_close_kin_crime
+	doctrine = doctrine_witchcraft_shunned
+	
+	# Clergy
+	doctrine = doctrine_clerical_function_taxation
+	doctrine = doctrine_clerical_gender_either
+	doctrine = doctrine_clerical_marriage_allowed
+	doctrine = doctrine_clerical_succession_temporal_appointment
+	
+	traits = {  # especially from a noblemans perspective
+		virtues = { brave honest just }
+		sins = { craven deceitful arbitrary callous sadistic }
+	}
+	
+	reserved_male_names = {
+	}
+	
+	reserved_femalde_names = {
+	}
+	
+	custom_faith_icons = {
+		custom_faith_1 custom_faith_2 custom_faith_3 custom_faith_4 custom_faith_5 custom_faith_6 custom_faith_7 custom_faith_8 custom_faith_9 custom_faith_10 dualism_custom_1 zoroastrian_custom_1 zoroastrian_custom_2 buddhism_custom_1 buddhism_custom_2 buddhism_custom_3 buddhism_custom_4 taoism_custom_1 yazidi_custom_1 sunni_custom_2 sunni_custom_3 sunni_custom_4 ibadi_custom muhakkima_1 muhakkima_2 muhakkima_4 muhakkima_5 muhakkima_6 judaism_custom_1 custom_faith_fp1_fenrir custom_faith_fp1_irminsul custom_faith_fp1_jormungandr custom_faith_fp1_odins_ravens custom_faith_fp1_runestone_moon custom_faith_fp1_thors_hammer custom_faith_fp1_valknut custom_faith_fp1_yggdrasil
+	}
+	
+	holy_order_names = {
+		{ name = "holy_order_zwoelfe" }
+	}
+	
+	holy_order_maa = { armored_horsemen }
+	
+	localization = {
+		HighGodName = praios_name
+		HighGodNamePossessive = praios_name_possessive
+		HighGodNameSheHe = CHARACTER_SHEHE_HE
+		HighGodHerselfHimself = CHARACTER_HIMSELF
+		HighGodHerHis = CHARACTER_HERHIS_HIS
+		HighGodNameAlternate = praios_name_alternate
+		HighGodNameAlternatePossessive = praios_name_alternate_possessive
+
+		#Creator
+		CreatorName = zwoelfe_creator_name
+		CreatorNamePossessive = zwoelfe_creator_name_possessive
+		CreatorSheHe = CHARACTER_SHEHE_HE
+		CreatorHerHis = CHARACTER_HERHIS_HIS
+		CreatorHerHim = CHARACTER_HERHIM_HIM
+
+		#HealthGod
+		HealthGodName = peraine_name
+		HealthGodNamePossessive = peraine_name_possessive
+		HealthGodSheHe = CHARACTER_SHEHE_HE
+		HealthGodHerHis = CHARACTER_HERHIS_HIS
+		HealthGodHerHim = CHARACTER_HERHIM_HIM
+		
+		#FertilityGod
+		FertilityGodName = peraine_name
+		FertilityGodNamePossessive = peraine_name_possessive
+		FertilityGodSheHe = CHARACTER_SHEHE_HE
+		FertilityGodHerHis = CHARACTER_HERHIS_HIS
+		FertilityGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WealthGod
+		WealthGodName = phex_name
+		WealthGodNamePossessive = phex_name_possessive
+		WealthGodSheHe = CHARACTER_SHEHE_HE
+		WealthGodHerHis = CHARACTER_HERHIS_HIS
+		WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+		#HouseholdGod
+		HouseholdGodName = travia_name
+		HouseholdGodNamePossessive = travia_name_possessive
+		HouseholdGodSheHe = CHARACTER_SHEHE_HE
+		HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+		HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+
+		#FateGod
+		FateGodName = phex_name
+		FateGodNamePossessive = phex_name_possessive
+		FateGodSheHe = CHARACTER_SHEHE_IT
+		FateGodHerHis = CHARACTER_HERHIS_ITS
+		FateGodHerHim = CHARACTER_HERHIM_IT
+
+		#KnowledgeGod
+		KnowledgeGodName = hesinde_name
+		KnowledgeGodNamePossessive = hesinde_name_possessive
+		KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+		KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+		KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WarGod
+		WarGodName = rondra_name
+		WarGodNamePossessive = rondra_name_possessive
+		WarGodSheHe = CHARACTER_SHEHE_HE
+		WarGodHerHis = CHARACTER_HERHIS_HIS
+		WarGodHerHim = CHARACTER_HERHIM_HIM
+
+		#TricksterGod
+		TricksterGodName = phex_name
+		TricksterGodNamePossessive = phex_name_possessive
+		TricksterGodSheHe = CHARACTER_SHEHE_SHE
+		TricksterGodHerHis = CHARACTER_HERHIS_HER
+		TricksterGodHerHim = CHARACTER_HERHIM_HER
+
+		#NightGod
+		NightGodName = boron_name
+		NightGodNamePossessive = boron_name_possessive
+		NightGodSheHe = CHARACTER_SHEHE_HE
+		NightGodHerHis = CHARACTER_HERHIS_HIS
+		NightGodHerHim = CHARACTER_HERHIM_HIM
+
+		#WaterGod
+		WaterGodName = efferd_name
+		WaterGodNamePossessive = efferd_name_possessive
+		WaterGodSheHe = CHARACTER_SHEHE_HE
+		WaterGodHerHis = CHARACTER_HERHIS_HIS
+		WaterGodHerHim = CHARACTER_HERHIM_HIM
+
+		PantheonTerm = zwoelfgoetter_pantheon_name
+		PantheonTermHasHave = pantheon_term_have
+		GoodGodNames = {
+			praios_name
+			rondra_name
+			travia_name
+			tsa_name
+			hesinde_name
+			peraine_name
+		}
+		DevilName = namenlose_name
+		DevilNamePossessive = namenlose_name_possessive
+		DevilSheHe = CHARACTER_SHEHE_HE
+		DevilHerHis = CHARACTER_HERHIS_HIS
+		DevilHerselfHimself = CHARACTER_HIMSELF
+		EvilGodNames = {
+			namenlose_name
+			daemonensultan_name
+		}
+		HouseOfWorship = zwoelfe_house_of_worship
+		HouseOfWorshipPlural = zwoelfe_house_of_worship_plural
+		ReligiousSymbol = zwoelfe_religious_symbol
+		ReligiousText = zwoelfe_religious_text
+		ReligiousHeadName = zwoelfe_religious_head_title
+		ReligiousHeadTitleName = zwoelfe_religious_head_title_name
+		DevoteeMale = zwoelfe_devotee_male
+		DevoteeMalePlural = zwoelfe_devotee_male_plural
+		DevoteeFemale = zwoelfe_devotee_female
+		DevoteeFemalePlural = zwoelfe_devotee_female_plural
+		DevoteeNeuter = zwoelfe_devotee_male
+		DevoteeNeuterPlural = zwoelfe_devotee_male_plural
+		PriestMale = zwoelfe_priest_male
+		PriestMalePlural = zwoelfe_priest_male_plural
+		PriestFemale = zwoelfe_priest_female
+		PriestFemalePlural = zwoelfe_priest_female_plural
+		PriestNeuter = zwoelfe_priest_male
+		PriestNeuterPlural = zwoelfe_priest_male_plural
+		AltPriestTermPlural = zwoelfe_alternate_priest_term_plural
+		BishopMale = zwoelfe_bishop_male
+		BishopMalePlural = zwoelfe_bishop_male_plural
+		BishopFemale = zwoelfe_bishop_female
+		BishopFemalePlural = zwoelfe_bishop_female_plural
+		BishopNeuter = zwoelfe_bishop_male
+		BishopNeuterPlural = zwoelfe_bishop_male_plural
+		DivineRealm = zwoelfe_divine_realm
+		PositiveAfterLife = zwoelfe_positive_afterlife
+		NegativeAfterLife = zwoelfe_negative_afterlife
+		DeathDeityName = boron_name
+		DeathDeityNamePossessive = boron_name_possessive
+		DeathDeitySheHe = CHARACTER_SHEHE_HE
+		DeathDeityHerHis = CHARACTER_HERHIS_HIS
+		WitchGodName = satuaria_name
+		WitchGodHerHis = CHARACTER_HERHIS_HER
+		WitchGodSheHe = CHARACTER_SHEHE_SHE
+		WitchGodHerHim = CHARACTER_HERHIM_HER
+		WitchGodMistressMaster = mistress
+		WitchGodMotherFather = mother
+
+		GHWName = ghw_purification
+		GHWNamePlural = ghw_purifications
+	}	
+
+	faiths = {
+		puniner = {
+			color = { 233 178 29 }
+			icon = zoroastrian
+			religious_head = k_heliodan
+			
+			# tenets
+			doctrine = tenet_communion
+			doctrine = tenet_legalism
+			doctrine = tenet_monasticism
+			# doctrine = tenet_armed_pilgrimages
+		}
+	}
+}

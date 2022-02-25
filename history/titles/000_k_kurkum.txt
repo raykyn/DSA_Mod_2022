@@ -1,0 +1,72 @@
+﻿k_kurkum = {
+    915.1.1 = {
+        holder = 671
+    }
+    971.1.1 = {
+        holder = 670
+    }
+    1038.1.1 = {
+        holder = 669
+    }
+}
+
+d_kurkum = {
+    1.1.1 = {
+        liege = k_kurkum
+    }
+    915.1.1 = {
+        holder = 671
+    }
+    971.1.1 = {
+        holder = 670
+    }
+    1038.1.1 = {
+        holder = 669
+    }
+}
+
+c_kurkum = {
+    1.1.1 = {
+        liege = d_kurkum
+    }
+    915.1.1 = {
+        holder = 671
+    }
+    971.1.1 = {
+        holder = 670
+    }
+    1020.1.1 = {
+        holder = 667
+    }
+    1020.1.1 = {
+        liege = k_xeraanien
+    }
+    1029.1.1 = {
+        holder = 584
+    }
+    1029.1.1 = {
+        liege = k_fuerstkomturei
+    }
+    1032.1.1 = {
+        holder = 668
+    }
+    1038.1.1 = {
+        holder = 669
+    }
+    1039.1.1 = {
+        holder = 669
+    }
+}
+
+b_kurkum = {
+    1.1.1 = {
+        liege = c_kurkum
+    }
+}
+
+b_zehnthof = {
+    1.1.1 = {
+        liege = c_kurkum
+    }
+}
+

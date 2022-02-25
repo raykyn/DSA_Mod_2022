@@ -1,0 +1,114 @@
+garetian = {
+    color = { 245 195 56 }
+
+    heritage = heritage_gueldenlaendish
+    ethos = ethos_courtly
+    language = language_garethi
+    martial_custom = martial_custom_equal
+    traditions = { tradition_astute_diplomats tradition_agrarian tradition_legalistic tradition_chivalry }
+
+    name_list = garethi
+
+    coa_gfx = { western_coa_gfx }
+    building_gfx = { western_building_gfx }
+    clothing_gfx = { western_clothing_gfx }
+    unit_gfx = { western_unit_gfx }
+
+    ethnicities = { 10 = caucasian }
+}
+
+darpatian = {
+    color = { 252 165 3 }
+
+    heritage = heritage_gueldenlaendish
+    ethos = ethos_communal
+    language = language_garethi
+    martial_custom = martial_custom_equal
+    traditions = { tradition_esteemed_hospitality tradition_chivalry tradition_wedding_ceremonies tradition_hill_dwellers }
+
+    name_list = garethi
+
+    coa_gfx = { western_coa_gfx }
+    building_gfx = { western_building_gfx }
+    clothing_gfx = { western_clothing_gfx }
+    unit_gfx = { western_unit_gfx }
+
+    ethnicities = { 10 = caucasian }
+}
+
+tobrian = {
+    color = { 3 78 252 }
+
+    heritage = heritage_gueldenlaendish
+    ethos = ethos_stoic
+    language = language_garethi
+    martial_custom = martial_custom_equal
+    traditions = { tradition_chivalry tradition_swords_for_hire tradition_hunters tradition_sacred_hunts }
+
+    name_list = garethi
+
+    coa_gfx = { western_coa_gfx }
+    building_gfx = { western_building_gfx }
+    clothing_gfx = { western_clothing_gfx }
+    unit_gfx = { western_unit_gfx }
+
+    ethnicities = { 10 = caucasian }
+}
+
+hill_dwarves = {
+    color = { 129 153 156 }
+
+    heritage = heritage_dwarvish
+    ethos = ethos_stoic
+    language = language_rogolan
+    martial_custom = martial_custom_male_only
+    traditions = { tradition_metal_craftsmanship tradition_hill_dwellers tradition_staunch_traditionalists tradition_stand_and_fight tradition_sorcerous_metallurgy }
+
+    name_list = dwarvish
+
+    coa_gfx = { western_coa_gfx }
+    building_gfx = { western_building_gfx }
+    clothing_gfx = { western_clothing_gfx }
+    unit_gfx = { western_unit_gfx }
+
+    ethnicities = { 10 = caucasian }
+}
+
+anvil_dwarves = {
+    color = { 83 100 102 }
+
+    heritage = heritage_dwarvish
+    ethos = ethos_stoic
+    language = language_rogolan
+    martial_custom = martial_custom_male_only
+    traditions = { tradition_metal_craftsmanship tradition_mountain_homes tradition_ancient_miners tradition_stand_and_fight tradition_sorcerous_metallurgy }
+
+    name_list = dwarvish
+
+    coa_gfx = { western_coa_gfx }
+    building_gfx = { western_building_gfx }
+    clothing_gfx = { western_clothing_gfx }
+    unit_gfx = { western_unit_gfx }
+
+    ethnicities = { 10 = caucasian }
+}
+
+brilliant_dwarves = {
+    color = { 157 201 207 }
+
+    heritage = heritage_dwarvish
+    ethos = ethos_bureaucratic
+    language = language_rogolan
+    martial_custom = martial_custom_male_only
+    traditions = { tradition_metal_craftsmanship tradition_hill_dwellers tradition_stand_and_fight tradition_sorcerous_metallurgy tradition_hard_working }
+
+    name_list = dwarvish
+
+    coa_gfx = { western_coa_gfx }
+    building_gfx = { western_building_gfx }
+    clothing_gfx = { western_clothing_gfx }
+    unit_gfx = { western_unit_gfx }
+
+    ethnicities = { 10 = caucasian }
+}
+

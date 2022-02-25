@@ -1,0 +1,4632 @@
+﻿k_garetien = {
+    1.1.1 = {
+        liege = e_mittelreich
+    }
+    1.1.1 = {
+        holder = 36
+    }
+    53.1.1 = {
+        holder = 35
+    }
+    98.1.1 = {
+        holder = 34
+    }
+    119.1.1 = {
+        holder = 33
+    }
+    120.1.1 = {
+        holder = 32
+    }
+    172.1.1 = {
+        holder = 31
+    }
+    213.1.1 = {
+        holder = 30
+    }
+    255.1.1 = {
+        holder = 29
+    }
+    275.1.1 = {
+        holder = 28
+    }
+    309.1.1 = {
+        holder = 27
+    }
+    333.1.1 = {
+        holder = 26
+    }
+    335.1.1 = {
+        holder = 25
+    }
+    348.1.1 = {
+        holder = 24
+    }
+    412.1.1 = {
+        holder = 23
+    }
+    419.1.1 = {
+        holder = 22
+    }
+    441.1.1 = {
+        holder = 21
+    }
+    452.1.1 = {
+        holder = 20
+    }
+    455.1.1 = {
+        holder = 19
+    }
+    466.1.1 = {
+        holder = 18
+    }
+    602.1.1 = {
+        holder = 17
+    }
+    645.1.1 = {
+        holder = 16
+    }
+    663.1.1 = {
+        holder = 15
+    }
+    697.1.1 = {
+        holder = 14
+    }
+    728.1.1 = {
+        holder = 13
+    }
+    747.1.1 = {
+        holder = 12
+    }
+    772.1.1 = {
+        holder = 11
+    }
+    809.1.1 = {
+        holder = 10
+    }
+    843.1.1 = {
+        holder = 9
+    }
+    880.1.1 = {
+        holder = 8
+    }
+    902.1.1 = {
+        holder = 37
+    }
+    914.1.1 = {
+        holder = 7
+    }
+    930.1.1 = {
+        holder = 6
+    }
+    948.1.1 = {
+        holder = 5
+    }
+    975.1.1 = {
+        holder = 4
+    }
+    993.1.1 = {
+        holder = 3
+    }
+    1010.1.1 = {
+        holder = 2
+    }
+    1021.1.1 = {
+        holder = 1
+    }
+}
+
+d_gareth = {
+    1.1.1 = {
+        liege = k_garetien
+    }
+    1.1.1 = {
+        holder = 36
+    }
+    53.1.1 = {
+        holder = 35
+    }
+    98.1.1 = {
+        holder = 34
+    }
+    119.1.1 = {
+        holder = 33
+    }
+    120.1.1 = {
+        holder = 32
+    }
+    172.1.1 = {
+        holder = 31
+    }
+    213.1.1 = {
+        holder = 30
+    }
+    255.1.1 = {
+        holder = 29
+    }
+    275.1.1 = {
+        holder = 28
+    }
+    309.1.1 = {
+        holder = 27
+    }
+    333.1.1 = {
+        holder = 26
+    }
+    335.1.1 = {
+        holder = 25
+    }
+    348.1.1 = {
+        holder = 24
+    }
+    412.1.1 = {
+        holder = 23
+    }
+    419.1.1 = {
+        holder = 22
+    }
+    441.1.1 = {
+        holder = 21
+    }
+    452.1.1 = {
+        holder = 20
+    }
+    455.1.1 = {
+        holder = 19
+    }
+    466.1.1 = {
+        holder = 18
+    }
+    602.1.1 = {
+        holder = 17
+    }
+    645.1.1 = {
+        holder = 16
+    }
+    663.1.1 = {
+        holder = 15
+    }
+    697.1.1 = {
+        holder = 14
+    }
+    728.1.1 = {
+        holder = 13
+    }
+    747.1.1 = {
+        holder = 12
+    }
+    772.1.1 = {
+        holder = 11
+    }
+    809.1.1 = {
+        holder = 10
+    }
+    843.1.1 = {
+        holder = 9
+    }
+    880.1.1 = {
+        holder = 8
+    }
+    902.1.1 = {
+        holder = 37
+    }
+    914.1.1 = {
+        holder = 7
+    }
+    930.1.1 = {
+        holder = 6
+    }
+    948.1.1 = {
+        holder = 5
+    }
+    975.1.1 = {
+        holder = 4
+    }
+    993.1.1 = {
+        holder = 3
+    }
+    1010.1.1 = {
+        holder = 2
+    }
+    1021.1.1 = {
+        holder = 1
+    }
+}
+
+c_raulsmark = {
+    1.1.1 = {
+        liege = d_gareth
+    }
+}
+
+b_rohalsfelden = {
+    1.1.1 = {
+        liege = c_raulsmark
+    }
+}
+
+b_neu_gareth = {
+    1.1.1 = {
+        liege = c_raulsmark
+    }
+}
+
+b_meilersgrund = {
+    1.1.1 = {
+        liege = c_raulsmark
+    }
+}
+
+b_weisshorn = {
+    1.1.1 = {
+        liege = c_raulsmark
+    }
+}
+
+b_goldenkron = {
+    1.1.1 = {
+        liege = c_raulsmark
+    }
+}
+
+c_alt_gareth = {
+    1.1.1 = {
+        liege = d_gareth
+    }
+    1028.1.1 = {
+        holder = 39
+    }
+}
+
+b_alt_gareth = {
+    1.1.1 = {
+        liege = c_alt_gareth
+    }
+}
+
+c_gerbaldsmark = {
+    1.1.1 = {
+        liege = d_gareth
+    }
+}
+
+b_silkwiesen = {
+    1.1.1 = {
+        liege = c_gerbaldsmark
+    }
+}
+
+b_brachenwacht = {
+    1.1.1 = {
+        liege = c_gerbaldsmark
+    }
+}
+
+b_st_ancilla = {
+    1.1.1 = {
+        liege = c_gerbaldsmark
+    }
+}
+
+b_briskengrund = {
+    1.1.1 = {
+        liege = c_gerbaldsmark
+    }
+}
+
+b_wiehingen = {
+    1.1.1 = {
+        liege = c_gerbaldsmark
+    }
+}
+
+c_vierok = {
+    1.1.1 = {
+        liege = d_gareth
+    }
+    335.1.1 = {
+        holder = 51
+    }
+    864.1.1 = {
+        holder = 49
+    }
+    903.1.1 = {
+        holder = 50
+    }
+    908.1.1 = {
+        holder = 47
+    }
+    950.1.1 = {
+        holder = 46
+    }
+    966.1.1 = {
+        holder = 45
+    }
+    1003.1.1 = {
+        holder = 43
+    }
+    1039.1.1 = {
+        holder = 42
+    }
+    1040.1.1 = {
+        holder = 41
+    }
+    1043.1.1 = {
+        holder = 40
+    }
+}
+
+b_schellenpfort = {
+    1.1.1 = {
+        liege = c_vierok
+    }
+}
+
+b_vierok = {
+    1.1.1 = {
+        liege = c_vierok
+    }
+}
+
+b_garafansbrueck = {
+    1.1.1 = {
+        liege = c_vierok
+    }
+}
+
+b_untergardeln = {
+    1.1.1 = {
+        liege = c_vierok
+    }
+}
+
+c_goldenstein = {
+    1.1.1 = {
+        liege = d_gareth
+    }
+}
+
+b_goldenstein = {
+    1.1.1 = {
+        liege = c_goldenstein
+    }
+}
+
+b_nattersquell = {
+    1.1.1 = {
+        liege = c_goldenstein
+    }
+}
+
+b_muehlingen = {
+    1.1.1 = {
+        liege = c_goldenstein
+    }
+}
+
+c_alriksmark = {
+    1.1.1 = {
+        liege = d_gareth
+    }
+    603.1.1 = {
+        holder = 101
+    }
+    638.1.1 = {
+        holder = 100
+    }
+    671.1.1 = {
+        holder = 99
+    }
+    698.1.1 = {
+        holder = 98
+    }
+}
+
+b_alrikshorst = {
+    1.1.1 = {
+        liege = c_alriksmark
+    }
+}
+
+b_alrikshain = {
+    1.1.1 = {
+        liege = c_alriksmark
+    }
+}
+
+b_st_belliatlus = {
+    1.1.1 = {
+        liege = c_alriksmark
+    }
+}
+
+b_finkenbach = {
+    1.1.1 = {
+        liege = c_alriksmark
+    }
+}
+
+c_eslamsmark = {
+    1.1.1 = {
+        liege = d_gareth
+    }
+}
+
+b_menzelshall = {
+    1.1.1 = {
+        liege = c_eslamsmark
+    }
+}
+
+b_ackbar = {
+    1.1.1 = {
+        liege = c_eslamsmark
+    }
+}
+
+b_perainenau = {
+    1.1.1 = {
+        liege = c_eslamsmark
+    }
+}
+
+b_scheuerlintz = {
+    1.1.1 = {
+        liege = c_eslamsmark
+    }
+}
+
+c_sighelmsmark = {
+    1.1.1 = {
+        liege = d_gareth
+    }
+}
+
+b_neusighelmsstein = {
+    1.1.1 = {
+        liege = c_sighelmsmark
+    }
+}
+
+b_gueldenfeldt = {
+    1.1.1 = {
+        liege = c_sighelmsmark
+    }
+}
+
+b_aurenwald = {
+    1.1.1 = {
+        liege = c_sighelmsmark
+    }
+}
+
+b_sighelmsaue = {
+    1.1.1 = {
+        liege = c_sighelmsmark
+    }
+}
+
+c_ochsenblut = {
+    1.1.1 = {
+        liege = d_gareth
+    }
+}
+
+b_ochsenblut = {
+    1.1.1 = {
+        liege = c_ochsenblut
+    }
+}
+
+b_st_radul = {
+    1.1.1 = {
+        liege = c_ochsenblut
+    }
+}
+
+b_mueckenhang = {
+    1.1.1 = {
+        liege = c_ochsenblut
+    }
+}
+
+b_heiterfeld = {
+    1.1.1 = {
+        liege = c_ochsenblut
+    }
+}
+
+b_wagenhalt = {
+    1.1.1 = {
+        liege = c_ochsenblut
+    }
+}
+
+d_schlund = {
+    1.1.1 = {
+        liege = k_garetien
+    }
+    563.1.1 = {
+        holder = 104
+    }
+    575.1.1 = {
+        holder = 103
+    }
+    602.1.1 = {
+        holder = 102
+    }
+    608.1.1 = {
+        holder = 101
+    }
+    638.1.1 = {
+        holder = 100
+    }
+    671.1.1 = {
+        holder = 99
+    }
+    698.1.1 = {
+        holder = 98
+    }
+    710.1.1 = {
+        holder = 96
+    }
+    729.1.1 = {
+        holder = 94
+    }
+    738.1.1 = {
+        holder = 92
+    }
+    769.1.1 = {
+        holder = 91
+    }
+    770.1.1 = {
+        holder = 90
+    }
+    790.1.1 = {
+        holder = 89
+    }
+    802.1.1 = {
+        holder = 88
+    }
+    854.1.1 = {
+        holder = 86
+    }
+    864.1.1 = {
+        holder = 64
+    }
+    880.1.1 = {
+        holder = 63
+    }
+    882.1.1 = {
+        holder = 68
+    }
+    892.1.1 = {
+        holder = 63
+    }
+}
+
+c_ingerimmsschlund = {
+    1.1.1 = {
+        liege = d_schlund
+    }
+    604.1.1 = {
+        holder = 67
+    }
+    712.1.1 = {
+        holder = 66
+    }
+    759.1.1 = {
+        holder = 65
+    }
+    802.1.1 = {
+        holder = 64
+    }
+    880.1.1 = {
+        holder = 63
+    }
+    892.1.1 = {
+        holder = 63
+    }
+}
+
+b_fandolesch = {
+    1.1.1 = {
+        liege = c_ingerimmsschlund
+    }
+}
+
+b_albenfeld = {
+    1.1.1 = {
+        liege = c_ingerimmsschlund
+    }
+}
+
+b_halden = {
+    1.1.1 = {
+        liege = c_ingerimmsschlund
+    }
+}
+
+b_roden = {
+    1.1.1 = {
+        liege = c_ingerimmsschlund
+    }
+}
+
+b_krauzung = {
+    1.1.1 = {
+        liege = c_ingerimmsschlund
+    }
+}
+
+c_nettersquell = {
+    1.1.1 = {
+        liege = d_schlund
+    }
+    890.1.1 = {
+        holder = 62
+    }
+    905.1.1 = {
+        holder = 61
+    }
+    925.1.1 = {
+        holder = 60
+    }
+    929.1.1 = {
+        holder = 59
+    }
+    961.1.1 = {
+        holder = 58
+    }
+    984.1.1 = {
+        holder = 57
+    }
+    1012.1.1 = {
+        holder = 56
+    }
+    1043.1.1 = {
+        holder = 55
+    }
+}
+
+b_gryffenwacht = {
+    1.1.1 = {
+        liege = c_nettersquell
+    }
+}
+
+b_nattergrund = {
+    1.1.1 = {
+        liege = c_nettersquell
+    }
+}
+
+b_praioslob = {
+    1.1.1 = {
+        liege = c_nettersquell
+    }
+}
+
+b_st_ukurien = {
+    1.1.1 = {
+        liege = c_nettersquell
+    }
+}
+
+c_wandleth = {
+    1.1.1 = {
+        liege = d_schlund
+    }
+    7.1.1 = {
+        liege = k_garetien
+    }
+    902.1.1 = {
+        holder = 71
+    }
+    933.1.1 = {
+        holder = 70
+    }
+    1035.1.1 = {
+        holder = 69
+    }
+}
+
+b_wandleth = {
+    1.1.1 = {
+        liege = c_wandleth
+    }
+}
+
+c_erlenstamm = {
+    1.1.1 = {
+        liege = d_schlund
+    }
+    943.1.1 = {
+        holder = 78
+    }
+    956.1.1 = {
+        holder = 77
+    }
+    1003.1.1 = {
+        holder = 76
+    }
+    1019.1.1 = {
+        holder = 74
+    }
+    1032.1.1 = {
+        holder = 73
+    }
+    1043.1.1 = {
+        holder = 72
+    }
+}
+
+b_freudenstein = {
+    1.1.1 = {
+        liege = c_erlenstamm
+    }
+}
+
+b_wiesburg = {
+    1.1.1 = {
+        liege = c_erlenstamm
+    }
+}
+
+b_st_falkhilde = {
+    1.1.1 = {
+        liege = c_erlenstamm
+    }
+}
+
+b_erlengrund = {
+    1.1.1 = {
+        liege = c_erlenstamm
+    }
+}
+
+b_murimel = {
+    1.1.1 = {
+        liege = c_erlenstamm
+    }
+}
+
+c_ruchin = {
+    1.1.1 = {
+        liege = d_schlund
+    }
+    699.1.1 = {
+        holder = 85
+    }
+    898.1.1 = {
+        holder = 84
+    }
+    938.1.1 = {
+        holder = 82
+    }
+    974.1.1 = {
+        holder = 81
+    }
+    1011.1.1 = {
+        holder = 80
+    }
+}
+
+b_kuchin = {
+    1.1.1 = {
+        liege = c_ruchin
+    }
+}
+
+b_ruchin = {
+    1.1.1 = {
+        liege = c_ruchin
+    }
+}
+
+b_schlund = {
+    1.1.1 = {
+        liege = c_ruchin
+    }
+}
+
+b_untergreupel = {
+    1.1.1 = {
+        liege = c_ruchin
+    }
+}
+
+b_hangwald = {
+    1.1.1 = {
+        liege = c_ruchin
+    }
+}
+
+c_torbelstein = {
+    1.1.1 = {
+        liege = d_schlund
+    }
+    602.1.1 = {
+        holder = 17
+    }
+    710.1.1 = {
+        holder = 96
+    }
+    711.1.1 = {
+        holder = 97
+    }
+    729.1.1 = {
+        holder = 94
+    }
+    738.1.1 = {
+        holder = 92
+    }
+    769.1.1 = {
+        holder = 91
+    }
+    770.1.1 = {
+        holder = 90
+    }
+    790.1.1 = {
+        holder = 89
+    }
+    802.1.1 = {
+        holder = 88
+    }
+    854.1.1 = {
+        holder = 86
+    }
+    882.1.1 = {
+        holder = 68
+    }
+}
+
+b_koenigswaldhuet = {
+    1.1.1 = {
+        liege = c_torbelstein
+    }
+}
+
+b_st_dappertin = {
+    1.1.1 = {
+        liege = c_torbelstein
+    }
+}
+
+b_perainsgarten = {
+    1.1.1 = {
+        liege = c_torbelstein
+    }
+}
+
+b_unterdachsen = {
+    1.1.1 = {
+        liege = c_torbelstein
+    }
+}
+
+c_hartsteen = {
+    1.1.1 = {
+        liege = d_schlund
+    }
+    906.1.1 = {
+        holder = 109
+    }
+    928.1.1 = {
+        holder = 108
+    }
+    979.1.1 = {
+        holder = 107
+    }
+    1027.1.1 = {
+        holder = 106
+    }
+    1043.1.1 = {
+        holder = 105
+    }
+}
+
+b_oberhartsteen = {
+    1.1.1 = {
+        liege = c_hartsteen
+    }
+}
+
+b_hartwalden = {
+    1.1.1 = {
+        liege = c_hartsteen
+    }
+}
+
+b_desmetal = {
+    1.1.1 = {
+        liege = c_hartsteen
+    }
+}
+
+b_hausen = {
+    1.1.1 = {
+        liege = c_hartsteen
+    }
+}
+
+b_darpatwacht = {
+    1.1.1 = {
+        liege = c_hartsteen
+    }
+}
+
+c_viehwiesen = {
+    1.1.1 = {
+        liege = d_schlund
+    }
+    602.1.1 = {
+        holder = 128
+    }
+    646.1.1 = {
+        holder = 127
+    }
+    674.1.1 = {
+        holder = 125
+    }
+    715.1.1 = {
+        holder = 124
+    }
+    730.1.1 = {
+        holder = 123
+    }
+    734.1.1 = {
+        holder = 122
+    }
+    780.1.1 = {
+        holder = 121
+    }
+    799.1.1 = {
+        holder = 120
+    }
+    846.1.1 = {
+        holder = 119
+    }
+    861.1.1 = {
+        holder = 118
+    }
+    886.1.1 = {
+        holder = 117
+    }
+    927.1.1 = {
+        holder = 116
+    }
+    951.1.1 = {
+        holder = 115
+    }
+    953.1.1 = {
+        holder = 114
+    }
+    984.1.1 = {
+        holder = 113
+    }
+    988.1.1 = {
+        holder = 112
+    }
+    1003.1.1 = {
+        holder = 111
+    }
+    1032.1.1 = {
+        holder = 110
+    }
+}
+
+b_ox = {
+    1.1.1 = {
+        liege = c_viehwiesen
+    }
+}
+
+b_st_ogdolf = {
+    1.1.1 = {
+        liege = c_viehwiesen
+    }
+}
+
+b_torbelstein = {
+    1.1.1 = {
+        liege = c_viehwiesen
+    }
+}
+
+b_dachsen = {
+    1.1.1 = {
+        liege = c_viehwiesen
+    }
+}
+
+d_eslamsgrund = {
+    1.1.1 = {
+        liege = k_garetien
+    }
+    602.1.1 = {
+        holder = 150
+    }
+    631.1.1 = {
+        holder = 149
+    }
+    647.1.1 = {
+        holder = 148
+    }
+    660.1.1 = {
+        holder = 147
+    }
+    710.1.1 = {
+        holder = 146
+    }
+    713.1.1 = {
+        holder = 145
+    }
+    738.1.1 = {
+        holder = 144
+    }
+    744.1.1 = {
+        holder = 143
+    }
+    789.1.1 = {
+        holder = 142
+    }
+    801.1.1 = {
+        holder = 141
+    }
+    808.1.1 = {
+        holder = 140
+    }
+    825.1.1 = {
+        holder = 139
+    }
+    857.1.1 = {
+        holder = 138
+    }
+    864.1.1 = {
+        holder = 137
+    }
+    901.1.1 = {
+        holder = 136
+    }
+    910.1.1 = {
+        holder = 135
+    }
+    919.1.1 = {
+        holder = 134
+    }
+    975.1.1 = {
+        holder = 133
+    }
+    989.1.1 = {
+        holder = 132
+    }
+    997.1.1 = {
+        holder = 131
+    }
+    1006.1.1 = {
+        holder = 130
+    }
+    1027.1.1 = {
+        holder = 129
+    }
+}
+
+c_eslamsgrund = {
+    1.1.1 = {
+        liege = d_eslamsgrund
+    }
+    602.1.1 = {
+        holder = 150
+    }
+    631.1.1 = {
+        holder = 149
+    }
+    647.1.1 = {
+        holder = 148
+    }
+    660.1.1 = {
+        holder = 147
+    }
+    710.1.1 = {
+        holder = 146
+    }
+    713.1.1 = {
+        holder = 145
+    }
+    738.1.1 = {
+        holder = 144
+    }
+    744.1.1 = {
+        holder = 143
+    }
+    789.1.1 = {
+        holder = 142
+    }
+    801.1.1 = {
+        holder = 141
+    }
+    808.1.1 = {
+        holder = 140
+    }
+    825.1.1 = {
+        holder = 139
+    }
+    857.1.1 = {
+        holder = 138
+    }
+    864.1.1 = {
+        holder = 137
+    }
+    901.1.1 = {
+        holder = 136
+    }
+    910.1.1 = {
+        holder = 135
+    }
+    919.1.1 = {
+        holder = 134
+    }
+    975.1.1 = {
+        holder = 133
+    }
+    989.1.1 = {
+        holder = 132
+    }
+    997.1.1 = {
+        holder = 131
+    }
+    1006.1.1 = {
+        holder = 130
+    }
+    1027.1.1 = {
+        holder = 129
+    }
+}
+
+b_baladinstein = {
+    1.1.1 = {
+        liege = c_eslamsgrund
+    }
+}
+
+b_benget = {
+    1.1.1 = {
+        liege = c_eslamsgrund
+    }
+}
+
+b_grafenfels = {
+    1.1.1 = {
+        liege = c_eslamsgrund
+    }
+}
+
+b_neuenacker = {
+    1.1.1 = {
+        liege = c_eslamsgrund
+    }
+}
+
+b_kaisertal = {
+    1.1.1 = {
+        liege = c_eslamsgrund
+    }
+}
+
+c_eslamsgrund_2 = {
+    1.1.1 = {
+        liege = d_eslamsgrund
+    }
+    7.1.1 = {
+        liege = e_mittelreich
+    }
+    990.1.1 = {
+        holder = 152
+    }
+    1036.1.1 = {
+        holder = 151
+    }
+}
+
+b_eslamsgrund = {
+    1.1.1 = {
+        liege = c_eslamsgrund_2
+    }
+}
+
+c_falkenstein = {
+    1.1.1 = {
+        liege = d_eslamsgrund
+    }
+    727.1.1 = {
+        holder = 164
+    }
+    775.1.1 = {
+        holder = 163
+    }
+    789.1.1 = {
+        holder = 162
+    }
+    804.1.1 = {
+        holder = 161
+    }
+    858.1.1 = {
+        holder = 160
+    }
+    876.1.1 = {
+        holder = 159
+    }
+    894.1.1 = {
+        holder = 158
+    }
+    916.1.1 = {
+        holder = 157
+    }
+    943.1.1 = {
+        holder = 156
+    }
+    993.1.1 = {
+        holder = 155
+    }
+    1003.1.1 = {
+        holder = 154
+    }
+    1013.1.1 = {
+        holder = 153
+    }
+}
+
+b_falkengrund = {
+    1.1.1 = {
+        liege = c_falkenstein
+    }
+}
+
+b_liebchengrund = {
+    1.1.1 = {
+        liege = c_falkenstein
+    }
+}
+
+b_rondratrutz = {
+    1.1.1 = {
+        liege = c_falkenstein
+    }
+}
+
+c_dornensee = {
+    1.1.1 = {
+        liege = d_eslamsgrund
+    }
+}
+
+b_dornau = {
+    1.1.1 = {
+        liege = c_dornensee
+    }
+}
+
+b_praiosgnad = {
+    1.1.1 = {
+        liege = c_dornensee
+    }
+}
+
+b_nimmerjoch = {
+    1.1.1 = {
+        liege = c_dornensee
+    }
+}
+
+b_hortungen = {
+    1.1.1 = {
+        liege = c_dornensee
+    }
+}
+
+c_schlundgau = {
+    1.1.1 = {
+        liege = d_eslamsgrund
+    }
+}
+
+b_rathsamsberge = {
+    1.1.1 = {
+        liege = c_schlundgau
+    }
+}
+
+b_st_berathraban = {
+    1.1.1 = {
+        liege = c_schlundgau
+    }
+}
+
+b_tolakstein = {
+    1.1.1 = {
+        liege = c_schlundgau
+    }
+}
+
+b_joching = {
+    1.1.1 = {
+        liege = c_schlundgau
+    }
+}
+
+c_hoellenwall = {
+    1.1.1 = {
+        liege = d_eslamsgrund
+    }
+    890.1.1 = {
+        holder = 165
+    }
+    913.1.1 = {
+        holder = 166
+    }
+    921.1.1 = {
+        holder = 167
+    }
+    979.1.1 = {
+        holder = 169
+    }
+    1003.1.1 = {
+        holder = 170
+    }
+    1020.1.1 = {
+        holder = 171
+    }
+}
+
+b_silvadon = {
+    1.1.1 = {
+        liege = c_hoellenwall
+    }
+}
+
+b_marmonte = {
+    1.1.1 = {
+        liege = c_hoellenwall
+    }
+}
+
+b_st_ireanor = {
+    1.1.1 = {
+        liege = c_hoellenwall
+    }
+}
+
+b_dornbusch = {
+    1.1.1 = {
+        liege = c_hoellenwall
+    }
+}
+
+c_halhof = {
+    1.1.1 = {
+        liege = d_eslamsgrund
+    }
+}
+
+b_greifenstolz = {
+    1.1.1 = {
+        liege = c_halhof
+    }
+}
+
+b_eychgras = {
+    1.1.1 = {
+        liege = c_halhof
+    }
+}
+
+b_merun = {
+    1.1.1 = {
+        liege = c_halhof
+    }
+}
+
+b_lichterneck = {
+    1.1.1 = {
+        liege = c_halhof
+    }
+}
+
+c_gallstein = {
+    1.1.1 = {
+        liege = d_eslamsgrund
+    }
+    972.1.1 = {
+        holder = 174
+    }
+    1013.1.1 = {
+        holder = 173
+    }
+    1022.1.1 = {
+        holder = 172
+    }
+}
+
+b_mor'tres = {
+    1.1.1 = {
+        liege = c_gallstein
+    }
+}
+
+b_gallestra = {
+    1.1.1 = {
+        liege = c_gallstein
+    }
+}
+
+b_perainefelden = {
+    1.1.1 = {
+        liege = c_gallstein
+    }
+}
+
+b_silberblick = {
+    1.1.1 = {
+        liege = c_gallstein
+    }
+}
+
+c_fremmelsfelde = {
+    1.1.1 = {
+        liege = d_eslamsgrund
+    }
+    980.1.1 = {
+        holder = 178
+    }
+    1011.1.1 = {
+        holder = 177
+    }
+    1019.1.1 = {
+        holder = 130
+    }
+    1021.1.1 = {
+        holder = 176
+    }
+    1031.1.1 = {
+        holder = 175
+    }
+}
+
+b_hahnenfels = {
+    1.1.1 = {
+        liege = c_fremmelsfelde
+    }
+}
+
+b_fremmelshof = {
+    1.1.1 = {
+        liege = c_fremmelsfelde
+    }
+}
+
+b_gippelstein = {
+    1.1.1 = {
+        liege = c_fremmelsfelde
+    }
+}
+
+c_zagbar = {
+    1.1.1 = {
+        liege = d_eslamsgrund
+    }
+    750.1.1 = {
+        holder = 184
+    }
+    832.1.1 = {
+        holder = 183
+    }
+    1020.1.1 = {
+        holder = 182
+    }
+    1030.1.1 = {
+        holder = 179
+    }
+}
+
+b_zagrosch = {
+    1.1.1 = {
+        liege = c_zagbar
+    }
+}
+
+b_zagbar = {
+    1.1.1 = {
+        liege = c_zagbar
+    }
+}
+
+b_kupfergrab = {
+    1.1.1 = {
+        liege = c_zagbar
+    }
+}
+
+d_reichsforst = {
+    1.1.1 = {
+        liege = k_garetien
+    }
+    466.1.1 = {
+        holder = 211
+    }
+    487.1.1 = {
+        holder = 210
+    }
+    506.1.1 = {
+        holder = 209
+    }
+    508.1.1 = {
+        holder = 208
+    }
+    535.1.1 = {
+        holder = 207
+    }
+    551.1.1 = {
+        holder = 206
+    }
+    564.1.1 = {
+        holder = 205
+    }
+    600.1.1 = {
+        holder = 204
+    }
+    648.1.1 = {
+        holder = 203
+    }
+    670.1.1 = {
+        holder = 202
+    }
+    695.1.1 = {
+        holder = 201
+    }
+    717.1.1 = {
+        holder = 200
+    }
+    752.1.1 = {
+        holder = 199
+    }
+    775.1.1 = {
+        holder = 198
+    }
+    777.1.1 = {
+        holder = 197
+    }
+    786.1.1 = {
+        holder = 196
+    }
+    801.1.1 = {
+        holder = 195
+    }
+    819.1.1 = {
+        holder = 194
+    }
+    851.1.1 = {
+        holder = 193
+    }
+    875.1.1 = {
+        holder = 192
+    }
+    903.1.1 = {
+        holder = 191
+    }
+    935.1.1 = {
+        holder = 190
+    }
+    977.1.1 = {
+        holder = 189
+    }
+    980.1.1 = {
+        holder = 188
+    }
+    1003.1.1 = {
+        holder = 187
+    }
+    1039.1.1 = {
+        holder = 186
+    }
+}
+
+c_rubreth = {
+    1.1.1 = {
+        liege = d_reichsforst
+    }
+    466.1.1 = {
+        holder = 211
+    }
+    487.1.1 = {
+        holder = 210
+    }
+    506.1.1 = {
+        holder = 209
+    }
+    508.1.1 = {
+        holder = 208
+    }
+    535.1.1 = {
+        holder = 207
+    }
+    551.1.1 = {
+        holder = 206
+    }
+    564.1.1 = {
+        holder = 205
+    }
+    600.1.1 = {
+        holder = 204
+    }
+    648.1.1 = {
+        holder = 203
+    }
+    670.1.1 = {
+        holder = 202
+    }
+    695.1.1 = {
+        holder = 201
+    }
+    717.1.1 = {
+        holder = 200
+    }
+    752.1.1 = {
+        holder = 199
+    }
+    775.1.1 = {
+        holder = 198
+    }
+    777.1.1 = {
+        holder = 197
+    }
+    786.1.1 = {
+        holder = 196
+    }
+    801.1.1 = {
+        holder = 195
+    }
+    819.1.1 = {
+        holder = 194
+    }
+    851.1.1 = {
+        holder = 193
+    }
+    875.1.1 = {
+        holder = 192
+    }
+    903.1.1 = {
+        holder = 191
+    }
+    935.1.1 = {
+        holder = 190
+    }
+    977.1.1 = {
+        holder = 189
+    }
+    980.1.1 = {
+        holder = 188
+    }
+    1003.1.1 = {
+        holder = 187
+    }
+    1039.1.1 = {
+        holder = 186
+    }
+}
+
+b_rubreth = {
+    1.1.1 = {
+        liege = c_rubreth
+    }
+}
+
+b_waldwiesen = {
+    1.1.1 = {
+        liege = c_rubreth
+    }
+}
+
+b_cresseneck = {
+    1.1.1 = {
+        liege = c_rubreth
+    }
+}
+
+c_randersburg = {
+    1.1.1 = {
+        liege = d_reichsforst
+    }
+}
+
+b_randersburg = {
+    1.1.1 = {
+        liege = c_randersburg
+    }
+}
+
+b_hornbach = {
+    1.1.1 = {
+        liege = c_randersburg
+    }
+}
+
+b_st_barmhilde = {
+    1.1.1 = {
+        liege = c_randersburg
+    }
+}
+
+b_sonnenfeld = {
+    1.1.1 = {
+        liege = c_randersburg
+    }
+}
+
+c_schwarztannen = {
+    1.1.1 = {
+        liege = d_reichsforst
+    }
+    688.1.1 = {
+        holder = 231
+    }
+    729.1.1 = {
+        holder = 230
+    }
+    761.1.1 = {
+        holder = 229
+    }
+    790.1.1 = {
+        holder = 228
+    }
+    821.1.1 = {
+        holder = 227
+    }
+    833.1.1 = {
+        holder = 226
+    }
+    868.6.6 = {
+        holder = 224
+    }
+    868.1.1 = {
+        holder = 225
+    }
+    886.1.1 = {
+        holder = 223
+    }
+    891.1.1 = {
+        holder = 222
+    }
+    911.1.1 = {
+        holder = 221
+    }
+    930.1.1 = {
+        holder = 220
+    }
+    935.1.1 = {
+        holder = 219
+    }
+    959.1.1 = {
+        holder = 218
+    }
+    1008.1.1 = {
+        holder = 217
+    }
+    1027.1.1 = {
+        holder = 216
+    }
+    1043.1.1 = {
+        holder = 215
+    }
+}
+
+b_esenfeld = {
+    1.1.1 = {
+        liege = c_schwarztannen
+    }
+}
+
+b_schwarztannen = {
+    1.1.1 = {
+        liege = c_schwarztannen
+    }
+}
+
+b_hexenmuehle = {
+    1.1.1 = {
+        liege = c_schwarztannen
+    }
+}
+
+b_erlenfall = {
+    1.1.1 = {
+        liege = c_schwarztannen
+    }
+}
+
+c_waldfang = {
+    1.1.1 = {
+        liege = d_reichsforst
+    }
+    938.1.1 = {
+        holder = 236
+    }
+    961.1.1 = {
+        holder = 235
+    }
+    1020.1.1 = {
+        holder = 233
+    }
+    1033.1.1 = {
+        holder = 232
+    }
+}
+
+b_waldfang = {
+    1.1.1 = {
+        liege = c_waldfang
+    }
+}
+
+b_goldlinden = {
+    1.1.1 = {
+        liege = c_waldfang
+    }
+}
+
+b_schweigende_wacht = {
+    1.1.1 = {
+        liege = c_waldfang
+    }
+}
+
+b_hirschpforten = {
+    1.1.1 = {
+        liege = c_waldfang
+    }
+}
+
+c_rallerspfort = {
+    1.1.1 = {
+        liege = d_reichsforst
+    }
+    917.1.1 = {
+        holder = 243
+    }
+    939.1.1 = {
+        holder = 242
+    }
+    988.1.1 = {
+        holder = 241
+    }
+    992.1.1 = {
+        holder = 240
+    }
+    1003.1.1 = {
+        holder = 239
+    }
+    1027.1.1 = {
+        holder = 238
+    }
+    1042.1.1 = {
+        holder = 237
+    }
+}
+
+b_rotkraehenborn = {
+    1.1.1 = {
+        liege = c_rallerspfort
+    }
+}
+
+b_rallerspfort = {
+    1.1.1 = {
+        liege = c_rallerspfort
+    }
+}
+
+b_leuchtenfeld = {
+    1.1.1 = {
+        liege = c_rallerspfort
+    }
+}
+
+c_syrrenholt = {
+    1.1.1 = {
+        liege = d_reichsforst
+    }
+    600.1.1 = {
+        holder = 247
+    }
+    701.1.1 = {
+        holder = 246
+    }
+    933.1.1 = {
+        holder = 245
+    }
+    1014.1.1 = {
+        holder = 244
+    }
+}
+
+b_syrrenholt = {
+    1.1.1 = {
+        liege = c_syrrenholt
+    }
+}
+
+b_untergras = {
+    1.1.1 = {
+        liege = c_syrrenholt
+    }
+}
+
+b_st_emmeran = {
+    1.1.1 = {
+        liege = c_syrrenholt
+    }
+}
+
+c_hirschfurten = {
+    1.1.1 = {
+        liege = d_reichsforst
+    }
+    698.1.1 = {
+        holder = 254
+    }
+    921.1.1 = {
+        holder = 251
+    }
+    954.1.1 = {
+        holder = 250
+    }
+    986.1.1 = {
+        holder = 249
+    }
+    1028.1.1 = {
+        holder = 248
+    }
+}
+
+b_hirschwalden = {
+    1.1.1 = {
+        liege = c_hirschfurten
+    }
+}
+
+b_samlor = {
+    1.1.1 = {
+        liege = c_hirschfurten
+    }
+}
+
+b_marano = {
+    1.1.1 = {
+        liege = c_hirschfurten
+    }
+}
+
+b_talbach = {
+    1.1.1 = {
+        liege = c_hirschfurten
+    }
+}
+
+c_luring = {
+    1.1.1 = {
+        liege = d_reichsforst
+    }
+    943.1.1 = {
+        holder = 214
+    }
+    962.1.1 = {
+        holder = 213
+    }
+    970.1.1 = {
+        holder = 212
+    }
+    997.1.1 = {
+        holder = 187
+    }
+    1039.1.1 = {
+        holder = 186
+    }
+}
+
+b_luring = {
+    1.1.1 = {
+        liege = c_luring
+    }
+}
+
+b_spinnried = {
+    1.1.1 = {
+        liege = c_luring
+    }
+}
+
+b_truegensfeld = {
+    1.1.1 = {
+        liege = c_luring
+    }
+}
+
+b_cronenfurt = {
+    1.1.1 = {
+        liege = c_luring
+    }
+}
+
+d_hartsteen = {
+    1.1.1 = {
+        liege = k_garetien
+    }
+    295.1.1 = {
+        holder = 291
+    }
+    344.1.1 = {
+        holder = 290
+    }
+    378.1.1 = {
+        holder = 289
+    }
+    391.1.1 = {
+        holder = 288
+    }
+    420.1.1 = {
+        holder = 287
+    }
+    441.1.1 = {
+        holder = 286
+    }
+    465.1.1 = {
+        holder = 285
+    }
+    507.1.1 = {
+        holder = 284
+    }
+    558.1.1 = {
+        holder = 283
+    }
+    583.1.1 = {
+        holder = 282
+    }
+    600.1.1 = {
+        holder = 281
+    }
+    622.1.1 = {
+        holder = 280
+    }
+    623.1.1 = {
+        holder = 279
+    }
+    642.1.1 = {
+        holder = 278
+    }
+    681.1.1 = {
+        holder = 277
+    }
+    702.1.1 = {
+        holder = 276
+    }
+    723.1.1 = {
+        holder = 275
+    }
+    741.1.1 = {
+        holder = 274
+    }
+    790.1.1 = {
+        holder = 273
+    }
+    798.1.1 = {
+        holder = 272
+    }
+    826.1.1 = {
+        holder = 271
+    }
+    851.1.1 = {
+        holder = 270
+    }
+    893.1.1 = {
+        holder = 269
+    }
+    906.1.1 = {
+        holder = 267
+    }
+    915.1.1 = {
+        holder = 266
+    }
+    921.1.1 = {
+        holder = 265
+    }
+    932.1.1 = {
+        holder = 264
+    }
+    938.1.1 = {
+        holder = 263
+    }
+    939.1.1 = {
+        holder = 262
+    }
+    952.1.1 = {
+        holder = 261
+    }
+    962.1.1 = {
+        holder = 260
+    }
+    973.1.1 = {
+        holder = 259
+    }
+    987.1.1 = {
+        holder = 258
+    }
+    996.1.1 = {
+        holder = 257
+    }
+    997.1.1 = {
+        holder = 256
+    }
+    1030.1.1 = {
+        holder = 1
+    }
+    1036.1.1 = {
+        holder = 106
+    }
+    1043.1.1 = {
+        holder = 255
+    }
+}
+
+c_natzungen = {
+    1.1.1 = {
+        liege = d_hartsteen
+    }
+    926.1.1 = {
+        holder = 299
+    }
+    962.1.1 = {
+        holder = 298
+    }
+    982.1.1 = {
+        holder = 297
+    }
+    1008.1.1 = {
+        holder = 296
+    }
+    1019.1.1 = {
+        holder = 294
+    }
+    1027.1.1 = {
+        holder = 295
+    }
+    1030.1.1 = {
+        holder = 293
+    }
+    1039.1.1 = {
+        holder = 292
+    }
+}
+
+b_natzungen = {
+    1.1.1 = {
+        liege = c_natzungen
+    }
+}
+
+b_praioreth = {
+    1.1.1 = {
+        liege = c_natzungen
+    }
+    1043.1.1 = {
+        holder = 326
+    }
+}
+
+b_muhlwasser = {
+    1.1.1 = {
+        liege = c_natzungen
+    }
+}
+
+b_poppelhoven = {
+    1.1.1 = {
+        liege = c_natzungen
+    }
+}
+
+b_langtal = {
+    1.1.1 = {
+        liege = c_natzungen
+    }
+}
+
+c_hartsteen_2 = {
+    1.1.1 = {
+        liege = d_hartsteen
+    }
+    7.1.1 = {
+        liege = e_mittelreich
+    }
+    1020.1.1 = {
+        holder = 304
+    }
+    1030.1.1 = {
+        holder = 303
+    }
+    1041.1.1 = {
+        holder = 302
+    }
+}
+
+b_hartsteen = {
+    1.1.1 = {
+        liege = c_hartsteen_2
+    }
+}
+
+c_puleth = {
+    1.1.1 = {
+        liege = d_hartsteen
+    }
+    952.1.1 = {
+        holder = 309
+    }
+    987.1.1 = {
+        holder = 257
+    }
+    997.1.1 = {
+        holder = 308
+    }
+    1022.1.1 = {
+        holder = 307
+    }
+    1027.1.1 = {
+        holder = 306
+    }
+    1031.1.1 = {
+        holder = 305
+    }
+}
+
+b_aldengrund = {
+    1.1.1 = {
+        liege = c_puleth
+    }
+}
+
+b_puleth = {
+    1.1.1 = {
+        liege = c_puleth
+    }
+}
+
+b_tannenheim = {
+    1.1.1 = {
+        liege = c_puleth
+    }
+}
+
+b_sommerau = {
+    1.1.1 = {
+        liege = c_puleth
+    }
+}
+
+c_baerenau = {
+    1.1.1 = {
+        liege = d_hartsteen
+    }
+    747.1.1 = {
+        holder = 321
+    }
+    786.1.1 = {
+        holder = 319
+    }
+    804.1.1 = {
+        holder = 318
+    }
+    837.1.1 = {
+        holder = 317
+    }
+    852.1.1 = {
+        holder = 316
+    }
+    887.1.1 = {
+        holder = 315
+    }
+    913.1.1 = {
+        holder = 314
+    }
+    981.1.1 = {
+        holder = 313
+    }
+    995.1.1 = {
+        holder = 311
+    }
+    1011.1.1 = {
+        holder = 312
+    }
+    1029.1.1 = {
+        holder = 311
+    }
+    1033.1.1 = {
+        holder = 310
+    }
+}
+
+b_liliengrund = {
+    1.1.1 = {
+        liege = c_baerenau
+    }
+}
+
+b_baerenau = {
+    1.1.1 = {
+        liege = c_baerenau
+    }
+}
+
+b_krolocksaue = {
+    1.1.1 = {
+        liege = c_baerenau
+    }
+}
+
+b_cavans_steg = {
+    1.1.1 = {
+        liege = c_baerenau
+    }
+}
+
+b_ibelstein = {
+    1.1.1 = {
+        liege = c_baerenau
+    }
+}
+
+c_feidewald = {
+    1.1.1 = {
+        liege = d_hartsteen
+    }
+    1027.1.1 = {
+        holder = 322
+    }
+    1036.1.1 = {
+        holder = 306
+    }
+}
+
+b_feidewald = {
+    1.1.1 = {
+        liege = c_feidewald
+    }
+}
+
+b_hirschenrode = {
+    1.1.1 = {
+        liege = c_feidewald
+    }
+}
+
+c_hutt = {
+    1.1.1 = {
+        liege = d_hartsteen
+    }
+    906.1.1 = {
+        holder = 109
+    }
+    928.1.1 = {
+        holder = 325
+    }
+    978.1.1 = {
+        holder = 324
+    }
+    1028.1.1 = {
+        holder = 323
+    }
+    1036.1.1 = {
+        holder = 255
+    }
+}
+
+b_hutt = {
+    1.1.1 = {
+        liege = c_hutt
+    }
+}
+
+b_dorp = {
+    1.1.1 = {
+        liege = c_hutt
+    }
+}
+
+b_bertolfshufen = {
+    1.1.1 = {
+        liege = c_hutt
+    }
+}
+
+b_schirchrain = {
+    1.1.1 = {
+        liege = c_hutt
+    }
+}
+
+b_moorsch = {
+    1.1.1 = {
+        liege = c_hutt
+    }
+}
+
+c_rabensbrueck = {
+    1.1.1 = {
+        liege = d_hartsteen
+    }
+    922.1.1 = {
+        holder = 335
+    }
+    963.1.1 = {
+        holder = 333
+    }
+    963.1.1 = {
+        holder = 334
+    }
+    976.1.1 = {
+        holder = 332
+    }
+    1000.1.1 = {
+        holder = 331
+    }
+    1002.1.1 = {
+        holder = 328
+    }
+    1021.1.1 = {
+        holder = 327
+    }
+}
+
+b_rabensbrueck = {
+    1.1.1 = {
+        liege = c_rabensbrueck
+    }
+}
+
+b_reck = {
+    1.1.1 = {
+        liege = c_rabensbrueck
+    }
+}
+
+b_sturmwacht = {
+    1.1.1 = {
+        liege = c_rabensbrueck
+    }
+}
+
+b_oberdommel = {
+    1.1.1 = {
+        liege = c_rabensbrueck
+    }
+}
+
+c_bugenhog = {
+    1.1.1 = {
+        liege = d_hartsteen
+    }
+}
+
+b_bugenhog = {
+    1.1.1 = {
+        liege = c_bugenhog
+    }
+}
+
+b_reynhartsbruck = {
+    1.1.1 = {
+        liege = c_bugenhog
+    }
+}
+
+b_perainsgarten_2 = {
+    1.1.1 = {
+        liege = c_bugenhog
+    }
+}
+
+b_leplenfeld = {
+    1.1.1 = {
+        liege = c_bugenhog
+    }
+}
+
+c_reichsgau = {
+    1.1.1 = {
+        liege = d_hartsteen
+    }
+}
+
+b_zwingzahn = {
+    1.1.1 = {
+        liege = c_reichsgau
+    }
+}
+
+b_horeth = {
+    1.1.1 = {
+        liege = c_reichsgau
+    }
+}
+
+b_st_noiona = {
+    1.1.1 = {
+        liege = c_reichsgau
+    }
+}
+
+b_finsterstein = {
+    1.1.1 = {
+        liege = c_reichsgau
+    }
+}
+
+b_firunshoeh = {
+    1.1.1 = {
+        liege = c_reichsgau
+    }
+}
+
+d_waldstein = {
+    1.1.1 = {
+        liege = k_garetien
+    }
+    466.1.1 = {
+        holder = 375
+    }
+    486.1.1 = {
+        holder = 374
+    }
+    497.1.1 = {
+        holder = 373
+    }
+    514.1.1 = {
+        holder = 372
+    }
+    517.1.1 = {
+        holder = 371
+    }
+    536.1.1 = {
+        holder = 370
+    }
+    558.1.1 = {
+        holder = 369
+    }
+    580.1.1 = {
+        holder = 368
+    }
+    596.1.1 = {
+        holder = 367
+    }
+    600.1.1 = {
+        holder = 366
+    }
+    608.1.1 = {
+        holder = 365
+    }
+    610.1.1 = {
+        holder = 364
+    }
+    649.1.1 = {
+        holder = 361
+    }
+    649.1.1 = {
+        holder = 362
+    }
+    661.1.1 = {
+        holder = 360
+    }
+    678.1.1 = {
+        holder = 359
+    }
+    681.1.1 = {
+        holder = 358
+    }
+    710.1.1 = {
+        holder = 357
+    }
+    746.1.1 = {
+        holder = 355
+    }
+    748.1.1 = {
+        holder = 354
+    }
+    752.1.1 = {
+        holder = 353
+    }
+    771.1.1 = {
+        holder = 352
+    }
+    784.1.1 = {
+        holder = 351
+    }
+    802.1.1 = {
+        holder = 349
+    }
+    851.1.1 = {
+        holder = 348
+    }
+    865.1.1 = {
+        holder = 346
+    }
+    872.1.1 = {
+        holder = 345
+    }
+    884.1.1 = {
+        holder = 344
+    }
+    900.1.1 = {
+        holder = 343
+    }
+    903.1.1 = {
+        holder = 342
+    }
+    905.1.1 = {
+        holder = 341
+    }
+    910.1.1 = {
+        holder = 340
+    }
+    942.1.1 = {
+        holder = 339
+    }
+    971.1.1 = {
+        holder = 337
+    }
+    1016.1.1 = {
+        holder = 338
+    }
+    1021.1.1 = {
+        holder = 337
+    }
+    1023.1.1 = {
+        holder = 336
+    }
+}
+
+c_silz = {
+    1.1.1 = {
+        liege = d_waldstein
+    }
+    466.1.1 = {
+        holder = 375
+    }
+    486.1.1 = {
+        holder = 374
+    }
+    497.1.1 = {
+        holder = 373
+    }
+    514.1.1 = {
+        holder = 372
+    }
+    517.1.1 = {
+        holder = 371
+    }
+    536.1.1 = {
+        holder = 370
+    }
+    558.1.1 = {
+        holder = 369
+    }
+    580.1.1 = {
+        holder = 368
+    }
+    596.1.1 = {
+        holder = 367
+    }
+    681.1.1 = {
+        holder = 358
+    }
+    710.1.1 = {
+        holder = 357
+    }
+    746.1.1 = {
+        holder = 355
+    }
+    748.1.1 = {
+        holder = 354
+    }
+    752.1.1 = {
+        holder = 353
+    }
+    771.1.1 = {
+        holder = 352
+    }
+    784.1.1 = {
+        holder = 351
+    }
+    802.1.1 = {
+        holder = 349
+    }
+    851.1.1 = {
+        holder = 348
+    }
+    865.1.1 = {
+        holder = 346
+    }
+    872.1.1 = {
+        holder = 345
+    }
+    884.1.1 = {
+        holder = 344
+    }
+    900.1.1 = {
+        holder = 343
+    }
+    903.1.1 = {
+        holder = 342
+    }
+    905.1.1 = {
+        holder = 341
+    }
+    910.1.1 = {
+        holder = 340
+    }
+    942.1.1 = {
+        holder = 339
+    }
+    971.1.1 = {
+        holder = 337
+    }
+    1016.1.1 = {
+        holder = 338
+    }
+    1021.1.1 = {
+        holder = 337
+    }
+    1023.1.1 = {
+        holder = 336
+    }
+}
+
+b_silz = {
+    1.1.1 = {
+        liege = c_silz
+    }
+}
+
+b_gansbach = {
+    1.1.1 = {
+        liege = c_silz
+    }
+}
+
+c_leihenbutt = {
+    1.1.1 = {
+        liege = d_waldstein
+    }
+    951.1.1 = {
+        holder = 252
+    }
+    995.1.1 = {
+        holder = 253
+    }
+    1009.1.1 = {
+        holder = 385
+    }
+    1021.1.1 = {
+        holder = 248
+    }
+    1034.1.1 = {
+        holder = 382
+    }
+    1039.1.1 = {
+        holder = 381
+    }
+}
+
+b_waldesruh = {
+    1.1.1 = {
+        liege = c_leihenbutt
+    }
+}
+
+b_leihenbutt = {
+    1.1.1 = {
+        liege = c_leihenbutt
+    }
+}
+
+b_perainelob = {
+    1.1.1 = {
+        liege = c_leihenbutt
+    }
+}
+
+b_sommerberg = {
+    1.1.1 = {
+        liege = c_leihenbutt
+    }
+}
+
+c_linara = {
+    1.1.1 = {
+        liege = d_waldstein
+    }
+}
+
+b_bitani = {
+    1.1.1 = {
+        liege = c_linara
+    }
+}
+
+b_ueberdiebreite = {
+    1.1.1 = {
+        liege = c_linara
+    }
+}
+
+b_rallerwacht = {
+    1.1.1 = {
+        liege = c_linara
+    }
+}
+
+b_leuental = {
+    1.1.1 = {
+        liege = c_linara
+    }
+}
+
+c_osenbrueck = {
+    1.1.1 = {
+        liege = d_waldstein
+    }
+    589.1.1 = {
+        holder = 366
+    }
+    608.1.1 = {
+        holder = 365
+    }
+    777.1.1 = {
+        holder = 397
+    }
+    834.1.1 = {
+        holder = 396
+    }
+    839.1.1 = {
+        holder = 395
+    }
+    846.1.1 = {
+        holder = 394
+    }
+    887.1.1 = {
+        holder = 393
+    }
+    903.1.1 = {
+        holder = 392
+    }
+    932.1.1 = {
+        holder = 391
+    }
+    935.1.1 = {
+        holder = 390
+    }
+    978.1.1 = {
+        holder = 389
+    }
+    984.1.1 = {
+        holder = 388
+    }
+    1003.1.1 = {
+        holder = 387
+    }
+    1040.1.1 = {
+        holder = 386
+    }
+}
+
+b_windenstein = {
+    1.1.1 = {
+        liege = c_osenbrueck
+    }
+}
+
+b_osenbrueck = {
+    1.1.1 = {
+        liege = c_osenbrueck
+    }
+}
+
+c_schwanenbruch = {
+    1.1.1 = {
+        liege = d_waldstein
+    }
+    930.1.1 = {
+        holder = 403
+    }
+    954.1.1 = {
+        holder = 402
+    }
+    987.1.1 = {
+        holder = 400
+    }
+    1014.1.1 = {
+        holder = 399
+    }
+    1041.1.1 = {
+        holder = 398
+    }
+}
+
+b_schwanenbruch = {
+    1.1.1 = {
+        liege = c_schwanenbruch
+    }
+}
+
+b_seytnach = {
+    1.1.1 = {
+        liege = c_schwanenbruch
+    }
+}
+
+c_tannwirk = {
+    1.1.1 = {
+        liege = d_waldstein
+    }
+    681.1.1 = {
+        holder = 358
+    }
+    975.1.1 = {
+        holder = 406
+    }
+    988.1.1 = {
+        holder = 405
+    }
+    1011.1.1 = {
+        holder = 404
+    }
+}
+
+b_tannwirk = {
+    1.1.1 = {
+        liege = c_tannwirk
+    }
+}
+
+b_tannewacht = {
+    1.1.1 = {
+        liege = c_tannwirk
+    }
+}
+
+c_ulmenhain = {
+    1.1.1 = {
+        liege = d_waldstein
+    }
+    903.1.1 = {
+        holder = 412
+    }
+    942.1.1 = {
+        holder = 411
+    }
+    956.1.1 = {
+        holder = 410
+    }
+    987.1.1 = {
+        holder = 409
+    }
+    990.1.1 = {
+        holder = 408
+    }
+    1027.1.1 = {
+        holder = 407
+    }
+}
+
+b_dullerwueben = {
+    1.1.1 = {
+        liege = c_ulmenhain
+    }
+}
+
+b_hagenbronn = {
+    1.1.1 = {
+        liege = c_ulmenhain
+    }
+}
+
+b_essental = {
+    1.1.1 = {
+        liege = c_ulmenhain
+    }
+}
+
+c_uslenried = {
+    1.1.1 = {
+        liege = d_waldstein
+    }
+    338.1.1 = {
+        holder = 443
+    }
+    363.1.1 = {
+        holder = 442
+    }
+    385.1.1 = {
+        holder = 441
+    }
+    410.1.1 = {
+        holder = 439
+    }
+    461.1.1 = {
+        holder = 438
+    }
+    466.1.1 = {
+        holder = 437
+    }
+    491.1.1 = {
+        holder = 436
+    }
+    535.1.1 = {
+        holder = 435
+    }
+    538.1.1 = {
+        holder = 434
+    }
+    553.1.1 = {
+        holder = 433
+    }
+    600.1.1 = {
+        holder = 431
+    }
+    652.1.1 = {
+        holder = 430
+    }
+    681.1.1 = {
+        holder = 429
+    }
+    700.1.1 = {
+        holder = 428
+    }
+    724.1.1 = {
+        holder = 427
+    }
+    764.1.1 = {
+        holder = 426
+    }
+    780.1.1 = {
+        holder = 425
+    }
+    785.1.1 = {
+        holder = 424
+    }
+    821.1.1 = {
+        holder = 423
+    }
+    824.1.1 = {
+        holder = 422
+    }
+    841.1.1 = {
+        holder = 421
+    }
+    889.1.1 = {
+        holder = 420
+    }
+    911.1.1 = {
+        holder = 419
+    }
+    930.1.1 = {
+        holder = 418
+    }
+    964.1.1 = {
+        holder = 416
+    }
+    987.1.1 = {
+        holder = 415
+    }
+    1012.1.1 = {
+        holder = 414
+    }
+    1040.1.1 = {
+        holder = 413
+    }
+}
+
+b_uslenried = {
+    1.1.1 = {
+        liege = c_uslenried
+    }
+}
+
+b_streitzensfeld = {
+    1.1.1 = {
+        liege = c_uslenried
+    }
+}
+
+b_gantekssee = {
+    1.1.1 = {
+        liege = c_uslenried
+    }
+}
+
+b_usla = {
+    1.1.1 = {
+        liege = c_uslenried
+    }
+}
+
+b_rallersquell = {
+    1.1.1 = {
+        liege = c_uslenried
+    }
+}
+
+c_zweiflingen = {
+    1.1.1 = {
+        liege = d_waldstein
+    }
+    734.1.1 = {
+        holder = 461
+    }
+    797.1.1 = {
+        holder = 458
+    }
+    811.1.1 = {
+        holder = 459
+    }
+    851.1.1 = {
+        holder = 456
+    }
+    864.1.1 = {
+        holder = 455
+    }
+    899.1.1 = {
+        holder = 454
+    }
+    910.1.1 = {
+        holder = 453
+    }
+    932.1.1 = {
+        holder = 452
+    }
+    957.1.1 = {
+        holder = 448
+    }
+    982.1.1 = {
+        holder = 449
+    }
+    1003.1.1 = {
+        holder = 450
+    }
+    1022.1.1 = {
+        holder = 451
+    }
+    1027.1.1 = {
+        holder = 445
+    }
+    1039.1.1 = {
+        holder = 444
+    }
+}
+
+b_zweifelfels = {
+    1.1.1 = {
+        liege = c_zweiflingen
+    }
+}
+
+b_sankt_henrica = {
+    1.1.1 = {
+        liege = c_zweiflingen
+    }
+}
+
+c_falkenwind = {
+    1.1.1 = {
+        liege = d_waldstein
+    }
+    942.1.1 = {
+        holder = 380
+    }
+    950.1.1 = {
+        holder = 379
+    }
+    1001.1.1 = {
+        holder = 378
+    }
+    1004.1.1 = {
+        holder = 377
+    }
+    1022.1.1 = {
+        holder = 376
+    }
+}
+
+b_falkenwind = {
+    1.1.1 = {
+        liege = c_falkenwind
+    }
+}
+
+b_bergensteen = {
+    1.1.1 = {
+        liege = c_falkenwind
+    }
+}
+
+b_moorwacht = {
+    1.1.1 = {
+        liege = c_falkenwind
+    }
+}
+
+c_sertis = {
+    1.1.1 = {
+        liege = d_waldstein
+    }
+}
+
+b_hornbeil = {
+    1.1.1 = {
+        liege = c_sertis
+    }
+}
+
+b_eynweiher = {
+    1.1.1 = {
+        liege = c_sertis
+    }
+}
+
+c_neerbusch = {
+    1.1.1 = {
+        liege = d_waldstein
+    }
+}
+
+b_njertal = {
+    1.1.1 = {
+        liege = c_neerbusch
+    }
+}
+
+b_klappechs = {
+    1.1.1 = {
+        liege = c_neerbusch
+    }
+}
+
+b_neerquell = {
+    1.1.1 = {
+        liege = c_neerbusch
+    }
+}
+
+c_serrinmoor = {
+    1.1.1 = {
+        liege = d_waldstein
+    }
+    610.1.1 = {
+        holder = 364
+    }
+    649.1.1 = {
+        holder = 361
+    }
+    649.1.1 = {
+        holder = 362
+    }
+    661.1.1 = {
+        holder = 360
+    }
+    678.1.1 = {
+        holder = 359
+    }
+}
+
+b_serrinstein = {
+    1.1.1 = {
+        liege = c_serrinmoor
+    }
+}
+
+b_weissenstein = {
+    1.1.1 = {
+        liege = c_serrinmoor
+    }
+}
+
+b_derrelsbach = {
+    1.1.1 = {
+        liege = c_serrinmoor
+    }
+}
+
+b_serrinwald = {
+    1.1.1 = {
+        liege = c_serrinmoor
+    }
+}
+
+c_hirschfurt = {
+    1.1.1 = {
+        liege = d_waldstein
+    }
+    7.1.1 = {
+        liege = e_mittelreich
+    }
+    1018.1.1 = {
+        holder = 462
+    }
+}
+
+b_hirschfurt = {
+    1.1.1 = {
+        liege = c_hirschfurt
+    }
+}
+
+d_perricum = {
+    1.1.1 = {
+        liege = k_garetien
+    }
+    801.1.1 = {
+        holder = 470
+    }
+    823.1.1 = {
+        holder = 469
+    }
+    853.1.1 = {
+        holder = 468
+    }
+    858.1.1 = {
+        holder = 467
+    }
+    891.1.1 = {
+        holder = 466
+    }
+    894.1.1 = {
+        holder = 37
+    }
+    930.1.1 = {
+        holder = 6
+    }
+    942.1.1 = {
+        holder = 465
+    }
+    975.1.1 = {
+        holder = 4
+    }
+    987.1.1 = {
+        holder = 464
+    }
+    1021.1.1 = {
+        holder = 463
+    }
+}
+
+c_perricum = {
+    1.1.1 = {
+        liege = d_perricum
+    }
+    801.1.1 = {
+        holder = 470
+    }
+    823.1.1 = {
+        holder = 469
+    }
+    853.1.1 = {
+        holder = 468
+    }
+    858.1.1 = {
+        holder = 467
+    }
+    891.1.1 = {
+        holder = 466
+    }
+    894.1.1 = {
+        holder = 37
+    }
+    930.1.1 = {
+        holder = 6
+    }
+    942.1.1 = {
+        holder = 465
+    }
+    975.1.1 = {
+        holder = 4
+    }
+    987.1.1 = {
+        holder = 464
+    }
+    1021.1.1 = {
+        holder = 463
+    }
+}
+
+b_rabicum = {
+    1.1.1 = {
+        liege = c_perricum
+    }
+}
+
+b_perricum = {
+    1.1.1 = {
+        liege = c_perricum
+    }
+}
+
+b_st_theria = {
+    1.1.1 = {
+        liege = c_perricum
+    }
+}
+
+b_efferdsand = {
+    1.1.1 = {
+        liege = c_perricum
+    }
+}
+
+c_brendiltal = {
+    1.1.1 = {
+        liege = d_perricum
+    }
+    975.1.1 = {
+        holder = 472
+    }
+    1039.1.1 = {
+        holder = 471
+    }
+}
+
+b_herdentor = {
+    1.1.1 = {
+        liege = c_brendiltal
+    }
+}
+
+b_sebarin = {
+    1.1.1 = {
+        liege = c_brendiltal
+    }
+}
+
+b_varintal = {
+    1.1.1 = {
+        liege = c_brendiltal
+    }
+}
+
+b_kraehenwacht = {
+    1.1.1 = {
+        liege = c_brendiltal
+    }
+}
+
+b_ebengard = {
+    1.1.1 = {
+        liege = c_brendiltal
+    }
+}
+
+c_haselhain = {
+    1.1.1 = {
+        liege = d_perricum
+    }
+    987.1.1 = {
+        holder = 478
+    }
+    995.1.1 = {
+        holder = 477
+    }
+    1021.1.1 = {
+        holder = 475
+    }
+    1037.1.1 = {
+        holder = 474
+    }
+    1040.1.1 = {
+        holder = 473
+    }
+}
+
+b_haselhain = {
+    1.1.1 = {
+        liege = c_haselhain
+    }
+}
+
+b_haselhain_2 = {
+    1.1.1 = {
+        liege = c_haselhain
+    }
+}
+
+b_eslamskesh = {
+    1.1.1 = {
+        liege = c_haselhain
+    }
+}
+
+b_baran'scheck = {
+    1.1.1 = {
+        liege = c_haselhain
+    }
+}
+
+c_duersten_darrenfurt = {
+    1.1.1 = {
+        liege = d_perricum
+    }
+    1003.1.1 = {
+        holder = 481
+    }
+    1038.1.1 = {
+        holder = 479
+    }
+}
+
+b_darrenfurt = {
+    1.1.1 = {
+        liege = c_duersten_darrenfurt
+    }
+}
+
+b_darrenfurt_2 = {
+    1.1.1 = {
+        liege = c_duersten_darrenfurt
+    }
+}
+
+b_darren_ulah = {
+    1.1.1 = {
+        liege = c_duersten_darrenfurt
+    }
+}
+
+b_duersten = {
+    1.1.1 = {
+        liege = c_duersten_darrenfurt
+    }
+}
+
+b_firunswald = {
+    1.1.1 = {
+        liege = c_duersten_darrenfurt
+    }
+}
+
+c_gnitzenkuhl = {
+    1.1.1 = {
+        liege = d_perricum
+    }
+    1014.1.1 = {
+        holder = 483
+    }
+    1022.1.1 = {
+        holder = 482
+    }
+}
+
+b_alriksauen = {
+    1.1.1 = {
+        liege = c_gnitzenkuhl
+    }
+}
+
+b_gnitzenkuhl = {
+    1.1.1 = {
+        liege = c_gnitzenkuhl
+    }
+}
+
+b_st_liaiella = {
+    1.1.1 = {
+        liege = c_gnitzenkuhl
+    }
+}
+
+c_gerbenwald = {
+    1.1.1 = {
+        liege = d_perricum
+    }
+}
+
+b_barbenwehr = {
+    1.1.1 = {
+        liege = c_gerbenwald
+    }
+}
+
+b_gerbental = {
+    1.1.1 = {
+        liege = c_gerbenwald
+    }
+}
+
+b_willigental = {
+    1.1.1 = {
+        liege = c_gerbenwald
+    }
+}
+
+c_weissbarun = {
+    1.1.1 = {
+        liege = d_perricum
+    }
+    953.1.1 = {
+        holder = 488
+    }
+    975.1.1 = {
+        holder = 487
+    }
+    992.1.1 = {
+        holder = 486
+    }
+    1001.1.1 = {
+        holder = 485
+    }
+    1023.1.1 = {
+        holder = 484
+    }
+}
+
+b_ferkinaschreck = {
+    1.1.1 = {
+        liege = c_weissbarun
+    }
+}
+
+b_hordenberg = {
+    1.1.1 = {
+        liege = c_weissbarun
+    }
+}
+
+b_ashal'deyran = {
+    1.1.1 = {
+        liege = c_weissbarun
+    }
+}
+
+b_dreisteinen = {
+    1.1.1 = {
+        liege = c_weissbarun
+    }
+}
+
+c_sturmfels = {
+    1.1.1 = {
+        liege = d_perricum
+    }
+    937.1.1 = {
+        holder = 498
+    }
+    949.1.1 = {
+        holder = 495
+    }
+    973.1.1 = {
+        holder = 492
+    }
+    997.1.1 = {
+        holder = 491
+    }
+    1033.1.1 = {
+        holder = 490
+    }
+    1042.1.1 = {
+        holder = 489
+    }
+}
+
+b_sturmspitze = {
+    1.1.1 = {
+        liege = c_sturmfels
+    }
+}
+
+b_alriksburg = {
+    1.1.1 = {
+        liege = c_sturmfels
+    }
+}
+
+b_wolfszahn = {
+    1.1.1 = {
+        liege = c_sturmfels
+    }
+}
+
+c_wasserburg = {
+    1.1.1 = {
+        liege = d_perricum
+    }
+    951.1.1 = {
+        holder = 503
+    }
+    968.1.1 = {
+        holder = 502
+    }
+    975.1.1 = {
+        holder = 501
+    }
+    1003.1.1 = {
+        holder = 500
+    }
+    1030.1.1 = {
+        holder = 499
+    }
+    1042.1.1 = {
+        holder = 490
+    }
+}
+
+b_rosshang = {
+    1.1.1 = {
+        liege = c_wasserburg
+    }
+}
+
+b_wasserburg = {
+    1.1.1 = {
+        liege = c_wasserburg
+    }
+}
+
+b_loewentor = {
+    1.1.1 = {
+        liege = c_wasserburg
+    }
+}
+
+b_kelsenburg = {
+    1.1.1 = {
+        liege = c_wasserburg
+    }
+}
+
+d_greifenfurt = {
+    1.1.1 = {
+        liege = k_garetien
+    }
+    9.1.1 = {
+        holder = 508
+    }
+    800.1.1 = {
+        holder = 507
+    }
+    902.1.1 = {
+        holder = 7
+    }
+    975.1.1 = {
+        holder = 506
+    }
+    1004.1.1 = {
+        holder = 505
+    }
+    1014.1.1 = {
+        holder = 504
+    }
+}
+
+c_greifenfurt = {
+    1.1.1 = {
+        liege = d_greifenfurt
+    }
+    9.1.1 = {
+        holder = 508
+    }
+    800.1.1 = {
+        holder = 507
+    }
+    902.1.1 = {
+        holder = 7
+    }
+    975.1.1 = {
+        holder = 506
+    }
+    1004.1.1 = {
+        holder = 505
+    }
+    1014.1.1 = {
+        holder = 504
+    }
+}
+
+b_halmengarth = {
+    1.1.1 = {
+        liege = c_greifenfurt
+    }
+}
+
+b_greifenfurt = {
+    1.1.1 = {
+        liege = c_greifenfurt
+    }
+}
+
+b_syllenwies = {
+    1.1.1 = {
+        liege = c_greifenfurt
+    }
+}
+
+c_hasenfeld = {
+    1.1.1 = {
+        liege = d_greifenfurt
+    }
+    1021.1.1 = {
+        holder = 510
+    }
+    1034.1.1 = {
+        holder = 509
+    }
+}
+
+b_haagenstein = {
+    1.1.1 = {
+        liege = c_hasenfeld
+    }
+}
+
+b_waldalriksrode = {
+    1.1.1 = {
+        liege = c_hasenfeld
+    }
+}
+
+b_ebersfelde = {
+    1.1.1 = {
+        liege = c_hasenfeld
+    }
+}
+
+c_quastenbroich = {
+    1.1.1 = {
+        liege = d_greifenfurt
+    }
+    1010.1.1 = {
+        holder = 512
+    }
+    1020.1.1 = {
+        holder = 511
+    }
+}
+
+b_quastenbroich = {
+    1.1.1 = {
+        liege = c_quastenbroich
+    }
+}
+
+b_siebeneichen = {
+    1.1.1 = {
+        liege = c_quastenbroich
+    }
+}
+
+c_reichsweg = {
+    1.1.1 = {
+        liege = d_greifenfurt
+    }
+    1003.1.1 = {
+        holder = 514
+    }
+    1040.1.1 = {
+        holder = 513
+    }
+}
+
+b_reichsweg = {
+    1.1.1 = {
+        liege = c_reichsweg
+    }
+}
+
+b_reichsweg_2 = {
+    1.1.1 = {
+        liege = c_reichsweg
+    }
+}
+
+b_reichsweg_3 = {
+    1.1.1 = {
+        liege = c_reichsweg
+    }
+}
+
+c_dunkelsfarn = {
+    1.1.1 = {
+        liege = d_greifenfurt
+    }
+    1010.1.1 = {
+        holder = 516
+    }
+    1035.1.1 = {
+        holder = 515
+    }
+}
+
+b_dunkelsfarn = {
+    1.1.1 = {
+        liege = c_dunkelsfarn
+    }
+}
+
+b_kroentenbrunn = {
+    1.1.1 = {
+        liege = c_dunkelsfarn
+    }
+}
+
+c_nardesfeld = {
+    1.1.1 = {
+        liege = d_greifenfurt
+    }
+    1014.1.1 = {
+        holder = 519
+    }
+    1020.1.1 = {
+        holder = 518
+    }
+    1028.1.1 = {
+        holder = 517
+    }
+}
+
+b_schmalfurt = {
+    1.1.1 = {
+        liege = c_nardesfeld
+    }
+}
+
+b_berleichen = {
+    1.1.1 = {
+        liege = c_nardesfeld
+    }
+}
+
+b_nardeshain = {
+    1.1.1 = {
+        liege = c_nardesfeld
+    }
+}
+
+b_karghyde = {
+    1.1.1 = {
+        liege = c_nardesfeld
+    }
+}
+
+c_zalgo = {
+    1.1.1 = {
+        liege = d_greifenfurt
+    }
+    1019.1.1 = {
+        holder = 520
+    }
+}
+
+b_zalgomuehlen = {
+    1.1.1 = {
+        liege = c_zalgo
+    }
+}
+
+b_schillburg = {
+    1.1.1 = {
+        liege = c_zalgo
+    }
+}
+
+b_faehrufer = {
+    1.1.1 = {
+        liege = c_zalgo
+    }
+}
+
+c_hexenhain = {
+    1.1.1 = {
+        liege = d_greifenfurt
+    }
+    990.1.1 = {
+        holder = 522
+    }
+    1032.1.1 = {
+        holder = 521
+    }
+}
+
+b_rosskuppe = {
+    1.1.1 = {
+        liege = c_hexenhain
+    }
+}
+
+b_aehrenfeld = {
+    1.1.1 = {
+        liege = c_hexenhain
+    }
+}
+
+b_scraan_am_blauen_laach = {
+    1.1.1 = {
+        liege = c_hexenhain
+    }
+}
+
+b_altricksforst = {
+    1.1.1 = {
+        liege = c_hexenhain
+    }
+}
+
+c_kressenburg = {
+    1.1.1 = {
+        liege = d_greifenfurt
+    }
+    40.1.1 = {
+        holder = 529
+    }
+    790.1.1 = {
+        holder = 528
+    }
+    957.1.1 = {
+        holder = 527
+    }
+    974.1.1 = {
+        holder = 526
+    }
+    996.1.1 = {
+        holder = 525
+    }
+    1020.1.1 = {
+        holder = 524
+    }
+    1032.1.1 = {
+        holder = 523
+    }
+}
+
+b_kressenburg = {
+    1.1.1 = {
+        liege = c_kressenburg
+    }
+}
+
+b_st_therbun_im_walde = {
+    1.1.1 = {
+        liege = c_kressenburg
+    }
+}
+
+c_koenigsgau = {
+    1.1.1 = {
+        liege = d_greifenfurt
+    }
+}
+
+b_kaiserley = {
+    1.1.1 = {
+        liege = c_koenigsgau
+    }
+}
+
+b_waldschatten = {
+    1.1.1 = {
+        liege = c_koenigsgau
+    }
+}
+
+c_eslamsroden = {
+    1.1.1 = {
+        liege = d_greifenfurt
+    }
+    1003.1.1 = {
+        holder = 531
+    }
+    1032.1.1 = {
+        holder = 530
+    }
+}
+
+b_breitenquell = {
+    1.1.1 = {
+        liege = c_eslamsroden
+    }
+}
+
+b_eslamsroden = {
+    1.1.1 = {
+        liege = c_eslamsroden
+    }
+}
+
+b_weidensee = {
+    1.1.1 = {
+        liege = c_eslamsroden
+    }
+}
+
+b_karens = {
+    1.1.1 = {
+        liege = c_eslamsroden
+    }
+}
+
+c_orkenwall = {
+    1.1.1 = {
+        liege = d_greifenfurt
+    }
+    1007.1.1 = {
+        holder = 533
+    }
+    1027.1.1 = {
+        holder = 532
+    }
+}
+
+b_orkenwall = {
+    1.1.1 = {
+        liege = c_orkenwall
+    }
+}
+
+b_kloster_zu_orkenwall = {
+    1.1.1 = {
+        liege = c_orkenwall
+    }
+}
+
+c_feldharsch = {
+    1.1.1 = {
+        liege = d_greifenfurt
+    }
+    946.1.1 = {
+        holder = 537
+    }
+    1027.1.1 = {
+        holder = 535
+    }
+    1041.1.1 = {
+        holder = 534
+    }
+}
+
+b_feldharsch = {
+    1.1.1 = {
+        liege = c_feldharsch
+    }
+}
+
+b_perainefried = {
+    1.1.1 = {
+        liege = c_feldharsch
+    }
+}
+
+c_beldenhag = {
+    1.1.1 = {
+        liege = d_greifenfurt
+    }
+    972.1.1 = {
+        holder = 542
+    }
+    1007.1.1 = {
+        holder = 541
+    }
+    1012.1.1 = {
+        holder = 540
+    }
+    1021.1.1 = {
+        holder = 539
+    }
+    1027.1.1 = {
+        holder = 538
+    }
+}
+
+b_beldenruh = {
+    1.1.1 = {
+        liege = c_beldenhag
+    }
+}
+
+b_minderbreugen = {
+    1.1.1 = {
+        liege = c_beldenhag
+    }
+}
+
+b_schwarzensee = {
+    1.1.1 = {
+        liege = c_beldenhag
+    }
+}
+
+c_donfanger = {
+    1.1.1 = {
+        liege = d_greifenfurt
+    }
+    1010.1.1 = {
+        holder = 546
+    }
+}
+
+b_donfanger = {
+    1.1.1 = {
+        liege = c_donfanger
+    }
+}
+
+b_donfgrund = {
+    1.1.1 = {
+        liege = c_donfanger
+    }
+}
+
+c_finsterkamm = {
+    1.1.1 = {
+        liege = d_greifenfurt
+    }
+    972.1.1 = {
+        holder = 550
+    }
+    987.1.1 = {
+        holder = 549
+    }
+    1027.1.1 = {
+        holder = 548
+    }
+    1034.1.1 = {
+        holder = 547
+    }
+}
+
+b_finsterwacht = {
+    1.1.1 = {
+        liege = c_finsterkamm
+    }
+}
+
+b_schwertsleyda = {
+    1.1.1 = {
+        liege = c_finsterkamm
+    }
+}
+
+c_finsterrode = {
+    1.1.1 = {
+        liege = d_greifenfurt
+    }
+    1026.1.1 = {
+        holder = 532
+    }
+    1027.1.1 = {
+        holder = 551
+    }
+}
+
+b_waldrast = {
+    1.1.1 = {
+        liege = c_finsterrode
+    }
+}
+
+b_radulfshausen = {
+    1.1.1 = {
+        liege = c_finsterrode
+    }
+}
+
+b_gamsdrift = {
+    1.1.1 = {
+        liege = c_finsterrode
+    }
+}
+
+c_greifenberg = {
+    1.1.1 = {
+        liege = d_greifenfurt
+    }
+    1011.1.1 = {
+        holder = 552
+    }
+}
+
+b_greifenberg = {
+    1.1.1 = {
+        liege = c_greifenberg
+    }
+}
+
+b_fuchswinkeln = {
+    1.1.1 = {
+        liege = c_greifenberg
+    }
+}
+
+b_scraans_zuversicht = {
+    1.1.1 = {
+        liege = c_greifenberg
+    }
+}
+
+c_greifenhorst = {
+    1.1.1 = {
+        liege = d_greifenfurt
+    }
+    1012.1.1 = {
+        holder = 553
+    }
+}
+
+b_orkenwacht = {
+    1.1.1 = {
+        liege = c_greifenhorst
+    }
+}
+
+b_greifenhorst = {
+    1.1.1 = {
+        liege = c_greifenhorst
+    }
+}
+
+b_breitenhof = {
+    1.1.1 = {
+        liege = c_greifenhorst
+    }
+}
+
+c_helbrache = {
+    1.1.1 = {
+        liege = d_greifenfurt
+    }
+    978.1.1 = {
+        holder = 557
+    }
+    1006.1.1 = {
+        holder = 556
+    }
+    1027.1.1 = {
+        holder = 554
+    }
+}
+
+b_helberge = {
+    1.1.1 = {
+        liege = c_helbrache
+    }
+}
+
+b_espengrund = {
+    1.1.1 = {
+        liege = c_helbrache
+    }
+}
+
+c_hesindelburg = {
+    1.1.1 = {
+        liege = d_greifenfurt
+    }
+    1016.1.1 = {
+        holder = 558
+    }
+}
+
+b_eichstein = {
+    1.1.1 = {
+        liege = c_hesindelburg
+    }
+}
+
+b_hesindelburg = {
+    1.1.1 = {
+        liege = c_hesindelburg
+    }
+}
+
+b_rabenhorst = {
+    1.1.1 = {
+        liege = c_hesindelburg
+    }
+}
+
+c_hundsgrab = {
+    1.1.1 = {
+        liege = d_greifenfurt
+    }
+    977.1.1 = {
+        holder = 561
+    }
+    1010.1.1 = {
+        holder = 560
+    }
+    1035.1.1 = {
+        holder = 559
+    }
+}
+
+b_lohengrunde = {
+    1.1.1 = {
+        liege = c_hundsgrab
+    }
+}
+
+b_hundsgrab = {
+    1.1.1 = {
+        liege = c_hundsgrab
+    }
+}
+
+b_brandons_ehr = {
+    1.1.1 = {
+        liege = c_hundsgrab
+    }
+}
+
+c_nebelstein = {
+    1.1.1 = {
+        liege = d_greifenfurt
+    }
+    984.1.1 = {
+        holder = 563
+    }
+    1034.1.1 = {
+        holder = 562
+    }
+}
+
+b_orkentrutz = {
+    1.1.1 = {
+        liege = c_nebelstein
+    }
+}
+
+b_schroffenstein = {
+    1.1.1 = {
+        liege = c_nebelstein
+    }
+}
+
+b_keilholtz = {
+    1.1.1 = {
+        liege = c_nebelstein
+    }
+}
+
+b_wichelshausen = {
+    1.1.1 = {
+        liege = c_nebelstein
+    }
+}
+
+c_schnayttach = {
+    1.1.1 = {
+        liege = d_greifenfurt
+    }
+    920.1.1 = {
+        holder = 571
+    }
+    987.1.1 = {
+        holder = 570
+    }
+    1003.1.1 = {
+        holder = 569
+    }
+    1020.1.1 = {
+        holder = 567
+    }
+    1022.1.1 = {
+        holder = 566
+    }
+    1026.1.1 = {
+        holder = 565
+    }
+    1028.1.1 = {
+        holder = 564
+    }
+}
+
+b_pilzhain = {
+    1.1.1 = {
+        liege = c_schnayttach
+    }
+}
+
+b_schnayttach = {
+    1.1.1 = {
+        liege = c_schnayttach
+    }
+}
+
+b_dunfion = {
+    1.1.1 = {
+        liege = c_schnayttach
+    }
+}
+
+c_breitenbruck = {
+    1.1.1 = {
+        liege = d_greifenfurt
+    }
+}
+
+b_breitenbruck = {
+    1.1.1 = {
+        liege = c_breitenbruck
+    }
+}
+
+b_breitenbruck_2 = {
+    1.1.1 = {
+        liege = c_breitenbruck
+    }
+}
+
+c_weihenhorst = {
+    1.1.1 = {
+        liege = d_greifenfurt
+    }
+}
+
+b_weihenhorst = {
+    1.1.1 = {
+        liege = c_weihenhorst
+    }
+}
+
+b_rieperngaum = {
+    1.1.1 = {
+        liege = c_weihenhorst
+    }
+}
+
+b_kraehenhorst = {
+    1.1.1 = {
+        liege = c_weihenhorst
+    }
+}
+
+c_dergelstein = {
+    1.1.1 = {
+        liege = d_greifenfurt
+    }
+    993.1.1 = {
+        holder = 545
+    }
+    1012.1.1 = {
+        holder = 544
+    }
+    1017.1.1 = {
+        holder = 543
+    }
+}
+
+b_boronshof = {
+    1.1.1 = {
+        liege = c_dergelstein
+    }
+}
+
+b_dergelstein = {
+    1.1.1 = {
+        liege = c_dergelstein
+    }
+}
+
+b_gruenwarte = {
+    1.1.1 = {
+        liege = c_dergelstein
+    }
+}
+
+b_hainroden = {
+    1.1.1 = {
+        liege = c_dergelstein
+    }
+}
+

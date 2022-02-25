@@ -1,0 +1,1143 @@
+﻿# 318 - Hohenstein
+318 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 319 - Rommilys
+319 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 320 - Schwanen
+320 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = church_holding
+
+}
+
+# 321 - Sturmfels
+321 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 322 - Niederborn
+322 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 323 - Dettenhofen
+323 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 324 - Wolfskopf
+324 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = church_holding
+
+}
+
+# 325 - Mersingen
+325 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 326 - Pulverbergen
+326 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 327 - Sancta Boronia
+327 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = church_holding
+
+}
+
+# 328 - Devendoch
+328 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 329 - Devensberg
+329 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 330 - Balderweith
+330 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 331 - Aschenfeld
+331 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 332 - Vierbyrgen
+332 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 333 - Bohlenburg
+333 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 334 - Bohlenstett
+334 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 335 - Gorbentrutz
+335 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 336 - Moosbrunn
+336 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 337 - Boronia
+337 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 338 - Drollenpfort
+338 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 339 - Gryffenstein
+339 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 340 - Travinianshall
+340 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 341 - Zwerch
+341 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 342 - Rankaraliretena
+342 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = church_holding
+
+}
+
+# 343 - Gallys
+343 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 344 - Daffel
+344 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 345 - Grassing
+345 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 346 - Arlingen
+346 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 347 - Auweiler
+347 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = church_holding
+
+}
+
+# 348 - Ochsenfels
+348 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 349 - Ochsenweide
+349 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 350 - Zweimühlen
+350 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 351 - Talf
+351 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 352 - Wehrheim
+352 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 353 - Waldsend
+353 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 354 - Helmdahl
+354 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = church_holding
+
+}
+
+# 355 - Lodenbach
+355 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 356 - Dreistein
+356 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 357 - Wolfsfels
+357 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 358 - Meidenstein
+358 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 359 - Barken
+359 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 360 - Rappenstein
+360 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 361 - Rappenfluhe
+361 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 362 - Mistelstein
+362 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 363 - Mistelhausen
+363 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 364 - Dornstyn
+364 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 365 - Rosenhausen
+365 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 366 - Dorntempel
+366 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = church_holding
+
+}
+
+# 367 - Bregelsaum
+367 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 368 - Hallingen
+368 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 369 - Brückstein
+369 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 370 - Brücksgau
+370 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 371 - Lauben
+371 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 372 - Hirschwailer
+372 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 373 - Galbenburg
+373 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 374 - Galbenweiler
+374 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 375 - Galbenstein
+375 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = church_holding
+
+}
+
+# 376 - Dergelheim
+376 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 377 - Perz
+377 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 378 - St. Praiodan
+378 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = church_holding
+
+}
+
+# 379 - Leffenstein
+379 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 380 - Berler
+380 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 381 - Binsböckel
+381 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = church_holding
+
+}
+
+# 382 - Rabenmund
+382 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 383 - Bröckling
+383 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 384 - Schlotz
+384 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 385 - Schwerterburg
+385 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 386 - Oppstein
+386 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 387 - Drachweiler
+387 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = church_holding
+
+}
+
+# 388 - Friedstein
+388 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 389 - Friedwang
+389 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 390 - Nordenheim
+390 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = church_holding
+
+}
+
+# 391 - Wutzenwald
+391 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 392 - Altzoll
+392 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 393 - Wulfen
+393 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 394 - Storckenfels
+394 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = church_holding
+
+}
+
+# 395 - Rechthag_1
+395 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 396 - Rechthag_2
+396 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 397 - Trutzburg
+397 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 398 - Golzburg
+398 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 399 - Golzheim
+399 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 400 - Gatterburg
+400 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 401 - Radil
+401 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 402 - Zumbelburg
+402 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 403 - Zumbelstett
+403 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 404 - Sensenhöh
+404 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 405 - Sensenmatt
+405 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 406 - Praiosau
+406 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 407 - Aarentann
+407 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 408 - Rabenberg
+408 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 409 - Rabenfeld
+409 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 410 - Eckelstein
+410 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 411 - Eckelstor
+411 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 412 - Alt-Bergenbach
+412 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 413 - Hagens Hof
+413 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 414 - Wassertälern
+414 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 415 - Tälerort
+415 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 416 - Rotenzenn
+416 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 417 - Trollstätt
+417 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 418 - Gugelstett
+418 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 419 - Lorsunk
+419 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 420 - Trollzwinge
+420 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 421 - Adlerhorst
+421 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 422 - Knoppsberg
+422 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 423 - Feldhütten
+423 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 424 - Trollkamm
+424 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 425 - Zackenberg
+425 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 426 - Felshöhn
+426 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = church_holding
+
+}
+
+# 427 - Gluckenhang
+427 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 428 - Zuderfal
+428 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 429 - Urbach
+429 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = church_holding
+
+}
+
+# 430 - Thannfest
+430 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 431 - Dergelmund
+431 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 432 - Zackenwacht
+432 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 433 - Mallvenstein
+433 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 434 - Vellberg
+434 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 435 - Angareth
+435 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 436 - Bergesruh
+436 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 437 - Cave of Strutzz 
+437 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 438 - Cravolds Haag
+438 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 439 - Firunsau
+439 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 440 - Morgan
+440 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 441 - Hengefels
+441 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 442 - Treuenklamm
+442 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = church_holding
+
+}
+
+# 443 - Efferdsträne
+443 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 444 - Jolis
+444 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+

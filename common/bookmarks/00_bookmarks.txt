@@ -1,0 +1,29 @@
+﻿reto_reform_start = {
+	start_date = 975.1.2
+	is_playable = yes
+}
+
+after_ogre_reform = {
+	start_date = 1004.1.2
+	is_playable = yes
+}
+
+brin_start = {
+	start_date = 1010.1.2
+	is_playable = yes
+}
+
+ochsenbluter_urkunde_start = {
+	start_date = 1028.1.2
+	is_playable = yes
+}
+
+friedensbulle_von_rommilys_start = {
+	start_date = 1036.1.2
+	is_playable = yes
+}
+
+aktuell_start = {
+	start_date = 1043.1.2
+	is_playable = yes
+}

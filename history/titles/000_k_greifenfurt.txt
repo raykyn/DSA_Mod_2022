@@ -1,0 +1,18 @@
+﻿k_greifenfurt = {
+    1.1.1 = {
+        liege = e_mittelreich
+    }
+    9.1.1 = {
+        holder = 508
+    }
+    982.1.1 = {
+        holder = 506
+    }
+    1004.1.1 = {
+        holder = 505
+    }
+    1014.1.1 = {
+        holder = 504
+    }
+}
+

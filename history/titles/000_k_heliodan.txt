@@ -1,0 +1,36 @@
+﻿k_heliodan = {
+    1.1.1 = {
+        government = theocracy_government
+    }
+    324.1.1 = {
+        holder = 25
+    }
+    348.1.1 = {
+        holder = 24
+    }
+    412.1.1 = {
+        holder = 23
+    }
+    419.1.1 = {
+        holder = 22
+    }
+    441.1.1 = {
+        holder = 21
+    }
+    452.1.1 = {
+        holder = 20
+    }
+    455.1.1 = {
+        holder = 19
+    }
+    965.1.1 = {
+        holder = 574
+    }
+    992.1.1 = {
+        holder = 573
+    }
+    1021.1.1 = {
+        holder = 572
+    }
+}
+

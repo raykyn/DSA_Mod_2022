@@ -1,0 +1,9 @@
+elve = {
+	index = 3800
+	inherit_chance = 1
+	birth = 0
+	random_creation = 0
+	immortal = yes
+	no_prowess_loss_from_age = yes
+	health = 2
+}

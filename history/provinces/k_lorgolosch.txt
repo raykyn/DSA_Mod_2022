@@ -1,0 +1,45 @@
+﻿# 481 - Schatodor
+481 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 482 - West-Lorgolosch
+482 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+
+# 483 - Ost-Lorgolosch
+483 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = church_holding
+
+}
+
+# 484 - Ilderasch
+484 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = castle_holding
+
+}
+
+# 485 - Kibrom
+485 = {
+
+    culture = test_culture
+    religion = test_faith
+    holding = city_holding
+
+}
+

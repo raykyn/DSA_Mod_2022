@@ -1,0 +1,15 @@
+﻿k_traviamark = {
+    1.1.1 = {
+        liege = e_mittelreich
+    }
+    1.1.1 = {
+        government = theocracy_government
+    }
+    1028.1.1 = {
+        holder = 576
+    }
+    1036.1.1 = {
+        holder = 0
+    }
+}
+

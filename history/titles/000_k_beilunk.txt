@@ -1,0 +1,18 @@
+﻿k_beilunk = {
+    1.1.1 = {
+        liege = e_mittelreich
+    }
+    950.1.1 = {
+        holder = 662
+    }
+    987.1.1 = {
+        holder = 661
+    }
+    1014.1.1 = {
+        holder = 660
+    }
+    1021.1.1 = {
+        government = theocracy_government
+    }
+}
+
