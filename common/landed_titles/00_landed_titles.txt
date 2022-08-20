@@ -20,31 +20,31 @@
                 b_rohalsfelden = {
                     color = { 104 152 52 }
                     color2 = { 255 255 255 }
-                    province = 1
+                    province = 1.0
                 }
 
                 b_neu_gareth = {
                     color = { 104 66 52 }
                     color2 = { 255 255 255 }
-                    province = 2
+                    province = 2.0
                 }
 
                 b_meilersgrund = {
                     color = { 104 115 52 }
                     color2 = { 255 255 255 }
-                    province = 3
+                    province = 3.0
                 }
 
                 b_weisshorn = {
                     color = { 104 135 52 }
                     color2 = { 255 255 255 }
-                    province = 4
+                    province = 4.0
                 }
 
                 b_goldenkron = {
                     color = { 104 25 52 }
                     color2 = { 255 255 255 }
-                    province = 5
+                    province = 5.0
                 }
 
             }
@@ -56,7 +56,7 @@
                 b_alt_gareth = {
                     color = { 254 15 127 }
                     color2 = { 255 255 255 }
-                    province = 6
+                    province = 6.0
                 }
 
             }
@@ -68,31 +68,31 @@
                 b_silkwiesen = {
                     color = { 13 80 11 }
                     color2 = { 255 255 255 }
-                    province = 7
+                    province = 7.0
                 }
 
                 b_brachenwacht = {
                     color = { 13 100 11 }
                     color2 = { 255 255 255 }
-                    province = 8
+                    province = 8.0
                 }
 
                 b_st_ancilla = {
                     color = { 13 60 11 }
                     color2 = { 255 255 255 }
-                    province = 9
+                    province = 9.0
                 }
 
                 b_briskengrund = {
                     color = { 13 140 11 }
                     color2 = { 255 255 255 }
-                    province = 10
+                    province = 10.0
                 }
 
                 b_wiehingen = {
                     color = { 13 120 11 }
                     color2 = { 255 255 255 }
-                    province = 11
+                    province = 11.0
                 }
 
             }
@@ -104,25 +104,25 @@
                 b_schellenpfort = {
                     color = { 108 20 100 }
                     color2 = { 255 255 255 }
-                    province = 12
+                    province = 12.0
                 }
 
                 b_vierok = {
                     color = { 108 20 200 }
                     color2 = { 255 255 255 }
-                    province = 13
+                    province = 13.0
                 }
 
                 b_garafansbrueck = {
                     color = { 108 20 150 }
                     color2 = { 255 255 255 }
-                    province = 14
+                    province = 14.0
                 }
 
                 b_untergardeln = {
                     color = { 108 20 0 }
                     color2 = { 255 255 255 }
-                    province = 15
+                    province = 15.0
                 }
 
             }
@@ -134,19 +134,19 @@
                 b_goldenstein = {
                     color = { 47 36 0 }
                     color2 = { 255 255 255 }
-                    province = 16
+                    province = 16.0
                 }
 
                 b_nattersquell = {
                     color = { 47 36 200 }
                     color2 = { 255 255 255 }
-                    province = 17
+                    province = 17.0
                 }
 
                 b_muehlingen = {
                     color = { 47 36 100 }
                     color2 = { 255 255 255 }
-                    province = 18
+                    province = 18.0
                 }
 
             }
@@ -158,25 +158,25 @@
                 b_alrikshorst = {
                     color = { 44 78 250 }
                     color2 = { 255 255 255 }
-                    province = 19
+                    province = 19.0
                 }
 
                 b_alrikshain = {
                     color = { 44 78 150 }
                     color2 = { 255 255 255 }
-                    province = 20
+                    province = 20.0
                 }
 
                 b_st_belliatlus = {
                     color = { 44 78 50 }
                     color2 = { 255 255 255 }
-                    province = 21
+                    province = 21.0
                 }
 
                 b_finkenbach = {
                     color = { 44 78 0 }
                     color2 = { 255 255 255 }
-                    province = 22
+                    province = 22.0
                 }
 
             }
@@ -188,25 +188,25 @@
                 b_menzelshall = {
                     color = { 250 121 240 }
                     color2 = { 255 255 255 }
-                    province = 23
+                    province = 23.0
                 }
 
                 b_ackbar = {
                     color = { 250 121 180 }
                     color2 = { 255 255 255 }
-                    province = 24
+                    province = 24.0
                 }
 
                 b_perainenau = {
                     color = { 250 121 120 }
                     color2 = { 255 255 255 }
-                    province = 25
+                    province = 25.0
                 }
 
                 b_scheuerlintz = {
                     color = { 250 121 60 }
                     color2 = { 255 255 255 }
-                    province = 26
+                    province = 26.0
                 }
 
             }
@@ -218,25 +218,25 @@
                 b_neusighelmsstein = {
                     color = { 250 24 180 }
                     color2 = { 255 255 255 }
-                    province = 27
+                    province = 27.0
                 }
 
                 b_gueldenfeldt = {
                     color = { 250 24 120 }
                     color2 = { 255 255 255 }
-                    province = 28
+                    province = 28.0
                 }
 
                 b_aurenwald = {
                     color = { 250 24 60 }
                     color2 = { 255 255 255 }
-                    province = 29
+                    province = 29.0
                 }
 
                 b_sighelmsaue = {
                     color = { 250 24 0 }
                     color2 = { 255 255 255 }
-                    province = 30
+                    province = 30.0
                 }
 
             }
@@ -248,31 +248,31 @@
                 b_ochsenblut = {
                     color = { 46 170 60 }
                     color2 = { 255 255 255 }
-                    province = 31
+                    province = 31.0
                 }
 
                 b_st_radul = {
                     color = { 46 170 120 }
                     color2 = { 255 255 255 }
-                    province = 32
+                    province = 32.0
                 }
 
                 b_mueckenhang = {
                     color = { 46 170 180 }
                     color2 = { 255 255 255 }
-                    province = 33
+                    province = 33.0
                 }
 
                 b_heiterfeld = {
                     color = { 46 170 240 }
                     color2 = { 255 255 255 }
-                    province = 34
+                    province = 34.0
                 }
 
                 b_wagenhalt = {
                     color = { 46 170 0 }
                     color2 = { 255 255 255 }
-                    province = 35
+                    province = 35.0
                 }
 
             }
@@ -291,31 +291,31 @@
                 b_fandolesch = {
                     color = { 115 191 90 }
                     color2 = { 255 255 255 }
-                    province = 36
+                    province = 36.0
                 }
 
                 b_albenfeld = {
                     color = { 115 191 150 }
                     color2 = { 255 255 255 }
-                    province = 37
+                    province = 37.0
                 }
 
                 b_halden = {
                     color = { 115 191 210 }
                     color2 = { 255 255 255 }
-                    province = 38
+                    province = 38.0
                 }
 
                 b_roden = {
                     color = { 115 191 30 }
                     color2 = { 255 255 255 }
-                    province = 39
+                    province = 39.0
                 }
 
                 b_krauzung = {
                     color = { 115 191 250 }
                     color2 = { 255 255 255 }
-                    province = 40
+                    province = 40.0
                 }
 
             }
@@ -327,25 +327,25 @@
                 b_gryffenwacht = {
                     color = { 218 92 220 }
                     color2 = { 255 255 255 }
-                    province = 41
+                    province = 41.0
                 }
 
                 b_nattergrund = {
                     color = { 218 92 160 }
                     color2 = { 255 255 255 }
-                    province = 42
+                    province = 42.0
                 }
 
                 b_praioslob = {
                     color = { 218 92 100 }
                     color2 = { 255 255 255 }
-                    province = 43
+                    province = 43.0
                 }
 
                 b_st_ukurien = {
                     color = { 218 92 40 }
                     color2 = { 255 255 255 }
-                    province = 44
+                    province = 44.0
                 }
 
             }
@@ -357,7 +357,7 @@
                 b_wandleth = {
                     color = { 113 146 154 }
                     color2 = { 255 255 255 }
-                    province = 45
+                    province = 45.0
                 }
 
             }
@@ -369,31 +369,31 @@
                 b_freudenstein = {
                     color = { 27 139 160 }
                     color2 = { 255 255 255 }
-                    province = 46
+                    province = 46.0
                 }
 
                 b_wiesburg = {
                     color = { 27 139 100 }
                     color2 = { 255 255 255 }
-                    province = 47
+                    province = 47.0
                 }
 
                 b_st_falkhilde = {
                     color = { 27 139 40 }
                     color2 = { 255 255 255 }
-                    province = 48
+                    province = 48.0
                 }
 
                 b_erlengrund = {
                     color = { 27 139 250 }
                     color2 = { 255 255 255 }
-                    province = 49
+                    province = 49.0
                 }
 
                 b_murimel = {
                     color = { 27 139 0 }
                     color2 = { 255 255 255 }
-                    province = 50
+                    province = 50.0
                 }
 
             }
@@ -405,31 +405,31 @@
                 b_kuchin = {
                     color = { 120 155 20 }
                     color2 = { 255 255 255 }
-                    province = 51
+                    province = 51.0
                 }
 
                 b_ruchin = {
                     color = { 120 155 80 }
                     color2 = { 255 255 255 }
-                    province = 52
+                    province = 52.0
                 }
 
                 b_schlund = {
                     color = { 120 155 140 }
                     color2 = { 255 255 255 }
-                    province = 53
+                    province = 53.0
                 }
 
                 b_untergreupel = {
                     color = { 120 155 200 }
                     color2 = { 255 255 255 }
-                    province = 54
+                    province = 54.0
                 }
 
                 b_hangwald = {
                     color = { 120 155 250 }
                     color2 = { 255 255 255 }
-                    province = 55
+                    province = 55.0
                 }
 
             }
@@ -441,25 +441,25 @@
                 b_koenigswaldhuet = {
                     color = { 78 37 50 }
                     color2 = { 255 255 255 }
-                    province = 56
+                    province = 56.0
                 }
 
                 b_st_dappertin = {
                     color = { 78 37 110 }
                     color2 = { 255 255 255 }
-                    province = 57
+                    province = 57.0
                 }
 
                 b_perainsgarten = {
                     color = { 78 37 170 }
                     color2 = { 255 255 255 }
-                    province = 58
+                    province = 58.0
                 }
 
                 b_unterdachsen = {
                     color = { 78 37 230 }
                     color2 = { 255 255 255 }
-                    province = 59
+                    province = 59.0
                 }
 
             }
@@ -471,31 +471,31 @@
                 b_oberhartsteen = {
                     color = { 12 49 80 }
                     color2 = { 255 255 255 }
-                    province = 60
+                    province = 60.0
                 }
 
                 b_hartwalden = {
                     color = { 12 49 140 }
                     color2 = { 255 255 255 }
-                    province = 61
+                    province = 61.0
                 }
 
                 b_desmetal = {
                     color = { 12 49 200 }
                     color2 = { 255 255 255 }
-                    province = 62
+                    province = 62.0
                 }
 
                 b_hausen = {
                     color = { 12 49 250 }
                     color2 = { 255 255 255 }
-                    province = 63
+                    province = 63.0
                 }
 
                 b_darpatwacht = {
                     color = { 12 49 0 }
                     color2 = { 255 255 255 }
-                    province = 64
+                    province = 64.0
                 }
 
             }
@@ -507,25 +507,25 @@
                 b_ox = {
                     color = { 151 183 50 }
                     color2 = { 255 255 255 }
-                    province = 65
+                    province = 65.0
                 }
 
                 b_st_ogdolf = {
                     color = { 151 183 125 }
                     color2 = { 255 255 255 }
-                    province = 66
+                    province = 66.0
                 }
 
                 b_torbelstein = {
                     color = { 151 183 200 }
                     color2 = { 255 255 255 }
-                    province = 67
+                    province = 67.0
                 }
 
                 b_dachsen = {
                     color = { 151 183 250 }
                     color2 = { 255 255 255 }
-                    province = 68
+                    province = 68.0
                 }
 
             }
@@ -544,31 +544,31 @@
                 b_baladinstein = {
                     color = { 48 90 200 }
                     color2 = { 255 255 255 }
-                    province = 69
+                    province = 69.0
                 }
 
                 b_benget = {
                     color = { 48 90 250 }
                     color2 = { 255 255 255 }
-                    province = 70
+                    province = 70.0
                 }
 
                 b_grafenfels = {
                     color = { 48 90 0 }
                     color2 = { 255 255 255 }
-                    province = 71
+                    province = 71.0
                 }
 
                 b_neuenacker = {
                     color = { 48 90 50 }
                     color2 = { 255 255 255 }
-                    province = 72
+                    province = 72.0
                 }
 
                 b_kaisertal = {
                     color = { 48 90 100 }
                     color2 = { 255 255 255 }
-                    province = 73
+                    province = 73.0
                 }
 
             }
@@ -580,7 +580,7 @@
                 b_eslamsgrund = {
                     color = { 48 90 150 }
                     color2 = { 255 255 255 }
-                    province = 74
+                    province = 74.0
                 }
 
             }
@@ -592,19 +592,19 @@
                 b_falkengrund = {
                     color = { 153 245 190 }
                     color2 = { 255 255 255 }
-                    province = 75
+                    province = 75.0
                 }
 
                 b_liebchengrund = {
                     color = { 153 245 0 }
                     color2 = { 255 255 255 }
-                    province = 76
+                    province = 76.0
                 }
 
                 b_rondratrutz = {
                     color = { 153 245 95 }
                     color2 = { 255 255 255 }
-                    province = 77
+                    province = 77.0
                 }
 
             }
@@ -616,25 +616,25 @@
                 b_dornau = {
                     color = { 143 4 14 }
                     color2 = { 255 255 255 }
-                    province = 78
+                    province = 78.0
                 }
 
                 b_praiosgnad = {
                     color = { 143 4 74 }
                     color2 = { 255 255 255 }
-                    province = 79
+                    province = 79.0
                 }
 
                 b_nimmerjoch = {
                     color = { 143 4 134 }
                     color2 = { 255 255 255 }
-                    province = 80
+                    province = 80.0
                 }
 
                 b_hortungen = {
                     color = { 143 4 194 }
                     color2 = { 255 255 255 }
-                    province = 81
+                    province = 81.0
                 }
 
             }
@@ -646,25 +646,25 @@
                 b_rathsamsberge = {
                     color = { 48 74 100 }
                     color2 = { 255 255 255 }
-                    province = 82
+                    province = 82.0
                 }
 
                 b_st_berathraban = {
                     color = { 48 74 175 }
                     color2 = { 255 255 255 }
-                    province = 83
+                    province = 83.0
                 }
 
                 b_tolakstein = {
                     color = { 48 74 250 }
                     color2 = { 255 255 255 }
-                    province = 84
+                    province = 84.0
                 }
 
                 b_joching = {
                     color = { 48 74 0 }
                     color2 = { 255 255 255 }
-                    province = 85
+                    province = 85.0
                 }
 
             }
@@ -676,25 +676,25 @@
                 b_silvadon = {
                     color = { 46 121 170 }
                     color2 = { 255 255 255 }
-                    province = 86
+                    province = 86.0
                 }
 
                 b_marmonte = {
                     color = { 46 121 250 }
                     color2 = { 255 255 255 }
-                    province = 87
+                    province = 87.0
                 }
 
                 b_st_ireanor = {
                     color = { 46 121 0 }
                     color2 = { 255 255 255 }
-                    province = 88
+                    province = 88.0
                 }
 
                 b_dornbusch = {
                     color = { 46 121 85 }
                     color2 = { 255 255 255 }
-                    province = 89
+                    province = 89.0
                 }
 
             }
@@ -706,25 +706,25 @@
                 b_greifenstolz = {
                     color = { 86 252 85 }
                     color2 = { 255 255 255 }
-                    province = 90
+                    province = 90.0
                 }
 
                 b_eychgras = {
                     color = { 86 252 145 }
                     color2 = { 255 255 255 }
-                    province = 91
+                    province = 91.0
                 }
 
                 b_merun = {
                     color = { 86 252 205 }
                     color2 = { 255 255 255 }
-                    province = 92
+                    province = 92.0
                 }
 
                 b_lichterneck = {
                     color = { 86 252 0 }
                     color2 = { 255 255 255 }
-                    province = 93
+                    province = 93.0
                 }
 
             }
@@ -736,25 +736,25 @@
                 b_mor'tres = {
                     color = { 113 143 165 }
                     color2 = { 255 255 255 }
-                    province = 94
+                    province = 94.0
                 }
 
                 b_gallestra = {
                     color = { 113 143 250 }
                     color2 = { 255 255 255 }
-                    province = 95
+                    province = 95.0
                 }
 
                 b_perainefelden = {
                     color = { 113 143 80 }
                     color2 = { 255 255 255 }
-                    province = 96
+                    province = 96.0
                 }
 
                 b_silberblick = {
                     color = { 113 143 0 }
                     color2 = { 255 255 255 }
-                    province = 97
+                    province = 97.0
                 }
 
             }
@@ -766,19 +766,19 @@
                 b_hahnenfels = {
                     color = { 230 74 55 }
                     color2 = { 255 255 255 }
-                    province = 98
+                    province = 98.0
                 }
 
                 b_fremmelshof = {
                     color = { 230 74 155 }
                     color2 = { 255 255 255 }
-                    province = 99
+                    province = 99.0
                 }
 
                 b_gippelstein = {
                     color = { 230 74 255 }
                     color2 = { 255 255 255 }
-                    province = 100
+                    province = 100.0
                 }
 
             }
@@ -790,19 +790,19 @@
                 b_zagrosch = {
                     color = { 228 79 65 }
                     color2 = { 255 255 255 }
-                    province = 101
+                    province = 101.0
                 }
 
                 b_zagbar = {
                     color = { 228 79 155 }
                     color2 = { 255 255 255 }
-                    province = 102
+                    province = 102.0
                 }
 
                 b_kupfergrab = {
                     color = { 228 79 255 }
                     color2 = { 255 255 255 }
-                    province = 103
+                    province = 103.0
                 }
 
             }
@@ -821,19 +821,19 @@
                 b_rubreth = {
                     color = { 236 81 35 }
                     color2 = { 255 255 255 }
-                    province = 104
+                    province = 104.0
                 }
 
                 b_waldwiesen = {
                     color = { 236 81 145 }
                     color2 = { 255 255 255 }
-                    province = 105
+                    province = 105.0
                 }
 
                 b_cresseneck = {
                     color = { 236 81 255 }
                     color2 = { 255 255 255 }
-                    province = 106
+                    province = 106.0
                 }
 
             }
@@ -845,25 +845,25 @@
                 b_randersburg = {
                     color = { 103 249 90 }
                     color2 = { 255 255 255 }
-                    province = 114
+                    province = 114.0
                 }
 
                 b_hornbach = {
                     color = { 103 249 175 }
                     color2 = { 255 255 255 }
-                    province = 115
+                    province = 115.0
                 }
 
                 b_st_barmhilde = {
                     color = { 103 249 255 }
                     color2 = { 255 255 255 }
-                    province = 116
+                    province = 116.0
                 }
 
                 b_sonnenfeld = {
                     color = { 103 249 0 }
                     color2 = { 255 255 255 }
-                    province = 117
+                    province = 117.0
                 }
 
             }
@@ -875,25 +875,25 @@
                 b_esenfeld = {
                     color = { 103 27 245 }
                     color2 = { 255 255 255 }
-                    province = 129
+                    province = 129.0
                 }
 
                 b_schwarztannen = {
                     color = { 103 27 0 }
                     color2 = { 255 255 255 }
-                    province = 130
+                    province = 130.0
                 }
 
                 b_hexenmuehle = {
                     color = { 103 27 80 }
                     color2 = { 255 255 255 }
-                    province = 131
+                    province = 131.0
                 }
 
                 b_erlenfall = {
                     color = { 103 27 160 }
                     color2 = { 255 255 255 }
-                    province = 132
+                    province = 132.0
                 }
 
             }
@@ -905,25 +905,25 @@
                 b_waldfang = {
                     color = { 165 244 0 }
                     color2 = { 255 255 255 }
-                    province = 121
+                    province = 121.0
                 }
 
                 b_goldlinden = {
                     color = { 165 244 90 }
                     color2 = { 255 255 255 }
-                    province = 122
+                    province = 122.0
                 }
 
                 b_schweigende_wacht = {
                     color = { 165 244 180 }
                     color2 = { 255 255 255 }
-                    province = 123
+                    province = 123.0
                 }
 
                 b_hirschpforten = {
                     color = { 165 244 255 }
                     color2 = { 255 255 255 }
-                    province = 124
+                    province = 124.0
                 }
 
             }
@@ -935,19 +935,19 @@
                 b_rotkraehenborn = {
                     color = { 24 194 100 }
                     color2 = { 255 255 255 }
-                    province = 118
+                    province = 118.0
                 }
 
                 b_rallerspfort = {
                     color = { 24 194 180 }
                     color2 = { 255 255 255 }
-                    province = 119
+                    province = 119.0
                 }
 
                 b_leuchtenfeld = {
                     color = { 24 194 255 }
                     color2 = { 255 255 255 }
-                    province = 120
+                    province = 120.0
                 }
 
             }
@@ -959,19 +959,19 @@
                 b_syrrenholt = {
                     color = { 110 139 40 }
                     color2 = { 255 255 255 }
-                    province = 111
+                    province = 111.0
                 }
 
                 b_untergras = {
                     color = { 110 139 110 }
                     color2 = { 255 255 255 }
-                    province = 112
+                    province = 112.0
                 }
 
                 b_st_emmeran = {
                     color = { 110 139 255 }
                     color2 = { 255 255 255 }
-                    province = 113
+                    province = 113.0
                 }
 
             }
@@ -983,25 +983,25 @@
                 b_hirschwalden = {
                     color = { 100 98 130 }
                     color2 = { 255 255 255 }
-                    province = 107
+                    province = 107.0
                 }
 
                 b_samlor = {
                     color = { 100 98 190 }
                     color2 = { 255 255 255 }
-                    province = 108
+                    province = 108.0
                 }
 
                 b_marano = {
                     color = { 100 98 255 }
                     color2 = { 255 255 255 }
-                    province = 109
+                    province = 109.0
                 }
 
                 b_talbach = {
                     color = { 100 98 0 }
                     color2 = { 255 255 255 }
-                    province = 110
+                    province = 110.0
                 }
 
             }
@@ -1013,25 +1013,25 @@
                 b_luring = {
                     color = { 2 17 185 }
                     color2 = { 255 255 255 }
-                    province = 125
+                    province = 125.0
                 }
 
                 b_spinnried = {
                     color = { 2 17 255 }
                     color2 = { 255 255 255 }
-                    province = 126
+                    province = 126.0
                 }
 
                 b_truegensfeld = {
                     color = { 2 17 0 }
                     color2 = { 255 255 255 }
-                    province = 127
+                    province = 127.0
                 }
 
                 b_cronenfurt = {
                     color = { 2 17 90 }
                     color2 = { 255 255 255 }
-                    province = 128
+                    province = 128.0
                 }
 
             }
@@ -1050,31 +1050,31 @@
                 b_natzungen = {
                     color = { 147 106 45 }
                     color2 = { 255 255 255 }
-                    province = 133
+                    province = 133.0
                 }
 
                 b_praioreth = {
                     color = { 147 106 115 }
                     color2 = { 255 255 255 }
-                    province = 134
+                    province = 134.0
                 }
 
                 b_muhlwasser = {
                     color = { 147 106 185 }
                     color2 = { 255 255 255 }
-                    province = 135
+                    province = 135.0
                 }
 
                 b_poppelhoven = {
                     color = { 147 106 255 }
                     color2 = { 255 255 255 }
-                    province = 136
+                    province = 136.0
                 }
 
                 b_langtal = {
                     color = { 147 106 0 }
                     color2 = { 255 255 255 }
-                    province = 137
+                    province = 137.0
                 }
 
             }
@@ -1086,7 +1086,7 @@
                 b_hartsteen = {
                     color = { 77 224 158 }
                     color2 = { 255 255 255 }
-                    province = 138
+                    province = 138.0
                 }
 
             }
@@ -1098,25 +1098,25 @@
                 b_aldengrund = {
                     color = { 201 7 235 }
                     color2 = { 255 255 255 }
-                    province = 139
+                    province = 139.0
                 }
 
                 b_puleth = {
                     color = { 201 7 160 }
                     color2 = { 255 255 255 }
-                    province = 140
+                    province = 140.0
                 }
 
                 b_tannenheim = {
                     color = { 201 7 80 }
                     color2 = { 255 255 255 }
-                    province = 141
+                    province = 141.0
                 }
 
                 b_sommerau = {
                     color = { 201 7 0 }
                     color2 = { 255 255 255 }
-                    province = 142
+                    province = 142.0
                 }
 
             }
@@ -1125,34 +1125,34 @@
                 color = { 218 29 120 }
                 color2 = { 255 255 255 }
 
-                b_liliengrund = {
+                b_liliengrund_2 = {
                     color = { 218 29 120 }
                     color2 = { 255 255 255 }
-                    province = 143
+                    province = 143.0
                 }
 
                 b_baerenau = {
                     color = { 218 29 180 }
                     color2 = { 255 255 255 }
-                    province = 144
+                    province = 144.0
                 }
 
                 b_krolocksaue = {
                     color = { 218 29 255 }
                     color2 = { 255 255 255 }
-                    province = 145
+                    province = 145.0
                 }
 
                 b_cavans_steg = {
                     color = { 218 29 60 }
                     color2 = { 255 255 255 }
-                    province = 146
+                    province = 146.0
                 }
 
                 b_ibelstein = {
                     color = { 218 29 0 }
                     color2 = { 255 255 255 }
-                    province = 147
+                    province = 147.0
                 }
 
             }
@@ -1164,13 +1164,13 @@
                 b_feidewald = {
                     color = { 205 204 225 }
                     color2 = { 255 255 255 }
-                    province = 148
+                    province = 148.0
                 }
 
                 b_hirschenrode = {
                     color = { 205 204 0 }
                     color2 = { 255 255 255 }
-                    province = 149
+                    province = 149.0
                 }
 
             }
@@ -1182,31 +1182,31 @@
                 b_hutt = {
                     color = { 245 103 95 }
                     color2 = { 255 255 255 }
-                    province = 150
+                    province = 150.0
                 }
 
                 b_dorp = {
                     color = { 245 103 0 }
                     color2 = { 255 255 255 }
-                    province = 151
+                    province = 151.0
                 }
 
                 b_bertolfshufen = {
                     color = { 245 103 255 }
                     color2 = { 255 255 255 }
-                    province = 152
+                    province = 152.0
                 }
 
                 b_schirchrain = {
                     color = { 245 103 200 }
                     color2 = { 255 255 255 }
-                    province = 153
+                    province = 153.0
                 }
 
                 b_moorsch = {
                     color = { 245 103 150 }
                     color2 = { 255 255 255 }
-                    province = 154
+                    province = 154.0
                 }
 
             }
@@ -1218,25 +1218,25 @@
                 b_rabensbrueck = {
                     color = { 149 47 100 }
                     color2 = { 255 255 255 }
-                    province = 155
+                    province = 155.0
                 }
 
                 b_reck = {
                     color = { 149 47 0 }
                     color2 = { 255 255 255 }
-                    province = 156
+                    province = 156.0
                 }
 
                 b_sturmwacht = {
                     color = { 149 47 200 }
                     color2 = { 255 255 255 }
-                    province = 157
+                    province = 157.0
                 }
 
                 b_oberdommel = {
                     color = { 149 47 255 }
                     color2 = { 255 255 255 }
-                    province = 158
+                    province = 158.0
                 }
 
             }
@@ -1248,25 +1248,25 @@
                 b_bugenhog = {
                     color = { 153 105 235 }
                     color2 = { 255 255 255 }
-                    province = 159
+                    province = 159.0
                 }
 
                 b_reynhartsbruck = {
                     color = { 153 105 0 }
                     color2 = { 255 255 255 }
-                    province = 160
+                    province = 160.0
                 }
 
                 b_perainsgarten_2 = {
                     color = { 153 105 80 }
                     color2 = { 255 255 255 }
-                    province = 161
+                    province = 161.0
                 }
 
                 b_leplenfeld = {
                     color = { 153 105 160 }
                     color2 = { 255 255 255 }
-                    province = 162
+                    province = 162.0
                 }
 
             }
@@ -1278,31 +1278,31 @@
                 b_zwingzahn = {
                     color = { 105 155 135 }
                     color2 = { 255 255 255 }
-                    province = 163
+                    province = 163.0
                 }
 
                 b_horeth = {
                     color = { 105 155 0 }
                     color2 = { 255 255 255 }
-                    province = 164
+                    province = 164.0
                 }
 
                 b_st_noiona = {
                     color = { 105 155 255 }
                     color2 = { 255 255 255 }
-                    province = 165
+                    province = 165.0
                 }
 
                 b_finsterstein = {
                     color = { 105 155 70 }
                     color2 = { 255 255 255 }
-                    province = 166
+                    province = 166.0
                 }
 
                 b_firunshoeh = {
                     color = { 105 155 195 }
                     color2 = { 255 255 255 }
-                    province = 167
+                    province = 167.0
                 }
 
             }
@@ -1321,13 +1321,13 @@
                 b_silz = {
                     color = { 170 16 85 }
                     color2 = { 255 255 255 }
-                    province = 181
+                    province = 181.0
                 }
 
                 b_gansbach = {
                     color = { 170 16 255 }
                     color2 = { 255 255 255 }
-                    province = 182
+                    province = 182.0
                 }
 
             }
@@ -1339,25 +1339,25 @@
                 b_waldesruh = {
                     color = { 111 53 140 }
                     color2 = { 255 255 255 }
-                    province = 173
+                    province = 173.0
                 }
 
                 b_leihenbutt = {
                     color = { 111 53 0 }
                     color2 = { 255 255 255 }
-                    province = 174
+                    province = 174.0
                 }
 
                 b_perainelob = {
                     color = { 111 53 255 }
                     color2 = { 255 255 255 }
-                    province = 175
+                    province = 175.0
                 }
 
                 b_sommerberg = {
                     color = { 111 53 70 }
                     color2 = { 255 255 255 }
-                    province = 176
+                    province = 176.0
                 }
 
             }
@@ -1369,25 +1369,25 @@
                 b_bitani = {
                     color = { 101 239 165 }
                     color2 = { 255 255 255 }
-                    province = 186
+                    province = 186.0
                 }
 
                 b_ueberdiebreite = {
                     color = { 101 239 255 }
                     color2 = { 255 255 255 }
-                    province = 187
+                    province = 187.0
                 }
 
                 b_rallerwacht = {
                     color = { 101 239 0 }
                     color2 = { 255 255 255 }
-                    province = 188
+                    province = 188.0
                 }
 
                 b_leuental = {
                     color = { 101 239 80 }
                     color2 = { 255 255 255 }
-                    province = 189
+                    province = 189.0
                 }
 
             }
@@ -1399,13 +1399,13 @@
                 b_windenstein = {
                     color = { 66 49 224 }
                     color2 = { 255 255 255 }
-                    province = 193
+                    province = 193.0
                 }
 
                 b_osenbrueck = {
                     color = { 66 49 0 }
                     color2 = { 255 255 255 }
-                    province = 194
+                    province = 194.0
                 }
 
             }
@@ -1417,13 +1417,13 @@
                 b_schwanenbruch = {
                     color = { 195 134 255 }
                     color2 = { 255 255 255 }
-                    province = 184
+                    province = 184.0
                 }
 
                 b_seytnach = {
                     color = { 195 134 0 }
                     color2 = { 255 255 255 }
-                    province = 185
+                    province = 185.0
                 }
 
             }
@@ -1435,13 +1435,13 @@
                 b_tannwirk = {
                     color = { 32 124 185 }
                     color2 = { 255 255 255 }
-                    province = 179
+                    province = 179.0
                 }
 
                 b_tannewacht = {
                     color = { 32 124 0 }
                     color2 = { 255 255 255 }
-                    province = 180
+                    province = 180.0
                 }
 
             }
@@ -1453,19 +1453,19 @@
                 b_dullerwueben = {
                     color = { 191 35 105 }
                     color2 = { 255 255 255 }
-                    province = 195
+                    province = 195.0
                 }
 
                 b_hagenbronn = {
                     color = { 191 35 255 }
                     color2 = { 255 255 255 }
-                    province = 196
+                    province = 196.0
                 }
 
                 b_essental = {
                     color = { 191 35 0 }
                     color2 = { 255 255 255 }
-                    province = 197
+                    province = 197.0
                 }
 
             }
@@ -1477,31 +1477,31 @@
                 b_uslenried = {
                     color = { 90 76 105 }
                     color2 = { 255 255 255 }
-                    province = 168
+                    province = 168.0
                 }
 
                 b_streitzensfeld = {
                     color = { 90 76 0 }
                     color2 = { 255 255 255 }
-                    province = 169
+                    province = 169.0
                 }
 
                 b_gantekssee = {
                     color = { 90 76 255 }
                     color2 = { 255 255 255 }
-                    province = 170
+                    province = 170.0
                 }
 
                 b_usla = {
                     color = { 90 76 200 }
                     color2 = { 255 255 255 }
-                    province = 171
+                    province = 171.0
                 }
 
                 b_rallersquell = {
                     color = { 90 76 150 }
                     color2 = { 255 255 255 }
-                    province = 172
+                    province = 172.0
                 }
 
             }
@@ -1513,13 +1513,13 @@
                 b_zweifelfels = {
                     color = { 202 177 60 }
                     color2 = { 255 255 255 }
-                    province = 177
+                    province = 177.0
                 }
 
                 b_sankt_henrica = {
                     color = { 202 177 255 }
                     color2 = { 255 255 255 }
-                    province = 178
+                    province = 178.0
                 }
 
             }
@@ -1531,19 +1531,19 @@
                 b_falkenwind = {
                     color = { 249 52 180 }
                     color2 = { 255 255 255 }
-                    province = 190
+                    province = 190.0
                 }
 
                 b_bergensteen = {
                     color = { 249 52 0 }
                     color2 = { 255 255 255 }
-                    province = 191
+                    province = 191.0
                 }
 
                 b_moorwacht = {
                     color = { 249 52 90 }
                     color2 = { 255 255 255 }
-                    province = 192
+                    province = 192.0
                 }
 
             }
@@ -1555,13 +1555,13 @@
                 b_hornbeil = {
                     color = { 72 113 45 }
                     color2 = { 255 255 255 }
-                    province = 201
+                    province = 201.0
                 }
 
                 b_eynweiher = {
                     color = { 72 113 255 }
                     color2 = { 255 255 255 }
-                    province = 202
+                    province = 202.0
                 }
 
             }
@@ -1573,19 +1573,19 @@
                 b_njertal = {
                     color = { 212 245 195 }
                     color2 = { 255 255 255 }
-                    province = 198
+                    province = 198.0
                 }
 
                 b_klappechs = {
                     color = { 212 245 0 }
                     color2 = { 255 255 255 }
-                    province = 199
+                    province = 199.0
                 }
 
                 b_neerquell = {
                     color = { 212 245 100 }
                     color2 = { 255 255 255 }
-                    province = 200
+                    province = 200.0
                 }
 
             }
@@ -1597,25 +1597,25 @@
                 b_serrinstein = {
                     color = { 67 72 60 }
                     color2 = { 255 255 255 }
-                    province = 203
+                    province = 203.0
                 }
 
                 b_weissenstein = {
                     color = { 67 72 255 }
                     color2 = { 255 255 255 }
-                    province = 204
+                    province = 204.0
                 }
 
                 b_derrelsbach = {
                     color = { 67 72 0 }
                     color2 = { 255 255 255 }
-                    province = 205
+                    province = 205.0
                 }
 
                 b_serrinwald = {
                     color = { 67 72 160 }
                     color2 = { 255 255 255 }
-                    province = 206
+                    province = 206.0
                 }
 
             }
@@ -1627,7 +1627,7 @@
                 b_hirschfurt = {
                     color = { 54 231 23 }
                     color2 = { 255 255 255 }
-                    province = 183
+                    province = 183.0
                 }
 
             }
@@ -1646,25 +1646,25 @@
                 b_rabicum = {
                     color = { 6 130 61 }
                     color2 = { 255 255 255 }
-                    province = 238
+                    province = 238.0
                 }
 
                 b_perricum = {
                     color = { 6 130 255 }
                     color2 = { 255 255 255 }
-                    province = 239
+                    province = 239.0
                 }
 
                 b_st_theria = {
                     color = { 6 130 0 }
                     color2 = { 255 255 255 }
-                    province = 240
+                    province = 240.0
                 }
 
                 b_efferdsand = {
                     color = { 6 130 150 }
                     color2 = { 255 255 255 }
-                    province = 241
+                    province = 241.0
                 }
 
             }
@@ -1676,31 +1676,31 @@
                 b_herdentor = {
                     color = { 92 64 36 }
                     color2 = { 255 255 255 }
-                    province = 233
+                    province = 233.0
                 }
 
                 b_sebarin = {
                     color = { 92 64 255 }
                     color2 = { 255 255 255 }
-                    province = 234
+                    province = 234.0
                 }
 
                 b_varintal = {
                     color = { 92 64 100 }
                     color2 = { 255 255 255 }
-                    province = 235
+                    province = 235.0
                 }
 
                 b_kraehenwacht = {
                     color = { 92 64 150 }
                     color2 = { 255 255 255 }
-                    province = 236
+                    province = 236.0
                 }
 
                 b_ebengard = {
                     color = { 92 64 200 }
                     color2 = { 255 255 255 }
-                    province = 237
+                    province = 237.0
                 }
 
             }
@@ -1712,25 +1712,25 @@
                 b_haselhain = {
                     color = { 216 187 84 }
                     color2 = { 255 255 255 }
-                    province = 229
+                    province = 229.0
                 }
 
                 b_haselhain_2 = {
                     color = { 216 187 255 }
                     color2 = { 255 255 255 }
-                    province = 230
+                    province = 230.0
                 }
 
                 b_eslamskesh = {
                     color = { 216 187 0 }
                     color2 = { 255 255 255 }
-                    province = 231
+                    province = 231.0
                 }
 
                 b_baran'scheck = {
                     color = { 216 187 170 }
                     color2 = { 255 255 255 }
-                    province = 232
+                    province = 232.0
                 }
 
             }
@@ -1742,31 +1742,31 @@
                 b_darrenfurt = {
                     color = { 80 133 210 }
                     color2 = { 255 255 255 }
-                    province = 224
+                    province = 224.0
                 }
 
                 b_darrenfurt_2 = {
                     color = { 80 133 0 }
                     color2 = { 255 255 255 }
-                    province = 225
+                    province = 225.0
                 }
 
                 b_darren_ulah = {
                     color = { 80 133 50 }
                     color2 = { 255 255 255 }
-                    province = 226
+                    province = 226.0
                 }
 
                 b_duersten = {
                     color = { 80 133 100 }
                     color2 = { 255 255 255 }
-                    province = 227
+                    province = 227.0
                 }
 
                 b_firunswald = {
                     color = { 80 133 150 }
                     color2 = { 255 255 255 }
-                    province = 228
+                    province = 228.0
                 }
 
             }
@@ -1778,19 +1778,19 @@
                 b_alriksauen = {
                     color = { 14 80 147 }
                     color2 = { 255 255 255 }
-                    province = 221
+                    province = 221.0
                 }
 
                 b_gnitzenkuhl = {
                     color = { 14 80 255 }
                     color2 = { 255 255 255 }
-                    province = 222
+                    province = 222.0
                 }
 
                 b_st_liaiella = {
                     color = { 14 80 0 }
                     color2 = { 255 255 255 }
-                    province = 223
+                    province = 223.0
                 }
 
             }
@@ -1802,19 +1802,19 @@
                 b_barbenwehr = {
                     color = { 211 0 44 }
                     color2 = { 255 255 255 }
-                    province = 218
+                    province = 218.0
                 }
 
                 b_gerbental = {
                     color = { 211 0 255 }
                     color2 = { 255 255 255 }
-                    province = 219
+                    province = 219.0
                 }
 
                 b_willigental = {
                     color = { 211 0 150 }
                     color2 = { 255 255 255 }
-                    province = 220
+                    province = 220.0
                 }
 
             }
@@ -1826,25 +1826,25 @@
                 b_ferkinaschreck = {
                     color = { 213 39 51 }
                     color2 = { 255 255 255 }
-                    province = 214
+                    province = 214.0
                 }
 
                 b_hordenberg = {
                     color = { 213 39 255 }
                     color2 = { 255 255 255 }
-                    province = 215
+                    province = 215.0
                 }
 
                 b_ashal'deyran = {
                     color = { 213 39 0 }
                     color2 = { 255 255 255 }
-                    province = 216
+                    province = 216.0
                 }
 
                 b_dreisteinen = {
                     color = { 213 39 150 }
                     color2 = { 255 255 255 }
-                    province = 217
+                    province = 217.0
                 }
 
             }
@@ -1856,19 +1856,19 @@
                 b_sturmspitze = {
                     color = { 186 137 114 }
                     color2 = { 255 255 255 }
-                    province = 211
+                    province = 211.0
                 }
 
                 b_alriksburg = {
                     color = { 186 137 255 }
                     color2 = { 255 255 255 }
-                    province = 212
+                    province = 212.0
                 }
 
                 b_wolfszahn = {
                     color = { 186 137 0 }
                     color2 = { 255 255 255 }
-                    province = 213
+                    province = 213.0
                 }
 
             }
@@ -1880,25 +1880,25 @@
                 b_rosshang = {
                     color = { 132 16 101 }
                     color2 = { 255 255 255 }
-                    province = 207
+                    province = 207.0
                 }
 
                 b_wasserburg = {
                     color = { 132 16 255 }
                     color2 = { 255 255 255 }
-                    province = 208
+                    province = 208.0
                 }
 
                 b_loewentor = {
                     color = { 132 16 0 }
                     color2 = { 255 255 255 }
-                    province = 209
+                    province = 209.0
                 }
 
                 b_kelsenburg = {
                     color = { 132 16 175 }
                     color2 = { 255 255 255 }
-                    province = 210
+                    province = 210.0
                 }
 
             }
@@ -1917,19 +1917,19 @@
                 b_halmengarth = {
                     color = { 204 109 170 }
                     color2 = { 255 255 255 }
-                    province = 242
+                    province = 242.0
                 }
 
                 b_greifenfurt = {
                     color = { 204 109 0 }
                     color2 = { 255 255 255 }
-                    province = 243
+                    province = 243.0
                 }
 
                 b_syllenwies = {
                     color = { 204 109 255 }
                     color2 = { 255 255 255 }
-                    province = 244
+                    province = 244.0
                 }
 
             }
@@ -1941,19 +1941,19 @@
                 b_haagenstein = {
                     color = { 203 196 125 }
                     color2 = { 255 255 255 }
-                    province = 245
+                    province = 245.0
                 }
 
                 b_waldalriksrode = {
                     color = { 203 196 0 }
                     color2 = { 255 255 255 }
-                    province = 246
+                    province = 246.0
                 }
 
                 b_ebersfelde = {
                     color = { 203 196 255 }
                     color2 = { 255 255 255 }
-                    province = 247
+                    province = 247.0
                 }
 
             }
@@ -1965,13 +1965,13 @@
                 b_quastenbroich = {
                     color = { 193 222 65 }
                     color2 = { 255 255 255 }
-                    province = 248
+                    province = 248.0
                 }
 
                 b_siebeneichen = {
                     color = { 193 222 255 }
                     color2 = { 255 255 255 }
-                    province = 249
+                    province = 249.0
                 }
 
             }
@@ -1983,19 +1983,19 @@
                 b_reichsweg = {
                     color = { 191 252 0 }
                     color2 = { 255 255 255 }
-                    province = 295
+                    province = 295.0
                 }
 
                 b_reichsweg_2 = {
                     color = { 191 252 130 }
                     color2 = { 255 255 255 }
-                    province = 296
+                    province = 296.0
                 }
 
                 b_reichsweg_3 = {
                     color = { 191 252 255 }
                     color2 = { 255 255 255 }
-                    province = 297
+                    province = 297.0
                 }
 
             }
@@ -2007,13 +2007,13 @@
                 b_dunkelsfarn = {
                     color = { 181 110 0 }
                     color2 = { 255 255 255 }
-                    province = 293
+                    province = 293.0
                 }
 
                 b_kroentenbrunn = {
                     color = { 181 110 255 }
                     color2 = { 255 255 255 }
-                    province = 294
+                    province = 294.0
                 }
 
             }
@@ -2025,25 +2025,25 @@
                 b_schmalfurt = {
                     color = { 133 118 0 }
                     color2 = { 255 255 255 }
-                    province = 259
+                    province = 259.0
                 }
 
                 b_berleichen = {
                     color = { 133 118 85 }
                     color2 = { 255 255 255 }
-                    province = 260
+                    province = 260.0
                 }
 
                 b_nardeshain = {
                     color = { 133 118 170 }
                     color2 = { 255 255 255 }
-                    province = 261
+                    province = 261.0
                 }
 
                 b_karghyde = {
                     color = { 133 118 255 }
                     color2 = { 255 255 255 }
-                    province = 262
+                    province = 262.0
                 }
 
             }
@@ -2055,19 +2055,19 @@
                 b_zalgomuehlen = {
                     color = { 11 242 0 }
                     color2 = { 255 255 255 }
-                    province = 256
+                    province = 256.0
                 }
 
                 b_schillburg = {
                     color = { 11 242 130 }
                     color2 = { 255 255 255 }
-                    province = 257
+                    province = 257.0
                 }
 
                 b_faehrufer = {
                     color = { 11 242 255 }
                     color2 = { 255 255 255 }
-                    province = 258
+                    province = 258.0
                 }
 
             }
@@ -2079,25 +2079,25 @@
                 b_rosskuppe = {
                     color = { 103 93 0 }
                     color2 = { 255 255 255 }
-                    province = 263
+                    province = 263.0
                 }
 
                 b_aehrenfeld = {
                     color = { 103 93 85 }
                     color2 = { 255 255 255 }
-                    province = 264
+                    province = 264.0
                 }
 
                 b_scraan_am_blauen_laach = {
                     color = { 103 93 170 }
                     color2 = { 255 255 255 }
-                    province = 265
+                    province = 265.0
                 }
 
                 b_altricksforst = {
                     color = { 103 93 255 }
                     color2 = { 255 255 255 }
-                    province = 266
+                    province = 266.0
                 }
 
             }
@@ -2109,13 +2109,13 @@
                 b_kressenburg = {
                     color = { 181 115 175 }
                     color2 = { 255 255 255 }
-                    province = 250
+                    province = 250.0
                 }
 
                 b_st_therbun_im_walde = {
                     color = { 181 115 0 }
                     color2 = { 255 255 255 }
-                    province = 251
+                    province = 251.0
                 }
 
             }
@@ -2127,13 +2127,13 @@
                 b_kaiserley = {
                     color = { 95 108 255 }
                     color2 = { 255 255 255 }
-                    province = 252
+                    province = 252.0
                 }
 
                 b_waldschatten = {
                     color = { 95 108 0 }
                     color2 = { 255 255 255 }
-                    province = 253
+                    province = 253.0
                 }
 
             }
@@ -2145,25 +2145,25 @@
                 b_breitenquell = {
                     color = { 42 137 85 }
                     color2 = { 255 255 255 }
-                    province = 298
+                    province = 298.0
                 }
 
                 b_eslamsroden = {
                     color = { 42 137 0 }
                     color2 = { 255 255 255 }
-                    province = 299
+                    province = 299.0
                 }
 
                 b_weidensee = {
                     color = { 42 137 170 }
                     color2 = { 255 255 255 }
-                    province = 300
+                    province = 300.0
                 }
 
                 b_karens = {
                     color = { 42 137 255 }
                     color2 = { 255 255 255 }
-                    province = 301
+                    province = 301.0
                 }
 
             }
@@ -2175,13 +2175,13 @@
                 b_orkenwall = {
                     color = { 112 130 0 }
                     color2 = { 255 255 255 }
-                    province = 302
+                    province = 302.0
                 }
 
                 b_kloster_zu_orkenwall = {
                     color = { 112 130 255 }
                     color2 = { 255 255 255 }
-                    province = 303
+                    province = 303.0
                 }
 
             }
@@ -2193,13 +2193,13 @@
                 b_feldharsch = {
                     color = { 59 41 0 }
                     color2 = { 255 255 255 }
-                    province = 254
+                    province = 254.0
                 }
 
                 b_perainefried = {
                     color = { 59 41 255 }
                     color2 = { 255 255 255 }
-                    province = 255
+                    province = 255.0
                 }
 
             }
@@ -2211,19 +2211,19 @@
                 b_beldenruh = {
                     color = { 105 7 0 }
                     color2 = { 255 255 255 }
-                    province = 315
+                    province = 315.0
                 }
 
                 b_minderbreugen = {
                     color = { 105 7 130 }
                     color2 = { 255 255 255 }
-                    province = 316
+                    province = 316.0
                 }
 
                 b_schwarzensee = {
                     color = { 105 7 255 }
                     color2 = { 255 255 255 }
-                    province = 317
+                    province = 317.0
                 }
 
             }
@@ -2235,13 +2235,13 @@
                 b_donfanger = {
                     color = { 188 109 0 }
                     color2 = { 255 255 255 }
-                    province = 270
+                    province = 270.0
                 }
 
                 b_donfgrund = {
                     color = { 188 109 255 }
                     color2 = { 255 255 255 }
-                    province = 271
+                    province = 271.0
                 }
 
             }
@@ -2253,13 +2253,13 @@
                 b_finsterwacht = {
                     color = { 244 210 0 }
                     color2 = { 255 255 255 }
-                    province = 282
+                    province = 282.0
                 }
 
                 b_schwertsleyda = {
                     color = { 244 210 255 }
                     color2 = { 255 255 255 }
-                    province = 283
+                    province = 283.0
                 }
 
             }
@@ -2271,19 +2271,19 @@
                 b_waldrast = {
                     color = { 41 2 0 }
                     color2 = { 255 255 255 }
-                    province = 284
+                    province = 284.0
                 }
 
                 b_radulfshausen = {
                     color = { 41 2 130 }
                     color2 = { 255 255 255 }
-                    province = 285
+                    province = 285.0
                 }
 
                 b_gamsdrift = {
                     color = { 41 2 255 }
                     color2 = { 255 255 255 }
-                    province = 286
+                    province = 286.0
                 }
 
             }
@@ -2295,19 +2295,19 @@
                 b_greifenberg = {
                     color = { 41 69 0 }
                     color2 = { 255 255 255 }
-                    province = 306
+                    province = 306.0
                 }
 
                 b_fuchswinkeln = {
                     color = { 41 69 130 }
                     color2 = { 255 255 255 }
-                    province = 307
+                    province = 307.0
                 }
 
                 b_scraans_zuversicht = {
                     color = { 41 69 255 }
                     color2 = { 255 255 255 }
-                    province = 308
+                    province = 308.0
                 }
 
             }
@@ -2319,19 +2319,19 @@
                 b_orkenwacht = {
                     color = { 123 141 0 }
                     color2 = { 255 255 255 }
-                    province = 275
+                    province = 275.0
                 }
 
                 b_greifenhorst = {
                     color = { 123 141 130 }
                     color2 = { 255 255 255 }
-                    province = 276
+                    province = 276.0
                 }
 
                 b_breitenhof = {
                     color = { 123 141 255 }
                     color2 = { 255 255 255 }
-                    province = 277
+                    province = 277.0
                 }
 
             }
@@ -2343,13 +2343,13 @@
                 b_helberge = {
                     color = { 53 51 0 }
                     color2 = { 255 255 255 }
-                    province = 287
+                    province = 287.0
                 }
 
                 b_espengrund = {
                     color = { 53 51 255 }
                     color2 = { 255 255 255 }
-                    province = 288
+                    province = 288.0
                 }
 
             }
@@ -2361,19 +2361,19 @@
                 b_eichstein = {
                     color = { 86 71 0 }
                     color2 = { 255 255 255 }
-                    province = 267
+                    province = 267.0
                 }
 
                 b_hesindelburg = {
                     color = { 86 71 130 }
                     color2 = { 255 255 255 }
-                    province = 268
+                    province = 268.0
                 }
 
                 b_rabenhorst = {
                     color = { 86 71 255 }
                     color2 = { 255 255 255 }
-                    province = 269
+                    province = 269.0
                 }
 
             }
@@ -2385,19 +2385,19 @@
                 b_lohengrunde = {
                     color = { 102 120 130 }
                     color2 = { 255 255 255 }
-                    province = 309
+                    province = 309.0
                 }
 
                 b_hundsgrab = {
                     color = { 102 120 0 }
                     color2 = { 255 255 255 }
-                    province = 310
+                    province = 310.0
                 }
 
                 b_brandons_ehr = {
                     color = { 102 120 255 }
                     color2 = { 255 255 255 }
-                    province = 311
+                    province = 311.0
                 }
 
             }
@@ -2409,25 +2409,25 @@
                 b_orkentrutz = {
                     color = { 70 50 0 }
                     color2 = { 255 255 255 }
-                    province = 278
+                    province = 278.0
                 }
 
                 b_schroffenstein = {
                     color = { 70 50 85 }
                     color2 = { 255 255 255 }
-                    province = 279
+                    province = 279.0
                 }
 
                 b_keilholtz = {
                     color = { 70 50 170 }
                     color2 = { 255 255 255 }
-                    province = 280
+                    province = 280.0
                 }
 
                 b_wichelshausen = {
                     color = { 70 50 255 }
                     color2 = { 255 255 255 }
-                    province = 281
+                    province = 281.0
                 }
 
             }
@@ -2439,19 +2439,19 @@
                 b_pilzhain = {
                     color = { 183 21 0 }
                     color2 = { 255 255 255 }
-                    province = 312
+                    province = 312.0
                 }
 
                 b_schnayttach = {
                     color = { 183 21 130 }
                     color2 = { 255 255 255 }
-                    province = 313
+                    province = 313.0
                 }
 
                 b_dunfion = {
                     color = { 183 21 255 }
                     color2 = { 255 255 255 }
-                    province = 314
+                    province = 314.0
                 }
 
             }
@@ -2463,13 +2463,13 @@
                 b_breitenbruck = {
                     color = { 136 184 0 }
                     color2 = { 255 255 255 }
-                    province = 304
+                    province = 304.0
                 }
 
                 b_breitenbruck_2 = {
                     color = { 136 184 255 }
                     color2 = { 255 255 255 }
-                    province = 305
+                    province = 305.0
                 }
 
             }
@@ -2481,19 +2481,19 @@
                 b_weihenhorst = {
                     color = { 249 11 0 }
                     color2 = { 255 255 255 }
-                    province = 272
+                    province = 272.0
                 }
 
                 b_rieperngaum = {
                     color = { 249 11 130 }
                     color2 = { 255 255 255 }
-                    province = 273
+                    province = 273.0
                 }
 
                 b_kraehenhorst = {
                     color = { 249 11 255 }
                     color2 = { 255 255 255 }
-                    province = 274
+                    province = 274.0
                 }
 
             }
@@ -2505,25 +2505,25 @@
                 b_boronshof = {
                     color = { 33 39 0 }
                     color2 = { 255 255 255 }
-                    province = 289
+                    province = 289.0
                 }
 
                 b_dergelstein = {
                     color = { 33 39 85 }
                     color2 = { 255 255 255 }
-                    province = 290
+                    province = 290.0
                 }
 
                 b_gruenwarte = {
                     color = { 33 39 170 }
                     color2 = { 255 255 255 }
-                    province = 291
+                    province = 291.0
                 }
 
                 b_hainroden = {
                     color = { 33 39 255 }
                     color2 = { 255 255 255 }
-                    province = 292
+                    province = 292.0
                 }
 
             }
@@ -2563,19 +2563,19 @@
                 b_hohenstein = {
                     color = { 242 28 0 }
                     color2 = { 255 255 255 }
-                    province = 318
+                    province = 318.0
                 }
 
                 b_rommilys = {
                     color = { 242 28 130 }
                     color2 = { 255 255 255 }
-                    province = 319
+                    province = 319.0
                 }
 
                 b_schwanen = {
                     color = { 242 28 255 }
                     color2 = { 255 255 255 }
-                    province = 320
+                    province = 320.0
                 }
 
             }
@@ -2587,13 +2587,13 @@
                 b_sturmfels = {
                     color = { 251 13 0 }
                     color2 = { 255 255 255 }
-                    province = 321
+                    province = 321.0
                 }
 
                 b_niederborn = {
                     color = { 251 13 255 }
                     color2 = { 255 255 255 }
-                    province = 322
+                    province = 322.0
                 }
 
             }
@@ -2605,13 +2605,13 @@
                 b_dettenhofen = {
                     color = { 230 108 0 }
                     color2 = { 255 255 255 }
-                    province = 323
+                    province = 323.0
                 }
 
                 b_wolfskopf = {
                     color = { 230 108 255 }
                     color2 = { 255 255 255 }
-                    province = 324
+                    province = 324.0
                 }
 
             }
@@ -2623,19 +2623,19 @@
                 b_mersingen = {
                     color = { 222 153 0 }
                     color2 = { 255 255 255 }
-                    province = 325
+                    province = 325.0
                 }
 
                 b_pulverbergen = {
                     color = { 222 153 130 }
                     color2 = { 255 255 255 }
-                    province = 326
+                    province = 326.0
                 }
 
                 b_sancta_boronia = {
                     color = { 222 153 255 }
                     color2 = { 255 255 255 }
-                    province = 327
+                    province = 327.0
                 }
 
             }
@@ -2647,13 +2647,13 @@
                 b_devendoch = {
                     color = { 147 90 0 }
                     color2 = { 255 255 255 }
-                    province = 328
+                    province = 328.0
                 }
 
                 b_devensberg = {
                     color = { 147 90 255 }
                     color2 = { 255 255 255 }
-                    province = 329
+                    province = 329.0
                 }
 
             }
@@ -2665,7 +2665,7 @@
                 b_balderweith = {
                     color = { 147 90 130 }
                     color2 = { 255 255 255 }
-                    province = 330
+                    province = 330.0
                 }
 
             }
@@ -2677,13 +2677,13 @@
                 b_aschenfeld = {
                     color = { 82 235 0 }
                     color2 = { 255 255 255 }
-                    province = 331
+                    province = 331.0
                 }
 
                 b_vierbyrgen = {
                     color = { 82 235 255 }
                     color2 = { 255 255 255 }
-                    province = 332
+                    province = 332.0
                 }
 
             }
@@ -2695,13 +2695,13 @@
                 b_bohlenburg = {
                     color = { 13 211 0 }
                     color2 = { 255 255 255 }
-                    province = 333
+                    province = 333.0
                 }
 
                 b_bohlenstett = {
                     color = { 13 211 255 }
                     color2 = { 255 255 255 }
-                    province = 334
+                    province = 334.0
                 }
 
             }
@@ -2713,13 +2713,13 @@
                 b_gorbentrutz = {
                     color = { 193 176 0 }
                     color2 = { 255 255 255 }
-                    province = 335
+                    province = 335.0
                 }
 
                 b_moosbrunn = {
                     color = { 193 176 255 }
                     color2 = { 255 255 255 }
-                    province = 336
+                    province = 336.0
                 }
 
             }
@@ -2731,13 +2731,13 @@
                 b_boronia = {
                     color = { 106 159 0 }
                     color2 = { 255 255 255 }
-                    province = 337
+                    province = 337.0
                 }
 
                 b_drollenpfort = {
                     color = { 106 159 255 }
                     color2 = { 255 255 255 }
-                    province = 338
+                    province = 338.0
                 }
 
             }
@@ -2749,7 +2749,7 @@
                 b_gryffenstein = {
                     color = { 106 159 130 }
                     color2 = { 255 255 255 }
-                    province = 339
+                    province = 339.0
                 }
 
             }
@@ -2761,19 +2761,19 @@
                 b_travinianshall = {
                     color = { 162 191 0 }
                     color2 = { 255 255 255 }
-                    province = 340
+                    province = 340.0
                 }
 
                 b_zwerch = {
                     color = { 162 191 255 }
                     color2 = { 255 255 255 }
-                    province = 341
+                    province = 341.0
                 }
 
                 b_rankaraliretena = {
                     color = { 162 191 130 }
                     color2 = { 255 255 255 }
-                    province = 342
+                    province = 342.0
                 }
 
             }
@@ -2785,13 +2785,13 @@
                 b_gallys = {
                     color = { 110 180 0 }
                     color2 = { 255 255 255 }
-                    province = 343
+                    province = 343.0
                 }
 
                 b_daffel = {
                     color = { 110 180 255 }
                     color2 = { 255 255 255 }
-                    province = 344
+                    province = 344.0
                 }
 
             }
@@ -2803,19 +2803,19 @@
                 b_grassing = {
                     color = { 180 165 0 }
                     color2 = { 255 255 255 }
-                    province = 345
+                    province = 345.0
                 }
 
                 b_arlingen = {
                     color = { 180 165 255 }
                     color2 = { 255 255 255 }
-                    province = 346
+                    province = 346.0
                 }
 
                 b_auweiler = {
                     color = { 180 165 130 }
                     color2 = { 255 255 255 }
-                    province = 347
+                    province = 347.0
                 }
 
             }
@@ -2827,13 +2827,13 @@
                 b_ochsenfels = {
                     color = { 172 13 0 }
                     color2 = { 255 255 255 }
-                    province = 348
+                    province = 348.0
                 }
 
                 b_ochsenweide = {
                     color = { 172 13 255 }
                     color2 = { 255 255 255 }
-                    province = 349
+                    province = 349.0
                 }
 
             }
@@ -2845,13 +2845,13 @@
                 b_zweimuehlen = {
                     color = { 75 88 0 }
                     color2 = { 255 255 255 }
-                    province = 350
+                    province = 350.0
                 }
 
                 b_talf = {
                     color = { 75 88 255 }
                     color2 = { 255 255 255 }
-                    province = 351
+                    province = 351.0
                 }
 
             }
@@ -2870,19 +2870,19 @@
                 b_wehrheim = {
                     color = { 128 249 0 }
                     color2 = { 255 255 255 }
-                    province = 352
+                    province = 352.0
                 }
 
                 b_waldsend = {
                     color = { 128 249 255 }
                     color2 = { 255 255 255 }
-                    province = 353
+                    province = 353.0
                 }
 
                 b_helmdahl = {
                     color = { 128 249 130 }
                     color2 = { 255 255 255 }
-                    province = 354
+                    province = 354.0
                 }
 
             }
@@ -2894,7 +2894,7 @@
                 b_lodenbach = {
                     color = { 128 249 190 }
                     color2 = { 255 255 255 }
-                    province = 355
+                    province = 355.0
                 }
 
             }
@@ -2906,13 +2906,13 @@
                 b_dreistein = {
                     color = { 82 129 0 }
                     color2 = { 255 255 255 }
-                    province = 356
+                    province = 356.0
                 }
 
                 b_wolfsfels = {
                     color = { 82 129 255 }
                     color2 = { 255 255 255 }
-                    province = 357
+                    province = 357.0
                 }
 
             }
@@ -2924,13 +2924,13 @@
                 b_meidenstein = {
                     color = { 122 248 0 }
                     color2 = { 255 255 255 }
-                    province = 358
+                    province = 358.0
                 }
 
                 b_barken = {
                     color = { 122 248 255 }
                     color2 = { 255 255 255 }
-                    province = 359
+                    province = 359.0
                 }
 
             }
@@ -2942,13 +2942,13 @@
                 b_rappenstein = {
                     color = { 76 225 0 }
                     color2 = { 255 255 255 }
-                    province = 360
+                    province = 360.0
                 }
 
                 b_rappenfluhe = {
                     color = { 76 225 255 }
                     color2 = { 255 255 255 }
-                    province = 361
+                    province = 361.0
                 }
 
             }
@@ -2960,13 +2960,13 @@
                 b_mistelstein = {
                     color = { 76 225 80 }
                     color2 = { 255 255 255 }
-                    province = 362
+                    province = 362.0
                 }
 
                 b_mistelhausen = {
                     color = { 76 225 160 }
                     color2 = { 255 255 255 }
-                    province = 363
+                    province = 363.0
                 }
 
             }
@@ -2978,19 +2978,19 @@
                 b_dornstyn = {
                     color = { 0 229 255 }
                     color2 = { 255 255 255 }
-                    province = 364
+                    province = 364.0
                 }
 
                 b_rosenhausen = {
                     color = { 0 229 130 }
                     color2 = { 255 255 255 }
-                    province = 365
+                    province = 365.0
                 }
 
                 b_dorntempel = {
                     color = { 0 229 0 }
                     color2 = { 255 255 255 }
-                    province = 366
+                    province = 366.0
                 }
 
             }
@@ -3002,13 +3002,13 @@
                 b_bregelsaum = {
                     color = { 34 203 0 }
                     color2 = { 255 255 255 }
-                    province = 367
+                    province = 367.0
                 }
 
                 b_hallingen = {
                     color = { 34 203 255 }
                     color2 = { 255 255 255 }
-                    province = 368
+                    province = 368.0
                 }
 
             }
@@ -3020,13 +3020,13 @@
                 b_brueckstein = {
                     color = { 252 16 0 }
                     color2 = { 255 255 255 }
-                    province = 369
+                    province = 369.0
                 }
 
                 b_bruecksgau = {
                     color = { 252 16 255 }
                     color2 = { 255 255 255 }
-                    province = 370
+                    province = 370.0
                 }
 
             }
@@ -3038,13 +3038,13 @@
                 b_lauben = {
                     color = { 131 197 0 }
                     color2 = { 255 255 255 }
-                    province = 371
+                    province = 371.0
                 }
 
                 b_hirschwailer = {
                     color = { 131 197 255 }
                     color2 = { 255 255 255 }
-                    province = 372
+                    province = 372.0
                 }
 
             }
@@ -3056,19 +3056,19 @@
                 b_galbenburg = {
                     color = { 237 51 255 }
                     color2 = { 255 255 255 }
-                    province = 373
+                    province = 373.0
                 }
 
                 b_galbenweiler = {
                     color = { 237 51 130 }
                     color2 = { 255 255 255 }
-                    province = 374
+                    province = 374.0
                 }
 
                 b_galbenstein = {
                     color = { 237 51 0 }
                     color2 = { 255 255 255 }
-                    province = 375
+                    province = 375.0
                 }
 
             }
@@ -3080,19 +3080,19 @@
                 b_dergelheim = {
                     color = { 46 81 255 }
                     color2 = { 255 255 255 }
-                    province = 376
+                    province = 376.0
                 }
 
                 b_perz = {
                     color = { 46 81 130 }
                     color2 = { 255 255 255 }
-                    province = 377
+                    province = 377.0
                 }
 
                 b_st_praiodan = {
                     color = { 46 81 0 }
                     color2 = { 255 255 255 }
-                    province = 378
+                    province = 378.0
                 }
 
             }
@@ -3104,19 +3104,19 @@
                 b_leffenstein = {
                     color = { 175 175 255 }
                     color2 = { 255 255 255 }
-                    province = 379
+                    province = 379.0
                 }
 
                 b_berler = {
                     color = { 175 175 130 }
                     color2 = { 255 255 255 }
-                    province = 380
+                    province = 380.0
                 }
 
-                b_binsboeckel = {
+                b_althof = {
                     color = { 175 175 0 }
                     color2 = { 255 255 255 }
-                    province = 381
+                    province = 381.0
                 }
 
             }
@@ -3128,13 +3128,13 @@
                 b_rabenmund = {
                     color = { 210 126 0 }
                     color2 = { 255 255 255 }
-                    province = 382
+                    province = 382.0
                 }
 
                 b_broeckling = {
                     color = { 210 126 255 }
                     color2 = { 255 255 255 }
-                    province = 383
+                    province = 383.0
                 }
 
             }
@@ -3146,7 +3146,7 @@
                 b_schlotz = {
                     color = { 210 126 130 }
                     color2 = { 255 255 255 }
-                    province = 384
+                    province = 384.0
                 }
 
             }
@@ -3158,19 +3158,19 @@
                 b_schwerterburg = {
                     color = { 150 26 0 }
                     color2 = { 255 255 255 }
-                    province = 385
+                    province = 385.0
                 }
 
                 b_oppstein = {
                     color = { 150 26 255 }
                     color2 = { 255 255 255 }
-                    province = 386
+                    province = 386.0
                 }
 
                 b_drachweiler = {
                     color = { 150 26 130 }
                     color2 = { 255 255 255 }
-                    province = 387
+                    province = 387.0
                 }
 
             }
@@ -3182,19 +3182,19 @@
                 b_friedstein = {
                     color = { 1 117 0 }
                     color2 = { 255 255 255 }
-                    province = 388
+                    province = 388.0
                 }
 
                 b_friedwang = {
                     color = { 1 117 255 }
                     color2 = { 255 255 255 }
-                    province = 389
+                    province = 389.0
                 }
 
                 b_nordenheim = {
                     color = { 1 117 130 }
                     color2 = { 255 255 255 }
-                    province = 390
+                    province = 390.0
                 }
 
             }
@@ -3206,7 +3206,7 @@
                 b_wutzenwald = {
                     color = { 187 50 0 }
                     color2 = { 255 255 255 }
-                    province = 391
+                    province = 391.0
                 }
 
             }
@@ -3225,19 +3225,19 @@
                 b_altzoll = {
                     color = { 94 195 130 }
                     color2 = { 255 255 255 }
-                    province = 392
+                    province = 392.0
                 }
 
                 b_wulfen = {
                     color = { 94 195 0 }
                     color2 = { 255 255 255 }
-                    province = 393
+                    province = 393.0
                 }
 
                 b_storckenfels = {
                     color = { 94 195 255 }
                     color2 = { 255 255 255 }
-                    province = 394
+                    province = 394.0
                 }
 
             }
@@ -3249,13 +3249,13 @@
                 b_rechthag_1 = {
                     color = { 238 251 0 }
                     color2 = { 255 255 255 }
-                    province = 395
+                    province = 395.0
                 }
 
                 b_rechthag_2 = {
                     color = { 238 251 255 }
                     color2 = { 255 255 255 }
-                    province = 396
+                    province = 396.0
                 }
 
             }
@@ -3267,7 +3267,7 @@
                 b_trutzburg = {
                     color = { 238 251 130 }
                     color2 = { 255 255 255 }
-                    province = 397
+                    province = 397.0
                 }
 
             }
@@ -3279,13 +3279,13 @@
                 b_golzburg = {
                     color = { 118 16 0 }
                     color2 = { 255 255 255 }
-                    province = 398
+                    province = 398.0
                 }
 
                 b_golzheim = {
                     color = { 118 16 255 }
                     color2 = { 255 255 255 }
-                    province = 399
+                    province = 399.0
                 }
 
             }
@@ -3297,13 +3297,13 @@
                 b_gatterburg = {
                     color = { 118 16 80 }
                     color2 = { 255 255 255 }
-                    province = 400
+                    province = 400.0
                 }
 
                 b_radil = {
                     color = { 118 16 160 }
                     color2 = { 255 255 255 }
-                    province = 401
+                    province = 401.0
                 }
 
             }
@@ -3315,13 +3315,13 @@
                 b_zumbelburg = {
                     color = { 72 17 0 }
                     color2 = { 255 255 255 }
-                    province = 402
+                    province = 402.0
                 }
 
                 b_zumbelstett = {
                     color = { 72 17 255 }
                     color2 = { 255 255 255 }
-                    province = 403
+                    province = 403.0
                 }
 
             }
@@ -3333,13 +3333,13 @@
                 b_sensenhoeh = {
                     color = { 72 17 80 }
                     color2 = { 255 255 255 }
-                    province = 404
+                    province = 404.0
                 }
 
                 b_sensenmatt = {
                     color = { 72 17 160 }
                     color2 = { 255 255 255 }
-                    province = 405
+                    province = 405.0
                 }
 
             }
@@ -3351,13 +3351,13 @@
                 b_praiosau = {
                     color = { 46 190 0 }
                     color2 = { 255 255 255 }
-                    province = 406
+                    province = 406.0
                 }
 
                 b_aarentann = {
                     color = { 46 190 255 }
                     color2 = { 255 255 255 }
-                    province = 407
+                    province = 407.0
                 }
 
             }
@@ -3369,13 +3369,13 @@
                 b_rabenberg = {
                     color = { 46 190 80 }
                     color2 = { 255 255 255 }
-                    province = 408
+                    province = 408.0
                 }
 
                 b_rabenfeld = {
                     color = { 46 190 160 }
                     color2 = { 255 255 255 }
-                    province = 409
+                    province = 409.0
                 }
 
             }
@@ -3387,13 +3387,13 @@
                 b_eckelstein = {
                     color = { 207 26 0 }
                     color2 = { 255 255 255 }
-                    province = 410
+                    province = 410.0
                 }
 
                 b_eckelstor = {
                     color = { 207 26 255 }
                     color2 = { 255 255 255 }
-                    province = 411
+                    province = 411.0
                 }
 
             }
@@ -3405,13 +3405,13 @@
                 b_alt_bergenbach = {
                     color = { 207 26 80 }
                     color2 = { 255 255 255 }
-                    province = 412
+                    province = 412.0
                 }
 
                 b_hagens_hof = {
                     color = { 207 26 160 }
                     color2 = { 255 255 255 }
-                    province = 413
+                    province = 413.0
                 }
 
             }
@@ -3423,7 +3423,7 @@
                 b_wassertaelern = {
                     color = { 191 203 0 }
                     color2 = { 255 255 255 }
-                    province = 414
+                    province = 414.0
                 }
 
             }
@@ -3435,7 +3435,7 @@
                 b_taelerort = {
                     color = { 191 203 255 }
                     color2 = { 255 255 255 }
-                    province = 415
+                    province = 415.0
                 }
 
             }
@@ -3447,7 +3447,7 @@
                 b_rotenzenn = {
                     color = { 191 203 80 }
                     color2 = { 255 255 255 }
-                    province = 416
+                    province = 416.0
                 }
 
             }
@@ -3459,7 +3459,7 @@
                 b_trollstaett = {
                     color = { 191 203 160 }
                     color2 = { 255 255 255 }
-                    province = 417
+                    province = 417.0
                 }
 
             }
@@ -3471,13 +3471,13 @@
                 b_gugelstett = {
                     color = { 202 143 0 }
                     color2 = { 255 255 255 }
-                    province = 418
+                    province = 418.0
                 }
 
                 b_lorsunk = {
                     color = { 202 143 255 }
                     color2 = { 255 255 255 }
-                    province = 419
+                    province = 419.0
                 }
 
             }
@@ -3489,13 +3489,13 @@
                 b_trollzwinge = {
                     color = { 202 143 80 }
                     color2 = { 255 255 255 }
-                    province = 420
+                    province = 420.0
                 }
 
                 b_adlerhorst = {
                     color = { 202 143 160 }
                     color2 = { 255 255 255 }
-                    province = 421
+                    province = 421.0
                 }
 
             }
@@ -3507,13 +3507,13 @@
                 b_knoppsberg = {
                     color = { 138 41 0 }
                     color2 = { 255 255 255 }
-                    province = 422
+                    province = 422.0
                 }
 
                 b_feldhuetten = {
                     color = { 138 41 255 }
                     color2 = { 255 255 255 }
-                    province = 423
+                    province = 423.0
                 }
 
             }
@@ -3525,19 +3525,19 @@
                 b_trollkamm = {
                     color = { 138 41 65 }
                     color2 = { 255 255 255 }
-                    province = 424
+                    province = 424.0
                 }
 
                 b_zackenberg = {
                     color = { 138 41 130 }
                     color2 = { 255 255 255 }
-                    province = 425
+                    province = 425.0
                 }
 
                 b_felshoehn = {
                     color = { 138 41 195 }
                     color2 = { 255 255 255 }
-                    province = 426
+                    province = 426.0
                 }
 
             }
@@ -3549,19 +3549,19 @@
                 b_gluckenhang = {
                     color = { 27 162 0 }
                     color2 = { 255 255 255 }
-                    province = 427
+                    province = 427.0
                 }
 
                 b_zuderfal = {
                     color = { 27 162 255 }
                     color2 = { 255 255 255 }
-                    province = 428
+                    province = 428.0
                 }
 
                 b_urbach = {
                     color = { 27 162 130 }
                     color2 = { 255 255 255 }
-                    province = 429
+                    province = 429.0
                 }
 
             }
@@ -3573,19 +3573,19 @@
                 b_thannfest = {
                     color = { 125 137 0 }
                     color2 = { 255 255 255 }
-                    province = 430
+                    province = 430.0
                 }
 
                 b_dergelmund = {
                     color = { 125 137 255 }
                     color2 = { 255 255 255 }
-                    province = 431
+                    province = 431.0
                 }
 
                 b_zackenwacht = {
                     color = { 125 137 130 }
                     color2 = { 255 255 255 }
-                    province = 432
+                    province = 432.0
                 }
 
             }
@@ -3597,13 +3597,13 @@
                 b_mallvenstein = {
                     color = { 58 220 0 }
                     color2 = { 255 255 255 }
-                    province = 433
+                    province = 433.0
                 }
 
                 b_vellberg = {
                     color = { 58 220 255 }
                     color2 = { 255 255 255 }
-                    province = 434
+                    province = 434.0
                 }
 
             }
@@ -3615,13 +3615,13 @@
                 b_angareth = {
                     color = { 58 220 80 }
                     color2 = { 255 255 255 }
-                    province = 435
+                    province = 435.0
                 }
 
                 b_bergesruh = {
                     color = { 58 220 160 }
                     color2 = { 255 255 255 }
-                    province = 436
+                    province = 436.0
                 }
 
             }
@@ -3633,13 +3633,13 @@
                 b_cave_of_strutzz_ = {
                     color = { 54 181 0 }
                     color2 = { 255 255 255 }
-                    province = 437
+                    province = 437.0
                 }
 
                 b_cravolds_haag = {
                     color = { 54 181 255 }
                     color2 = { 255 255 255 }
-                    province = 438
+                    province = 438.0
                 }
 
             }
@@ -3651,7 +3651,7 @@
                 b_firunsau = {
                     color = { 54 181 80 }
                     color2 = { 255 255 255 }
-                    province = 439
+                    province = 439.0
                 }
 
             }
@@ -3663,7 +3663,7 @@
                 b_morgan = {
                     color = { 54 181 160 }
                     color2 = { 255 255 255 }
-                    province = 440
+                    province = 440.0
                 }
 
             }
@@ -3675,13 +3675,13 @@
                 b_hengefels = {
                     color = { 240 183 0 }
                     color2 = { 255 255 255 }
-                    province = 441
+                    province = 441.0
                 }
 
                 b_treuenklamm = {
                     color = { 240 183 255 }
                     color2 = { 255 255 255 }
-                    province = 442
+                    province = 442.0
                 }
 
             }
@@ -3693,13 +3693,13 @@
                 b_efferdstraene = {
                     color = { 240 183 80 }
                     color2 = { 255 255 255 }
-                    province = 443
+                    province = 443.0
                 }
 
                 b_jolis = {
                     color = { 240 183 160 }
                     color2 = { 255 255 255 }
-                    province = 444
+                    province = 444.0
                 }
 
             }
@@ -3753,13 +3753,13 @@
                 b_oberbeilunk = {
                     color = { 124 85 0 }
                     color2 = { 255 255 255 }
-                    province = 445
+                    province = 445.0
                 }
 
                 b_beilunk = {
                     color = { 124 85 255 }
                     color2 = { 255 255 255 }
-                    province = 446
+                    province = 446.0
                 }
 
             }
@@ -3771,13 +3771,13 @@
                 b_drileuen = {
                     color = { 124 85 80 }
                     color2 = { 255 255 255 }
-                    province = 447
+                    province = 447.0
                 }
 
                 b_neu_hargenborn = {
                     color = { 124 85 160 }
                     color2 = { 255 255 255 }
-                    province = 448
+                    province = 448.0
                 }
 
             }
@@ -3789,13 +3789,13 @@
                 b_borobunth = {
                     color = { 9 212 0 }
                     color2 = { 255 255 255 }
-                    province = 449
+                    province = 449.0
                 }
 
                 b_borostett = {
                     color = { 9 212 255 }
                     color2 = { 255 255 255 }
-                    province = 450
+                    province = 450.0
                 }
 
             }
@@ -3807,7 +3807,7 @@
                 b_greifenau = {
                     color = { 9 212 80 }
                     color2 = { 255 255 255 }
-                    province = 451
+                    province = 451.0
                 }
 
             }
@@ -3819,13 +3819,13 @@
                 b_gruenau = {
                     color = { 151 160 0 }
                     color2 = { 255 255 255 }
-                    province = 452
+                    province = 452.0
                 }
 
                 b_bedofeld = {
                     color = { 151 160 255 }
                     color2 = { 255 255 255 }
-                    province = 453
+                    province = 453.0
                 }
 
             }
@@ -3837,7 +3837,7 @@
                 b_grenzmarken = {
                     color = { 151 160 80 }
                     color2 = { 255 255 255 }
-                    province = 454
+                    province = 454.0
                 }
 
             }
@@ -3849,7 +3849,7 @@
                 b_valdahon = {
                     color = { 90 231 80 }
                     color2 = { 255 255 255 }
-                    province = 456
+                    province = 456.0
                 }
 
             }
@@ -3861,13 +3861,13 @@
                 b_maich = {
                     color = { 90 231 255 }
                     color2 = { 255 255 255 }
-                    province = 457
+                    province = 457.0
                 }
 
                 b_maichenmatt = {
                     color = { 90 231 0 }
                     color2 = { 255 255 255 }
-                    province = 458
+                    province = 458.0
                 }
 
             }
@@ -3879,13 +3879,13 @@
                 b_ringfeste = {
                     color = { 90 231 160 }
                     color2 = { 255 255 255 }
-                    province = 459
+                    province = 459.0
                 }
 
                 b_durbosch = {
                     color = { 90 231 120 }
                     color2 = { 255 255 255 }
-                    province = 460
+                    province = 460.0
                 }
 
             }
@@ -3897,7 +3897,7 @@
                 b_foehrenkuppe = {
                     color = { 145 243 80 }
                     color2 = { 255 255 255 }
-                    province = 461
+                    province = 461.0
                 }
 
             }
@@ -3909,7 +3909,7 @@
                 b_grai = {
                     color = { 145 243 255 }
                     color2 = { 255 255 255 }
-                    province = 462
+                    province = 462.0
                 }
 
             }
@@ -3921,7 +3921,7 @@
                 b_ouhan = {
                     color = { 151 160 160 }
                     color2 = { 255 255 255 }
-                    province = 455
+                    province = 455.0
                 }
 
             }
@@ -3933,7 +3933,7 @@
                 b_zweiseen = {
                     color = { 145 243 0 }
                     color2 = { 255 255 255 }
-                    province = 463
+                    province = 463.0
                 }
 
             }
@@ -3945,13 +3945,13 @@
                 b_shamaham = {
                     color = { 145 243 160 }
                     color2 = { 255 255 255 }
-                    province = 464
+                    province = 464.0
                 }
 
                 b_kendram = {
                     color = { 145 243 120 }
                     color2 = { 255 255 255 }
-                    province = 465
+                    province = 465.0
                 }
 
             }
@@ -3963,7 +3963,7 @@
                 b_kleinfurt = {
                     color = { 73 171 80 }
                     color2 = { 255 255 255 }
-                    province = 466
+                    province = 466.0
                 }
 
             }
@@ -3975,7 +3975,7 @@
                 b_waldereck = {
                     color = { 73 171 255 }
                     color2 = { 255 255 255 }
-                    province = 467
+                    province = 467.0
                 }
 
             }
@@ -3987,7 +3987,7 @@
                 b_ogerbusch = {
                     color = { 73 171 0 }
                     color2 = { 255 255 255 }
-                    province = 468
+                    province = 468.0
                 }
 
             }
@@ -3999,13 +3999,13 @@
                 b_norbenstein = {
                     color = { 73 171 160 }
                     color2 = { 255 255 255 }
-                    province = 469
+                    province = 469.0
                 }
 
                 b_norbeneck = {
                     color = { 73 171 120 }
                     color2 = { 255 255 255 }
-                    province = 470
+                    province = 470.0
                 }
 
             }
@@ -4017,13 +4017,13 @@
                 b_arbenforst = {
                     color = { 50 75 80 }
                     color2 = { 255 255 255 }
-                    province = 471
+                    province = 471.0
                 }
 
                 b_arbasien = {
                     color = { 50 75 255 }
                     color2 = { 255 255 255 }
-                    province = 472
+                    province = 472.0
                 }
 
             }
@@ -4035,13 +4035,13 @@
                 b_saldersand = {
                     color = { 50 75 0 }
                     color2 = { 255 255 255 }
-                    province = 473
+                    province = 473.0
                 }
 
                 b_salderkuest = {
                     color = { 50 75 160 }
                     color2 = { 255 255 255 }
-                    province = 474
+                    province = 474.0
                 }
 
             }
@@ -4053,7 +4053,7 @@
                 b_rhoderstein = {
                     color = { 140 103 80 }
                     color2 = { 255 255 255 }
-                    province = 475
+                    province = 475.0
                 }
 
             }
@@ -4065,7 +4065,7 @@
                 b_ostend = {
                     color = { 140 103 255 }
                     color2 = { 255 255 255 }
-                    province = 476
+                    province = 476.0
                 }
 
             }
@@ -4077,13 +4077,13 @@
                 b_lyll = {
                     color = { 140 103 0 }
                     color2 = { 255 255 255 }
-                    province = 477
+                    province = 477.0
                 }
 
                 b_amarasch = {
                     color = { 140 103 160 }
                     color2 = { 255 255 255 }
-                    province = 478
+                    province = 478.0
                 }
 
             }
@@ -4102,13 +4102,13 @@
                 b_borowein = {
                     color = { 143 156 130 }
                     color2 = { 255 255 255 }
-                    province = 486
+                    province = 486.0
                 }
 
                 b_hugesweier = {
                     color = { 143 156 0 }
                     color2 = { 255 255 255 }
-                    province = 487
+                    province = 487.0
                 }
 
             }
@@ -4120,7 +4120,7 @@
                 b_mendena = {
                     color = { 143 156 255 }
                     color2 = { 255 255 255 }
-                    province = 488
+                    province = 488.0
                 }
 
             }
@@ -4132,13 +4132,13 @@
                 b_burgheym = {
                     color = { 19 212 80 }
                     color2 = { 255 255 255 }
-                    province = 489
+                    province = 489.0
                 }
 
                 b_keilerau = {
                     color = { 19 212 255 }
                     color2 = { 255 255 255 }
-                    province = 490
+                    province = 490.0
                 }
 
             }
@@ -4150,13 +4150,13 @@
                 b_alkenhorst = {
                     color = { 19 212 0 }
                     color2 = { 255 255 255 }
-                    province = 491
+                    province = 491.0
                 }
 
                 b_hagensmoor = {
                     color = { 19 212 160 }
                     color2 = { 255 255 255 }
-                    province = 492
+                    province = 492.0
                 }
 
             }
@@ -4168,7 +4168,7 @@
                 b_rallerfeste = {
                     color = { 121 131 80 }
                     color2 = { 255 255 255 }
-                    province = 493
+                    province = 493.0
                 }
 
             }
@@ -4180,7 +4180,7 @@
                 b_salvunk = {
                     color = { 121 131 255 }
                     color2 = { 255 255 255 }
-                    province = 494
+                    province = 494.0
                 }
 
             }
@@ -4192,13 +4192,13 @@
                 b_loewenstein = {
                     color = { 121 131 0 }
                     color2 = { 255 255 255 }
-                    province = 495
+                    province = 495.0
                 }
 
                 b_sardosk = {
                     color = { 121 131 160 }
                     color2 = { 255 255 255 }
-                    province = 496
+                    province = 496.0
                 }
 
             }
@@ -4210,13 +4210,13 @@
                 b_schwarzbuckel = {
                     color = { 88 205 80 }
                     color2 = { 255 255 255 }
-                    province = 497
+                    province = 497.0
                 }
 
                 b_huegelbrunnen = {
                     color = { 88 205 255 }
                     color2 = { 255 255 255 }
-                    province = 498
+                    province = 498.0
                 }
 
             }
@@ -4228,7 +4228,7 @@
                 b_ulracht = {
                     color = { 88 205 0 }
                     color2 = { 255 255 255 }
-                    province = 499
+                    province = 499.0
                 }
 
             }
@@ -4240,7 +4240,7 @@
                 b_zossberg = {
                     color = { 88 205 160 }
                     color2 = { 255 255 255 }
-                    province = 500
+                    province = 500.0
                 }
 
             }
@@ -4252,7 +4252,7 @@
                 b_foehrenhain = {
                     color = { 218 221 80 }
                     color2 = { 255 255 255 }
-                    province = 501
+                    province = 501.0
                 }
 
             }
@@ -4264,7 +4264,7 @@
                 b_muschelstrand = {
                     color = { 218 221 255 }
                     color2 = { 255 255 255 }
-                    province = 502
+                    province = 502.0
                 }
 
             }
@@ -4276,13 +4276,13 @@
                 b_sassandra = {
                     color = { 218 221 0 }
                     color2 = { 255 255 255 }
-                    province = 503
+                    province = 503.0
                 }
 
                 b_dinglingen = {
                     color = { 218 221 160 }
                     color2 = { 255 255 255 }
-                    province = 504
+                    province = 504.0
                 }
 
             }
@@ -4294,7 +4294,7 @@
                 b_alsum = {
                     color = { 87 49 80 }
                     color2 = { 255 255 255 }
-                    province = 505
+                    province = 505.0
                 }
 
             }
@@ -4306,7 +4306,7 @@
                 b_kohlrungen = {
                     color = { 87 49 255 }
                     color2 = { 255 255 255 }
-                    province = 506
+                    province = 506.0
                 }
 
             }
@@ -4318,13 +4318,13 @@
                 b_isoldern = {
                     color = { 87 49 0 }
                     color2 = { 255 255 255 }
-                    province = 507
+                    province = 507.0
                 }
 
                 b_ilsur = {
                     color = { 87 49 160 }
                     color2 = { 255 255 255 }
-                    province = 508
+                    province = 508.0
                 }
 
             }
@@ -4336,13 +4336,13 @@
                 b_perlstein = {
                     color = { 173 228 80 }
                     color2 = { 255 255 255 }
-                    province = 509
+                    province = 509.0
                 }
 
                 b_port_rulat = {
                     color = { 173 228 255 }
                     color2 = { 255 255 255 }
-                    province = 510
+                    province = 510.0
                 }
 
             }
@@ -4354,7 +4354,1123 @@
                 b_tisal = {
                     color = { 173 228 0 }
                     color2 = { 255 255 255 }
-                    province = 511
+                    province = 511.0
+                }
+
+            }
+
+        }
+
+        d_warunk = {
+            color = { 20 177 240 }
+            color2 = { 255 255 255 }
+            capital = c_warunk
+
+            c_warunk = {
+                color = { 20 177 240 }
+                color2 = { 255 255 255 }
+
+                b_krytzdorf = {
+                    color = { 20 177 240 }
+                    color2 = { 255 255 255 }
+                    province = 512.0
+                }
+
+                b_warunk = {
+                    color = { 45 200 215 }
+                    color2 = { 255 255 255 }
+                    province = 513.0
+                }
+
+            }
+
+            c_apelenfelde = {
+                color = { 70 225 190 }
+                color2 = { 255 255 255 }
+
+                b_apelenfelde = {
+                    color = { 70 225 190 }
+                    color2 = { 255 255 255 }
+                    province = 514.0
+                }
+
+            }
+
+            c_binsenbeck = {
+                color = { 95 249 165 }
+                color2 = { 255 255 255 }
+
+                b_binsenbeck = {
+                    color = { 95 249 165 }
+                    color2 = { 255 255 255 }
+                    province = 515.0
+                }
+
+                b_binsenstett = {
+                    color = { 120 0 140 }
+                    color2 = { 255 255 255 }
+                    province = 516.0
+                }
+
+            }
+
+            c_dogulsgau = {
+                color = { 145 25 115 }
+                color2 = { 255 255 255 }
+
+                b_dogulsgau = {
+                    color = { 145 25 115 }
+                    color2 = { 255 255 255 }
+                    province = 517.0
+                }
+
+            }
+
+            c_natterngras = {
+                color = { 170 50 90 }
+                color2 = { 255 255 255 }
+
+                b_natternstein = {
+                    color = { 170 50 90 }
+                    color2 = { 255 255 255 }
+                    province = 518.0
+                }
+
+            }
+
+            c_radromsbusch = {
+                color = { 195 75 65 }
+                color2 = { 255 255 255 }
+
+                b_radromsforst = {
+                    color = { 195 75 65 }
+                    color2 = { 255 255 255 }
+                    province = 519.0
+                }
+
+                b_radromstorf = {
+                    color = { 220 100 40 }
+                    color2 = { 255 255 255 }
+                    province = 520.0
+                }
+
+            }
+
+            c_schlegelstein = {
+                color = { 245 125 15 }
+                color2 = { 255 255 255 }
+
+                b_schlegelstein = {
+                    color = { 245 125 15 }
+                    color2 = { 255 255 255 }
+                    province = 521.0
+                }
+
+            }
+
+        }
+
+        d_osterfelde = {
+            color = { 50 137 0 }
+            color2 = { 255 255 255 }
+            capital = c_praske
+
+            c_praske = {
+                color = { 50 137 0 }
+                color2 = { 255 255 255 }
+
+                b_praske = {
+                    color = { 50 137 0 }
+                    color2 = { 255 255 255 }
+                    province = 522.0
+                }
+
+                b_benderhus = {
+                    color = { 50 137 255 }
+                    color2 = { 255 255 255 }
+                    province = 523.0
+                }
+
+            }
+
+            c_ehrenstein = {
+                color = { 50 137 20 }
+                color2 = { 255 255 255 }
+
+                b_ehrenstein = {
+                    color = { 50 137 20 }
+                    color2 = { 255 255 255 }
+                    province = 524.0
+                }
+
+            }
+
+            c_burmisch = {
+                color = { 50 137 245 }
+                color2 = { 255 255 255 }
+
+                b_burmisch = {
+                    color = { 50 137 245 }
+                    color2 = { 255 255 255 }
+                    province = 525.0
+                }
+
+            }
+
+            c_drachengau = {
+                color = { 50 137 40 }
+                color2 = { 255 255 255 }
+
+                b_drachenturm = {
+                    color = { 50 137 40 }
+                    color2 = { 255 255 255 }
+                    province = 526.0
+                }
+
+            }
+
+            c_ebersberg = {
+                color = { 50 137 235 }
+                color2 = { 255 255 255 }
+
+                b_ebersteg = {
+                    color = { 50 137 235 }
+                    color2 = { 255 255 255 }
+                    province = 527.0
+                }
+
+                b_jarlaksgrund = {
+                    color = { 50 137 60 }
+                    color2 = { 255 255 255 }
+                    province = 528.0
+                }
+
+            }
+
+            c_freudenberg = {
+                color = { 50 137 225 }
+                color2 = { 255 255 255 }
+
+                b_freudenberg = {
+                    color = { 50 137 225 }
+                    color2 = { 255 255 255 }
+                    province = 529.0
+                }
+
+                b_freudenfeld = {
+                    color = { 50 137 80 }
+                    color2 = { 255 255 255 }
+                    province = 530.0
+                }
+
+            }
+
+            c_granelfels = {
+                color = { 50 137 215 }
+                color2 = { 255 255 255 }
+
+                b_granelfels = {
+                    color = { 50 137 215 }
+                    color2 = { 255 255 255 }
+                    province = 531.0
+                }
+
+                b_flussodem = {
+                    color = { 50 137 100 }
+                    color2 = { 255 255 255 }
+                    province = 532.0
+                }
+
+            }
+
+            c_hohenlauchenwart = {
+                color = { 50 137 205 }
+                color2 = { 255 255 255 }
+
+                b_hohenlauchenwart = {
+                    color = { 50 137 205 }
+                    color2 = { 255 255 255 }
+                    province = 533.0
+                }
+
+                b_isenborn = {
+                    color = { 50 137 120 }
+                    color2 = { 255 255 255 }
+                    province = 534.0
+                }
+
+            }
+
+            c_lindenhain = {
+                color = { 50 137 10 }
+                color2 = { 255 255 255 }
+
+                b_lindenhain = {
+                    color = { 50 137 10 }
+                    color2 = { 255 255 255 }
+                    province = 535.0
+                }
+
+            }
+
+            c_schwarzsicheln = {
+                color = { 50 137 140 }
+                color2 = { 255 255 255 }
+
+                b_felsing = {
+                    color = { 50 137 140 }
+                    color2 = { 255 255 255 }
+                    province = 536.0
+                }
+
+                b_eichenbruch = {
+                    color = { 50 137 30 }
+                    color2 = { 255 255 255 }
+                    province = 537.0
+                }
+
+            }
+
+            c_tobelstein = {
+                color = { 50 137 160 }
+                color2 = { 255 255 255 }
+
+                b_tobelstein = {
+                    color = { 50 137 160 }
+                    color2 = { 255 255 255 }
+                    province = 538.0
+                }
+
+                b_gildern = {
+                    color = { 50 137 50 }
+                    color2 = { 255 255 255 }
+                    province = 539.0
+                }
+
+            }
+
+            c_wettersklamm = {
+                color = { 50 137 180 }
+                color2 = { 255 255 255 }
+
+                b_wettersklamm = {
+                    color = { 50 137 180 }
+                    color2 = { 255 255 255 }
+                    province = 540.0
+                }
+
+                b_rattingen = {
+                    color = { 50 137 70 }
+                    color2 = { 255 255 255 }
+                    province = 541.0
+                }
+
+            }
+
+            c_willbergen = {
+                color = { 50 137 200 }
+                color2 = { 255 255 255 }
+
+                b_bendromstal = {
+                    color = { 50 137 200 }
+                    color2 = { 255 255 255 }
+                    province = 542.0
+                }
+
+                b_willbergen = {
+                    color = { 50 137 90 }
+                    color2 = { 255 255 255 }
+                    province = 543.0
+                }
+
+            }
+
+        }
+
+        d_ysilia = {
+            color = { 222 243 0 }
+            color2 = { 255 255 255 }
+            capital = c_ysilia
+
+            c_ysilia = {
+                color = { 222 243 0 }
+                color2 = { 255 255 255 }
+
+                b_ysilia = {
+                    color = { 222 243 0 }
+                    color2 = { 255 255 255 }
+                    province = 544.0
+                }
+
+            }
+
+            c_eichmoor = {
+                color = { 222 243 60 }
+                color2 = { 255 255 255 }
+
+                b_eichmoor = {
+                    color = { 222 243 60 }
+                    color2 = { 255 255 255 }
+                    province = 545.0
+                }
+
+            }
+
+            c_falkenberg = {
+                color = { 222 243 195 }
+                color2 = { 255 255 255 }
+
+                b_falkenhorst = {
+                    color = { 222 243 195 }
+                    color2 = { 255 255 255 }
+                    province = 546.0
+                }
+
+                b_falkenberg = {
+                    color = { 222 243 125 }
+                    color2 = { 255 255 255 }
+                    province = 547.0
+                }
+
+            }
+
+            c_kathenberg = {
+                color = { 222 243 255 }
+                color2 = { 255 255 255 }
+
+                b_kathenberg = {
+                    color = { 222 243 255 }
+                    color2 = { 255 255 255 }
+                    province = 548.0
+                }
+
+            }
+
+            c_kuenssberg = {
+                color = { 1 139 0 }
+                color2 = { 255 255 255 }
+
+                b_kuenssberg = {
+                    color = { 1 139 0 }
+                    color2 = { 255 255 255 }
+                    province = 549.0
+                }
+
+            }
+
+            c_liliengrund = {
+                color = { 1 139 60 }
+                color2 = { 255 255 255 }
+
+                b_liliengrund = {
+                    color = { 1 139 60 }
+                    color2 = { 255 255 255 }
+                    province = 550.0
+                }
+
+            }
+
+            c_mundtbach = {
+                color = { 1 139 125 }
+                color2 = { 255 255 255 }
+
+                b_mundtbach = {
+                    color = { 1 139 125 }
+                    color2 = { 255 255 255 }
+                    province = 551.0
+                }
+
+                b_kummerteich = {
+                    color = { 1 139 195 }
+                    color2 = { 255 255 255 }
+                    province = 552.0
+                }
+
+            }
+
+            c_muenzenberg = {
+                color = { 1 139 255 }
+                color2 = { 255 255 255 }
+
+                b_muenzenberg = {
+                    color = { 1 139 255 }
+                    color2 = { 255 255 255 }
+                    province = 553.0
+                }
+
+            }
+
+            c_nevelung = {
+                color = { 17 51 0 }
+                color2 = { 255 255 255 }
+
+                b_nevelung = {
+                    color = { 17 51 0 }
+                    color2 = { 255 255 255 }
+                    province = 554.0
+                }
+
+                b_wulfenhag = {
+                    color = { 17 51 60 }
+                    color2 = { 255 255 255 }
+                    province = 555.0
+                }
+
+            }
+
+            c_oberdarpatien = {
+                color = { 17 51 125 }
+                color2 = { 255 255 255 }
+
+                b_radromssprung = {
+                    color = { 17 51 125 }
+                    color2 = { 255 255 255 }
+                    province = 556.0
+                }
+
+                b_oberdarpatien = {
+                    color = { 17 51 195 }
+                    color2 = { 255 255 255 }
+                    province = 557.0
+                }
+
+            }
+
+            c_ogertrift = {
+                color = { 17 51 255 }
+                color2 = { 255 255 255 }
+
+                b_ogertrift = {
+                    color = { 17 51 255 }
+                    color2 = { 255 255 255 }
+                    province = 558.0
+                }
+
+                b_altdorf = {
+                    color = { 120 184 0 }
+                    color2 = { 255 255 255 }
+                    province = 559.0
+                }
+
+            }
+
+            c_viereichen = {
+                color = { 120 184 60 }
+                color2 = { 255 255 255 }
+
+                b_trollfeste = {
+                    color = { 120 184 60 }
+                    color2 = { 255 255 255 }
+                    province = 560.0
+                }
+
+                b_viereichen = {
+                    color = { 120 184 125 }
+                    color2 = { 255 255 255 }
+                    province = 561.0
+                }
+
+            }
+
+            c_winsheym = {
+                color = { 120 184 195 }
+                color2 = { 255 255 255 }
+
+                b_kaltenstein = {
+                    color = { 120 184 195 }
+                    color2 = { 255 255 255 }
+                    province = 562.0
+                }
+
+                b_winsheym = {
+                    color = { 120 184 255 }
+                    color2 = { 255 255 255 }
+                    province = 563.0
+                }
+
+            }
+
+            c_rauffenberg = {
+                color = { 225 8 0 }
+                color2 = { 255 255 255 }
+
+                b_rauffenberg = {
+                    color = { 225 8 0 }
+                    color2 = { 255 255 255 }
+                    province = 564.0
+                }
+
+            }
+
+            c_speckfelden = {
+                color = { 225 8 50 }
+                color2 = { 255 255 255 }
+
+                b_speckfelden = {
+                    color = { 225 8 50 }
+                    color2 = { 255 255 255 }
+                    province = 565.0
+                }
+
+            }
+
+            c_wangelwilden = {
+                color = { 225 8 100 }
+                color2 = { 255 255 255 }
+
+                b_dogulstem = {
+                    color = { 225 8 100 }
+                    color2 = { 255 255 255 }
+                    province = 566.0
+                }
+
+                b_freudenfelden = {
+                    color = { 225 8 150 }
+                    color2 = { 255 255 255 }
+                    province = 567.0
+                }
+
+            }
+
+            c_kleinwardstein = {
+                color = { 225 8 200 }
+                color2 = { 255 255 255 }
+
+                b_kleinwardstein = {
+                    color = { 225 8 200 }
+                    color2 = { 255 255 255 }
+                    province = 568.0
+                }
+
+            }
+
+            c_spogelsen = {
+                color = { 225 8 250 }
+                color2 = { 255 255 255 }
+
+                b_spogelsen = {
+                    color = { 225 8 250 }
+                    color2 = { 255 255 255 }
+                    province = 569.0
+                }
+
+            }
+
+        }
+
+        d_misamund = {
+            color = { 86 203 0 }
+            color2 = { 255 255 255 }
+            capital = c_misamuendel
+
+            c_misamuendel = {
+                color = { 86 203 0 }
+                color2 = { 255 255 255 }
+
+                b_wolfenstein = {
+                    color = { 86 203 0 }
+                    color2 = { 255 255 255 }
+                    province = 570.0
+                }
+
+            }
+
+            c_misafelden = {
+                color = { 86 203 60 }
+                color2 = { 255 255 255 }
+
+                b_firunsbrunn = {
+                    color = { 86 203 60 }
+                    color2 = { 255 255 255 }
+                    province = 571.0
+                }
+
+            }
+
+            c_gruenauen = {
+                color = { 86 203 125 }
+                color2 = { 255 255 255 }
+
+                b_misamôr = {
+                    color = { 86 203 125 }
+                    color2 = { 255 255 255 }
+                    province = 572.0
+                }
+
+                b_syrdalok = {
+                    color = { 86 203 195 }
+                    color2 = { 255 255 255 }
+                    province = 573.0
+                }
+
+            }
+
+            c_firunsschilfen = {
+                color = { 86 203 255 }
+                color2 = { 255 255 255 }
+
+                b_firunsschilfen = {
+                    color = { 86 203 255 }
+                    color2 = { 255 255 255 }
+                    province = 574.0
+                }
+
+            }
+
+            c_alst = {
+                color = { 124 69 0 }
+                color2 = { 255 255 255 }
+
+                b_alstfurt = {
+                    color = { 124 69 0 }
+                    color2 = { 255 255 255 }
+                    province = 575.0
+                }
+
+                b_wiesengrund = {
+                    color = { 124 69 90 }
+                    color2 = { 255 255 255 }
+                    province = 576.0
+                }
+
+            }
+
+            c_schallingspfort = {
+                color = { 124 69 180 }
+                color2 = { 255 255 255 }
+
+                b_schallingspfort = {
+                    color = { 124 69 180 }
+                    color2 = { 255 255 255 }
+                    province = 577.0
+                }
+
+            }
+
+            c_tirandur = {
+                color = { 124 69 255 }
+                color2 = { 255 255 255 }
+
+                b_deisterfels = {
+                    color = { 124 69 255 }
+                    color2 = { 255 255 255 }
+                    province = 578.0
+                }
+
+            }
+
+            c_mark_vallusa = {
+                color = { 124 69 135 }
+                color2 = { 255 255 255 }
+
+                b_st_ardarita = {
+                    color = { 124 69 135 }
+                    color2 = { 255 255 255 }
+                    province = 579.0
+                }
+
+            }
+
+        }
+
+        d_tobimora = {
+            color = { 64 38 0 }
+            color2 = { 255 255 255 }
+            capital = c_ebelried
+
+            c_ebelried = {
+                color = { 64 38 0 }
+                color2 = { 255 255 255 }
+
+                b_ebelried = {
+                    color = { 64 38 0 }
+                    color2 = { 255 255 255 }
+                    province = 580.0
+                }
+
+            }
+
+            c_tizamsquell = {
+                color = { 64 38 60 }
+                color2 = { 255 255 255 }
+
+                b_tizerquell = {
+                    color = { 64 38 60 }
+                    color2 = { 255 255 255 }
+                    province = 581.0
+                }
+
+                b_perainefurten = {
+                    color = { 64 38 125 }
+                    color2 = { 255 255 255 }
+                    province = 582.0
+                }
+
+            }
+
+            c_gabelweyhe = {
+                color = { 64 38 195 }
+                color2 = { 255 255 255 }
+
+                b_yeshinna = {
+                    color = { 64 38 195 }
+                    color2 = { 255 255 255 }
+                    province = 583.0
+                }
+
+            }
+
+            c_heidlingen = {
+                color = { 64 38 255 }
+                color2 = { 255 255 255 }
+
+                b_derdingen = {
+                    color = { 64 38 255 }
+                    color2 = { 255 255 255 }
+                    province = 584.0
+                }
+
+            }
+
+            c_schnattermoor = {
+                color = { 40 156 0 }
+                color2 = { 255 255 255 }
+
+                b_haderstein = {
+                    color = { 40 156 0 }
+                    color2 = { 255 255 255 }
+                    province = 585.0
+                }
+
+            }
+
+            c_treublatt = {
+                color = { 40 156 60 }
+                color2 = { 255 255 255 }
+
+                b_koppingen = {
+                    color = { 40 156 60 }
+                    color2 = { 255 255 255 }
+                    province = 586.0
+                }
+
+            }
+
+            c_becherlingen = {
+                color = { 40 156 125 }
+                color2 = { 255 255 255 }
+
+                b_becherlingen = {
+                    color = { 40 156 125 }
+                    color2 = { 255 255 255 }
+                    province = 587.0
+                }
+
+            }
+
+            c_nordweide = {
+                color = { 40 156 195 }
+                color2 = { 255 255 255 }
+
+                b_arnlan = {
+                    color = { 40 156 195 }
+                    color2 = { 255 255 255 }
+                    province = 588.0
+                }
+
+                b_nordweide = {
+                    color = { 40 156 255 }
+                    color2 = { 255 255 255 }
+                    province = 589.0
+                }
+
+            }
+
+            c_reiherstelz = {
+                color = { 189 157 0 }
+                color2 = { 255 255 255 }
+
+                b_reiherstelz = {
+                    color = { 189 157 0 }
+                    color2 = { 255 255 255 }
+                    province = 590.0
+                }
+
+            }
+
+            c_tobimora = {
+                color = { 189 157 60 }
+                color2 = { 255 255 255 }
+
+                b_tobimora = {
+                    color = { 189 157 60 }
+                    color2 = { 255 255 255 }
+                    province = 591.0
+                }
+
+            }
+
+            c_aellingen = {
+                color = { 189 157 125 }
+                color2 = { 255 255 255 }
+
+                b_aellingen = {
+                    color = { 189 157 125 }
+                    color2 = { 255 255 255 }
+                    province = 592.0
+                }
+
+                b_eslamsbrueck = {
+                    color = { 189 157 195 }
+                    color2 = { 255 255 255 }
+                    province = 593.0
+                }
+
+            }
+
+            c_bergenhus = {
+                color = { 189 157 255 }
+                color2 = { 255 255 255 }
+
+                b_bergenhus = {
+                    color = { 189 157 255 }
+                    color2 = { 255 255 255 }
+                    province = 594.0
+                }
+
+                b_gruenwalden = {
+                    color = { 210 135 0 }
+                    color2 = { 255 255 255 }
+                    province = 595.0
+                }
+
+            }
+
+            c_kummersfelden = {
+                color = { 210 135 60 }
+                color2 = { 255 255 255 }
+
+                b_arkenheim = {
+                    color = { 210 135 60 }
+                    color2 = { 255 255 255 }
+                    province = 596.0
+                }
+
+                b_kummersfelden = {
+                    color = { 210 135 125 }
+                    color2 = { 255 255 255 }
+                    province = 597.0
+                }
+
+            }
+
+            c_waischenroth = {
+                color = { 210 135 195 }
+                color2 = { 255 255 255 }
+
+                b_waischenroth = {
+                    color = { 210 135 195 }
+                    color2 = { 255 255 255 }
+                    province = 598.0
+                }
+
+            }
+
+            c_windgau = {
+                color = { 210 135 255 }
+                color2 = { 255 255 255 }
+
+                b_windgau = {
+                    color = { 210 135 255 }
+                    color2 = { 255 255 255 }
+                    province = 599.0
+                }
+
+            }
+
+            c_schwuerzhofen = {
+                color = { 195 31 0 }
+                color2 = { 255 255 255 }
+
+                b_schilfsend = {
+                    color = { 195 31 0 }
+                    color2 = { 255 255 255 }
+                    province = 600.0
+                }
+
+                b_fischbach = {
+                    color = { 195 31 60 }
+                    color2 = { 255 255 255 }
+                    province = 601.0
+                }
+
+            }
+
+            c_albersrode = {
+                color = { 195 31 125 }
+                color2 = { 255 255 255 }
+
+                b_moorburg = {
+                    color = { 195 31 125 }
+                    color2 = { 255 255 255 }
+                    province = 602.0
+                }
+
+                b_flussbuckel = {
+                    color = { 195 31 195 }
+                    color2 = { 255 255 255 }
+                    province = 603.0
+                }
+
+            }
+
+            c_baruns_pappel = {
+                color = { 195 31 255 }
+                color2 = { 255 255 255 }
+
+                b_baruns_pappel = {
+                    color = { 195 31 255 }
+                    color2 = { 255 255 255 }
+                    province = 604.0
+                }
+
+            }
+
+            c_wickrath = {
+                color = { 247 110 0 }
+                color2 = { 255 255 255 }
+
+                b_wickrath = {
+                    color = { 247 110 0 }
+                    color2 = { 255 255 255 }
+                    province = 605.0
+                }
+
+            }
+
+            c_maus = {
+                color = { 247 110 125 }
+                color2 = { 255 255 255 }
+
+                b_flusswacht = {
+                    color = { 247 110 125 }
+                    color2 = { 255 255 255 }
+                    province = 606.0
+                }
+
+                b_maus = {
+                    color = { 247 110 255 }
+                    color2 = { 255 255 255 }
+                    province = 607.0
+                }
+
+            }
+
+        }
+
+        d_drachenstein = {
+            color = { 204 80 0 }
+            color2 = { 255 255 255 }
+            capital = c_drachenstein
+
+            c_drachenstein = {
+                color = { 204 80 0 }
+                color2 = { 255 255 255 }
+
+                b_drachenhaupt = {
+                    color = { 204 80 0 }
+                    color2 = { 255 255 255 }
+                    province = 608.0
+                }
+
+            }
+
+            c_eisenrath = {
+                color = { 204 80 60 }
+                color2 = { 255 255 255 }
+
+                b_meilersruh = {
+                    color = { 204 80 60 }
+                    color2 = { 255 255 255 }
+                    province = 609.0
+                }
+
+                b_leuentrutz = {
+                    color = { 204 80 125 }
+                    color2 = { 255 255 255 }
+                    province = 610.0
+                }
+
+            }
+
+            c_erlschwerd = {
+                color = { 204 80 195 }
+                color2 = { 255 255 255 }
+
+                b_wulfenthurm = {
+                    color = { 204 80 195 }
+                    color2 = { 255 255 255 }
+                    province = 611.0
+                }
+
+                b_erlschwerd = {
+                    color = { 204 80 255 }
+                    color2 = { 255 255 255 }
+                    province = 612.0
+                }
+
+            }
+
+            c_gueldenharsch = {
+                color = { 216 135 0 }
+                color2 = { 255 255 255 }
+
+                b_gueldenharsch = {
+                    color = { 216 135 0 }
+                    color2 = { 255 255 255 }
+                    province = 613.0
+                }
+
+            }
+
+            c_kevuns_brueck = {
+                color = { 216 135 60 }
+                color2 = { 255 255 255 }
+
+                b_waldbergen = {
+                    color = { 216 135 60 }
+                    color2 = { 255 255 255 }
+                    province = 614.0
+                }
+
+            }
+
+            c_rumpenfels = {
+                color = { 216 135 125 }
+                color2 = { 255 255 255 }
+
+                b_ornaldsruh = {
+                    color = { 216 135 125 }
+                    color2 = { 255 255 255 }
+                    province = 615.0
+                }
+
+            }
+
+            c_ungolfsthann = {
+                color = { 216 135 195 }
+                color2 = { 255 255 255 }
+
+                b_apeps_saeule = {
+                    color = { 216 135 195 }
+                    color2 = { 255 255 255 }
+                    province = 616.0
+                }
+
+                b_nissingen = {
+                    color = { 216 135 255 }
+                    color2 = { 255 255 255 }
+                    province = 617.0
                 }
 
             }
@@ -4367,6 +5483,1559 @@
         color = { 0 0 0 }
         color2 = { 255 255 255 }
         capital = c_beilunk
+
+    }
+
+    k_warunk = {
+        color = { 0 0 0 }
+        color2 = { 255 255 255 }
+        capital = c_warunk
+
+    }
+
+    k_weiden = {
+        color = { 202 106 195 }
+        color2 = { 255 255 255 }
+        capital = c_mittenberge
+
+        d_baerwalde = {
+            color = { 202 106 195 }
+            color2 = { 255 255 255 }
+            capital = c_mittenberge
+
+            c_mittenberge = {
+                color = { 202 106 195 }
+                color2 = { 255 255 255 }
+
+                b_olat = {
+                    color = { 202 106 195 }
+                    color2 = { 255 255 255 }
+                    province = 686.0
+                }
+
+                b_mittenberge = {
+                    color = { 202 106 255 }
+                    color2 = { 255 255 255 }
+                    province = 687.0
+                }
+
+                b_dragentodt = {
+                    color = { 171 77 0 }
+                    color2 = { 255 255 255 }
+                    province = 688.0
+                }
+
+            }
+
+            c_bibergau = {
+                color = { 171 77 60 }
+                color2 = { 255 255 255 }
+
+                b_biberstein = {
+                    color = { 171 77 60 }
+                    color2 = { 255 255 255 }
+                    province = 689.0
+                }
+
+            }
+
+            c_blaubinge = {
+                color = { 171 77 125 }
+                color2 = { 255 255 255 }
+
+                b_durensend = {
+                    color = { 171 77 125 }
+                    color2 = { 255 255 255 }
+                    province = 690.0
+                }
+
+                b_blaubinge = {
+                    color = { 171 77 195 }
+                    color2 = { 255 255 255 }
+                    province = 691.0
+                }
+
+            }
+
+            c_brachfelde = {
+                color = { 171 77 255 }
+                color2 = { 255 255 255 }
+
+                b_anbalinsruh = {
+                    color = { 171 77 255 }
+                    color2 = { 255 255 255 }
+                    province = 692.0
+                }
+
+                b_balsaith = {
+                    color = { 219 41 0 }
+                    color2 = { 255 255 255 }
+                    province = 693.0
+                }
+
+                b_beonfirn = {
+                    color = { 219 41 60 }
+                    color2 = { 255 255 255 }
+                    province = 694.0
+                }
+
+            }
+
+            c_dornstein = {
+                color = { 219 41 125 }
+                color2 = { 255 255 255 }
+
+                b_dornstein = {
+                    color = { 219 41 125 }
+                    color2 = { 255 255 255 }
+                    province = 695.0
+                }
+
+                b_perainetrutz = {
+                    color = { 219 41 195 }
+                    color2 = { 255 255 255 }
+                    province = 696.0
+                }
+
+            }
+
+            c_hollerheide = {
+                color = { 219 41 255 }
+                color2 = { 255 255 255 }
+
+                b_distelstein = {
+                    color = { 219 41 255 }
+                    color2 = { 255 255 255 }
+                    province = 697.0
+                }
+
+                b_rhodenstein = {
+                    color = { 82 186 0 }
+                    color2 = { 255 255 255 }
+                    province = 698.0
+                }
+
+            }
+
+            c_moosgrund = {
+                color = { 82 186 60 }
+                color2 = { 255 255 255 }
+
+                b_moosgrund = {
+                    color = { 82 186 60 }
+                    color2 = { 255 255 255 }
+                    province = 699.0
+                }
+
+                b_leinhaus = {
+                    color = { 82 186 125 }
+                    color2 = { 255 255 255 }
+                    province = 700.0
+                }
+
+                b_grevenstein = {
+                    color = { 82 186 195 }
+                    color2 = { 255 255 255 }
+                    province = 701.0
+                }
+
+            }
+
+            c_pallingen = {
+                color = { 82 186 255 }
+                color2 = { 255 255 255 }
+
+                b_rotdorn = {
+                    color = { 82 186 255 }
+                    color2 = { 255 255 255 }
+                    province = 702.0
+                }
+
+                b_aehrenstatt = {
+                    color = { 250 177 0 }
+                    color2 = { 255 255 255 }
+                    province = 703.0
+                }
+
+            }
+
+            c_trallop = {
+                color = { 250 177 60 }
+                color2 = { 255 255 255 }
+
+                b_trallop = {
+                    color = { 250 177 60 }
+                    color2 = { 255 255 255 }
+                    province = 704.0
+                }
+
+                b_waldstein = {
+                    color = { 250 177 125 }
+                    color2 = { 255 255 255 }
+                    province = 705.0
+                }
+
+                b_wederath = {
+                    color = { 250 177 195 }
+                    color2 = { 255 255 255 }
+                    province = 706.0
+                }
+
+            }
+
+            c_urkentrutz = {
+                color = { 250 177 255 }
+                color2 = { 255 255 255 }
+
+                b_urkenfurt = {
+                    color = { 250 177 255 }
+                    color2 = { 255 255 255 }
+                    province = 707.0
+                }
+
+                b_schwarze_au = {
+                    color = { 243 125 0 }
+                    color2 = { 255 255 255 }
+                    province = 708.0
+                }
+
+                b_oberwaldig = {
+                    color = { 243 125 60 }
+                    color2 = { 255 255 255 }
+                    province = 709.0
+                }
+
+            }
+
+            c_wolfenbinge = {
+                color = { 243 125 125 }
+                color2 = { 255 255 255 }
+
+                b_blauenburg = {
+                    color = { 243 125 125 }
+                    color2 = { 255 255 255 }
+                    province = 710.0
+                }
+
+                b_wulfenhain = {
+                    color = { 243 125 195 }
+                    color2 = { 255 255 255 }
+                    province = 711.0
+                }
+
+                b_rotherwald = {
+                    color = { 243 125 255 }
+                    color2 = { 255 255 255 }
+                    province = 712.0
+                }
+
+            }
+
+            c_reichsend = {
+                color = { 94 1 0 }
+                color2 = { 255 255 255 }
+
+                b_reichsend = {
+                    color = { 94 1 0 }
+                    color2 = { 255 255 255 }
+                    province = 713.0
+                }
+
+                b_wolfspfort = {
+                    color = { 94 1 60 }
+                    color2 = { 255 255 255 }
+                    province = 714.0
+                }
+
+            }
+
+            c_dergelquell = {
+                color = { 94 1 125 }
+                color2 = { 255 255 255 }
+
+                b_gramburg = {
+                    color = { 94 1 125 }
+                    color2 = { 255 255 255 }
+                    province = 715.0
+                }
+
+                b_loe = {
+                    color = { 94 1 195 }
+                    color2 = { 255 255 255 }
+                    province = 716.0
+                }
+
+            }
+
+            c_nordhag = {
+                color = { 94 1 255 }
+                color2 = { 255 255 255 }
+
+                b_norrburg = {
+                    color = { 94 1 255 }
+                    color2 = { 255 255 255 }
+                    province = 717.0
+                }
+
+                b_nordhag = {
+                    color = { 36 193 0 }
+                    color2 = { 255 255 255 }
+                    province = 718.0
+                }
+
+            }
+
+            c_schneehag = {
+                color = { 36 193 60 }
+                color2 = { 255 255 255 }
+
+                b_firnhag = {
+                    color = { 36 193 60 }
+                    color2 = { 255 255 255 }
+                    province = 719.0
+                }
+
+                b_etiliengrund = {
+                    color = { 36 193 125 }
+                    color2 = { 255 255 255 }
+                    province = 720.0
+                }
+
+            }
+
+            c_waldleuen = {
+                color = { 36 193 195 }
+                color2 = { 255 255 255 }
+
+                b_leuengrund = {
+                    color = { 36 193 195 }
+                    color2 = { 255 255 255 }
+                    province = 721.0
+                }
+
+                b_ulmenau = {
+                    color = { 36 193 255 }
+                    color2 = { 255 255 255 }
+                    province = 722.0
+                }
+
+                b_leuinried = {
+                    color = { 227 2 0 }
+                    color2 = { 255 255 255 }
+                    province = 723.0
+                }
+
+            }
+
+            c_weiden = {
+                color = { 227 2 60 }
+                color2 = { 255 255 255 }
+
+                b_waldscheidt = {
+                    color = { 227 2 60 }
+                    color2 = { 255 255 255 }
+                    province = 724.0
+                }
+
+                b_radbruch = {
+                    color = { 227 2 125 }
+                    color2 = { 255 255 255 }
+                    province = 725.0
+                }
+
+                b_finsterfels = {
+                    color = { 227 2 195 }
+                    color2 = { 255 255 255 }
+                    province = 726.0
+                }
+
+            }
+
+            c_weidenhag = {
+                color = { 227 2 255 }
+                color2 = { 255 255 255 }
+
+                b_welkensteyn = {
+                    color = { 227 2 255 }
+                    color2 = { 255 255 255 }
+                    province = 727.0
+                }
+
+                b_weidenhag = {
+                    color = { 29 125 0 }
+                    color2 = { 255 255 255 }
+                    province = 728.0
+                }
+
+                b_sankta_perainme = {
+                    color = { 29 125 60 }
+                    color2 = { 255 255 255 }
+                    province = 729.0
+                }
+
+            }
+
+        }
+
+        d_baliho = {
+            color = { 196 112 0 }
+            color2 = { 255 255 255 }
+            capital = c_nordheim
+
+            c_nordheim = {
+                color = { 196 112 0 }
+                color2 = { 255 255 255 }
+
+                b_nordheim = {
+                    color = { 196 112 0 }
+                    color2 = { 255 255 255 }
+                    province = 618.0
+                }
+
+                b_holzhaven = {
+                    color = { 196 112 60 }
+                    color2 = { 255 255 255 }
+                    province = 619.0
+                }
+
+                b_bernau = {
+                    color = { 196 112 125 }
+                    color2 = { 255 255 255 }
+                    province = 620.0
+                }
+
+            }
+
+            c_boeckelsdorf = {
+                color = { 196 112 195 }
+                color2 = { 255 255 255 }
+
+                b_kloeppelstein = {
+                    color = { 196 112 195 }
+                    color2 = { 255 255 255 }
+                    province = 621.0
+                }
+
+                b_aarstein = {
+                    color = { 196 112 255 }
+                    color2 = { 255 255 255 }
+                    province = 622.0
+                }
+
+            }
+
+            c_bollinger_heide = {
+                color = { 138 138 0 }
+                color2 = { 255 255 255 }
+
+                b_heidenstein = {
+                    color = { 138 138 0 }
+                    color2 = { 255 255 255 }
+                    province = 623.0
+                }
+
+                b_nalgardis = {
+                    color = { 138 138 60 }
+                    color2 = { 255 255 255 }
+                    province = 624.0
+                }
+
+            }
+
+            c_kornfelden = {
+                color = { 138 138 125 }
+                color2 = { 255 255 255 }
+
+                b_ahornswacht = {
+                    color = { 138 138 125 }
+                    color2 = { 255 255 255 }
+                    province = 625.0
+                }
+
+                b_laejansturm = {
+                    color = { 138 138 195 }
+                    color2 = { 255 255 255 }
+                    province = 626.0
+                }
+
+            }
+
+            c_menzheim = {
+                color = { 138 138 255 }
+                color2 = { 255 255 255 }
+
+                b_menzstein = {
+                    color = { 138 138 255 }
+                    color2 = { 255 255 255 }
+                    province = 627.0
+                }
+
+                b_menzheim = {
+                    color = { 102 83 0 }
+                    color2 = { 255 255 255 }
+                    province = 628.0
+                }
+
+            }
+
+            c_pandlaril = {
+                color = { 102 83 60 }
+                color2 = { 255 255 255 }
+
+                b_anderath = {
+                    color = { 102 83 60 }
+                    color2 = { 255 255 255 }
+                    province = 629.0
+                }
+
+                b_ifirnskappeln = {
+                    color = { 102 83 125 }
+                    color2 = { 255 255 255 }
+                    province = 630.0
+                }
+
+                b_braunenfels = {
+                    color = { 102 83 195 }
+                    color2 = { 255 255 255 }
+                    province = 631.0
+                }
+
+            }
+
+            c_perainenstein = {
+                color = { 102 83 255 }
+                color2 = { 255 255 255 }
+
+                b_binsboeckel = {
+                    color = { 102 83 255 }
+                    color2 = { 255 255 255 }
+                    province = 632.0
+                }
+
+                b_auen = {
+                    color = { 107 237 0 }
+                    color2 = { 255 255 255 }
+                    province = 633.0
+                }
+
+                b_domina_rondra_trans_aquae = {
+                    color = { 107 237 60 }
+                    color2 = { 255 255 255 }
+                    province = 634.0
+                }
+
+            }
+
+            c_rotwasser = {
+                color = { 107 237 125 }
+                color2 = { 255 255 255 }
+
+                b_rotfels = {
+                    color = { 107 237 125 }
+                    color2 = { 255 255 255 }
+                    province = 635.0
+                }
+
+                b_roessenwede = {
+                    color = { 107 237 195 }
+                    color2 = { 255 255 255 }
+                    province = 636.0
+                }
+
+                b_st_hagebald = {
+                    color = { 107 237 255 }
+                    color2 = { 255 255 255 }
+                    province = 637.0
+                }
+
+            }
+
+            c_teichenberg = {
+                color = { 162 62 0 }
+                color2 = { 255 255 255 }
+
+                b_fuchsstein = {
+                    color = { 162 62 0 }
+                    color2 = { 255 255 255 }
+                    province = 638.0
+                }
+
+                b_teichenberg = {
+                    color = { 162 62 60 }
+                    color2 = { 255 255 255 }
+                    province = 639.0
+                }
+
+            }
+
+            c_espen = {
+                color = { 162 62 125 }
+                color2 = { 255 255 255 }
+
+                b_baerhegen = {
+                    color = { 162 62 125 }
+                    color2 = { 255 255 255 }
+                    province = 640.0
+                }
+
+                b_espen = {
+                    color = { 162 62 195 }
+                    color2 = { 255 255 255 }
+                    province = 641.0
+                }
+
+                b_wittkopp = {
+                    color = { 162 62 255 }
+                    color2 = { 255 255 255 }
+                    province = 642.0
+                }
+
+            }
+
+            c_zippeldinge = {
+                color = { 249 91 0 }
+                color2 = { 255 255 255 }
+
+                b_giselwarth = {
+                    color = { 249 91 0 }
+                    color2 = { 255 255 255 }
+                    province = 643.0
+                }
+
+                b_schwangbuehl = {
+                    color = { 249 91 60 }
+                    color2 = { 255 255 255 }
+                    province = 644.0
+                }
+
+            }
+
+            c_sichelgau = {
+                color = { 249 91 125 }
+                color2 = { 255 255 255 }
+
+                b_donnerschalck = {
+                    color = { 249 91 125 }
+                    color2 = { 255 255 255 }
+                    province = 645.0
+                }
+
+                b_salach = {
+                    color = { 249 91 195 }
+                    color2 = { 255 255 255 }
+                    province = 646.0
+                }
+
+            }
+
+            c_baliho = {
+                color = { 249 91 255 }
+                color2 = { 255 255 255 }
+
+                b_raeuharsch = {
+                    color = { 249 91 255 }
+                    color2 = { 255 255 255 }
+                    province = 647.0
+                }
+
+                b_baliho = {
+                    color = { 5 238 0 }
+                    color2 = { 255 255 255 }
+                    province = 648.0
+                }
+
+                b_altnorden = {
+                    color = { 5 238 60 }
+                    color2 = { 255 255 255 }
+                    province = 649.0
+                }
+
+            }
+
+        }
+
+        d_sichelwacht = {
+            color = { 5 238 125 }
+            color2 = { 255 255 255 }
+            capital = c_salthel
+
+            c_salthel = {
+                color = { 5 238 125 }
+                color2 = { 255 255 255 }
+
+                b_aarkopf = {
+                    color = { 5 238 125 }
+                    color2 = { 255 255 255 }
+                    province = 650.0
+                }
+
+                b_salthel = {
+                    color = { 5 238 195 }
+                    color2 = { 255 255 255 }
+                    province = 651.0
+                }
+
+                b_zweileuen = {
+                    color = { 5 238 255 }
+                    color2 = { 255 255 255 }
+                    province = 652.0
+                }
+
+                b_sichelweg = {
+                    color = { 138 111 0 }
+                    color2 = { 255 255 255 }
+                    province = 653.0
+                }
+
+            }
+
+            c_adlerflug = {
+                color = { 138 111 60 }
+                color2 = { 255 255 255 }
+
+                b_wehspitz = {
+                    color = { 138 111 60 }
+                    color2 = { 255 255 255 }
+                    province = 654.0
+                }
+
+                b_sinopje = {
+                    color = { 138 111 125 }
+                    color2 = { 255 255 255 }
+                    province = 655.0
+                }
+
+            }
+
+            c_altentrallop = {
+                color = { 138 111 195 }
+                color2 = { 255 255 255 }
+
+                b_mandelhir = {
+                    color = { 138 111 195 }
+                    color2 = { 255 255 255 }
+                    province = 656.0
+                }
+
+                b_altentrallop = {
+                    color = { 138 111 255 }
+                    color2 = { 255 255 255 }
+                    province = 657.0
+                }
+
+                b_trallopfurten = {
+                    color = { 75 124 0 }
+                    color2 = { 255 255 255 }
+                    province = 658.0
+                }
+
+            }
+
+            c_beonspfort = {
+                color = { 75 124 60 }
+                color2 = { 255 255 255 }
+
+                b_beonspfort = {
+                    color = { 75 124 60 }
+                    color2 = { 255 255 255 }
+                    province = 659.0
+                }
+
+                b_beilstadt = {
+                    color = { 75 124 125 }
+                    color2 = { 255 255 255 }
+                    province = 660.0
+                }
+
+                b_tannengrund = {
+                    color = { 75 124 195 }
+                    color2 = { 255 255 255 }
+                    province = 661.0
+                }
+
+            }
+
+            c_sichelwachter_drachenstein = {
+                color = { 75 124 255 }
+                color2 = { 255 255 255 }
+
+                b_lonatfurt = {
+                    color = { 75 124 255 }
+                    color2 = { 255 255 255 }
+                    province = 662.0
+                }
+
+                b_drachenforst = {
+                    color = { 220 205 0 }
+                    color2 = { 255 255 255 }
+                    province = 663.0
+                }
+
+            }
+
+            c_fuchshag = {
+                color = { 220 205 60 }
+                color2 = { 255 255 255 }
+
+                b_finisrath = {
+                    color = { 220 205 60 }
+                    color2 = { 255 255 255 }
+                    province = 664.0
+                }
+
+                b_rathilda = {
+                    color = { 220 205 125 }
+                    color2 = { 255 255 255 }
+                    province = 665.0
+                }
+
+                b_rathilmuend = {
+                    color = { 220 205 195 }
+                    color2 = { 255 255 255 }
+                    province = 666.0
+                }
+
+            }
+
+            c_hahnfels = {
+                color = { 220 205 255 }
+                color2 = { 255 255 255 }
+
+                b_hahnfels = {
+                    color = { 220 205 255 }
+                    color2 = { 255 255 255 }
+                    province = 667.0
+                }
+
+                b_tatzelschlund = {
+                    color = { 27 88 0 }
+                    color2 = { 255 255 255 }
+                    province = 668.0
+                }
+
+            }
+
+            c_herzogenthal = {
+                color = { 27 88 60 }
+                color2 = { 255 255 255 }
+
+                b_dunkelbrunn = {
+                    color = { 27 88 60 }
+                    color2 = { 255 255 255 }
+                    province = 669.0
+                }
+
+            }
+
+            c_ingerimms_steg = {
+                color = { 27 88 125 }
+                color2 = { 255 255 255 }
+
+                b_drôlenhorst = {
+                    color = { 27 88 125 }
+                    color2 = { 255 255 255 }
+                    province = 670.0
+                }
+
+                b_dragenfeld = {
+                    color = { 27 88 195 }
+                    color2 = { 255 255 255 }
+                    province = 671.0
+                }
+
+            }
+
+            c_mauterndorf = {
+                color = { 27 88 255 }
+                color2 = { 255 255 255 }
+
+                b_trutzfels = {
+                    color = { 27 88 255 }
+                    color2 = { 255 255 255 }
+                    province = 672.0
+                }
+
+                b_braunsfurt = {
+                    color = { 209 209 0 }
+                    color2 = { 255 255 255 }
+                    province = 673.0
+                }
+
+                b_dreybircken = {
+                    color = { 209 209 60 }
+                    color2 = { 255 255 255 }
+                    province = 674.0
+                }
+
+            }
+
+            c_oestlingen = {
+                color = { 209 209 125 }
+                color2 = { 255 255 255 }
+
+                b_braunenklamm = {
+                    color = { 209 209 125 }
+                    color2 = { 255 255 255 }
+                    province = 675.0
+                }
+
+                b_balcken = {
+                    color = { 209 209 195 }
+                    color2 = { 255 255 255 }
+                    province = 676.0
+                }
+
+            }
+
+            c_rotenforst = {
+                color = { 209 209 255 }
+                color2 = { 255 255 255 }
+
+                b_klagenfels = {
+                    color = { 209 209 255 }
+                    color2 = { 255 255 255 }
+                    province = 677.0
+                }
+
+                b_birken = {
+                    color = { 96 64 0 }
+                    color2 = { 255 255 255 }
+                    province = 678.0
+                }
+
+            }
+
+            c_schwarzenstein = {
+                color = { 96 64 60 }
+                color2 = { 255 255 255 }
+
+                b_schwarzensteyn = {
+                    color = { 96 64 60 }
+                    color2 = { 255 255 255 }
+                    province = 679.0
+                }
+
+            }
+
+            c_schroffenfels = {
+                color = { 96 64 125 }
+                color2 = { 255 255 255 }
+
+                b_runforst = {
+                    color = { 96 64 125 }
+                    color2 = { 255 255 255 }
+                    province = 680.0
+                }
+
+                b_runhag = {
+                    color = { 96 64 195 }
+                    color2 = { 255 255 255 }
+                    province = 681.0
+                }
+
+            }
+
+            c_uhdenwald = {
+                color = { 96 64 255 }
+                color2 = { 255 255 255 }
+
+                b_tiefenfurt = {
+                    color = { 96 64 255 }
+                    color2 = { 255 255 255 }
+                    province = 682.0
+                }
+
+                b_gurvanshort = {
+                    color = { 202 106 0 }
+                    color2 = { 255 255 255 }
+                    province = 683.0
+                }
+
+            }
+
+            c_zollhaus = {
+                color = { 202 106 60 }
+                color2 = { 255 255 255 }
+
+                b_zollhaus = {
+                    color = { 202 106 60 }
+                    color2 = { 255 255 255 }
+                    province = 684.0
+                }
+
+                b_muehlental = {
+                    color = { 202 106 125 }
+                    color2 = { 255 255 255 }
+                    province = 685.0
+                }
+
+            }
+
+        }
+
+        d_heldentrutz = {
+            color = { 0 0 0 }
+            color2 = { 255 255 255 }
+            capital = c_reichsend
+
+        }
+
+    }
+
+    k_heldentrutz = {
+        color = { 0 0 0 }
+        color2 = { 255 255 255 }
+        capital = c_reichsend
+
+    }
+
+    k_kosch = {
+        color = { 29 125 125 }
+        color2 = { 255 255 255 }
+        capital = c_angbar
+
+        d_angbarer_see = {
+            color = { 29 125 125 }
+            color2 = { 255 255 255 }
+            capital = c_angbar
+
+            c_angbar = {
+                color = { 29 125 125 }
+                color2 = { 255 255 255 }
+
+                b_angbar = {
+                    color = { 29 125 125 }
+                    color2 = { 255 255 255 }
+                    province = 734.0
+                }
+
+            }
+
+            c_geistmark = {
+                color = { 29 125 195 }
+                color2 = { 255 255 255 }
+
+                b_halmwacht = {
+                    color = { 29 125 195 }
+                    color2 = { 255 255 255 }
+                    province = 735.0
+                }
+
+                b_bauersglueck = {
+                    color = { 29 125 255 }
+                    color2 = { 255 255 255 }
+                    province = 736.0
+                }
+
+                b_storchsklausen = {
+                    color = { 194 188 0 }
+                    color2 = { 255 255 255 }
+                    province = 737.0
+                }
+
+            }
+
+            c_garnelhaun = {
+                color = { 194 188 60 }
+                color2 = { 255 255 255 }
+
+                b_erlenschloss = {
+                    color = { 194 188 60 }
+                    color2 = { 255 255 255 }
+                    province = 738.0
+                }
+
+                b_trallik = {
+                    color = { 194 188 125 }
+                    color2 = { 255 255 255 }
+                    province = 739.0
+                }
+
+            }
+
+            c_oberangbar = {
+                color = { 194 188 195 }
+                color2 = { 255 255 255 }
+
+                b_oberangbar = {
+                    color = { 194 188 195 }
+                    color2 = { 255 255 255 }
+                    province = 740.0
+                }
+
+                b_halming = {
+                    color = { 194 188 255 }
+                    color2 = { 255 255 255 }
+                    province = 741.0
+                }
+
+            }
+
+            c_sindelsaum = {
+                color = { 94 198 0 }
+                color2 = { 255 255 255 }
+
+                b_stippwitz = {
+                    color = { 94 198 0 }
+                    color2 = { 255 255 255 }
+                    province = 742.0
+                }
+
+                b_sindelsaum = {
+                    color = { 94 198 60 }
+                    color2 = { 255 255 255 }
+                    province = 743.0
+                }
+
+                b_eichenholtz = {
+                    color = { 94 198 125 }
+                    color2 = { 255 255 255 }
+                    province = 744.0
+                }
+
+                b_entensteg = {
+                    color = { 94 198 195 }
+                    color2 = { 255 255 255 }
+                    province = 745.0
+                }
+
+            }
+
+            c_birnbrosch = {
+                color = { 94 198 255 }
+                color2 = { 255 255 255 }
+
+                b_birnbrosch = {
+                    color = { 94 198 255 }
+                    color2 = { 255 255 255 }
+                    province = 746.0
+                }
+
+                b_alt_garnelen = {
+                    color = { 62 179 0 }
+                    color2 = { 255 255 255 }
+                    province = 747.0
+                }
+
+                b_findelstin = {
+                    color = { 62 179 60 }
+                    color2 = { 255 255 255 }
+                    province = 748.0
+                }
+
+                b_anpforten = {
+                    color = { 62 179 125 }
+                    color2 = { 255 255 255 }
+                    province = 749.0
+                }
+
+            }
+
+            c_vinansamt = {
+                color = { 62 179 195 }
+                color2 = { 255 255 255 }
+
+                b_steinbruecken = {
+                    color = { 62 179 195 }
+                    color2 = { 255 255 255 }
+                    province = 750.0
+                }
+
+                b_gaschenk = {
+                    color = { 62 179 255 }
+                    color2 = { 255 255 255 }
+                    province = 751.0
+                }
+
+                b_leuwensteyn = {
+                    color = { 107 235 0 }
+                    color2 = { 255 255 255 }
+                    province = 752.0
+                }
+
+                b_toroschs_aue = {
+                    color = { 107 235 60 }
+                    color2 = { 255 255 255 }
+                    province = 753.0
+                }
+
+            }
+
+            c_zwischenwasser = {
+                color = { 107 235 125 }
+                color2 = { 255 255 255 }
+
+                b_grauensee = {
+                    color = { 107 235 125 }
+                    color2 = { 255 255 255 }
+                    province = 730.0
+                }
+
+                b_gôrmel = {
+                    color = { 107 235 195 }
+                    color2 = { 255 255 255 }
+                    province = 731.0
+                }
+
+                b_ibeck = {
+                    color = { 107 235 255 }
+                    color2 = { 255 255 255 }
+                    province = 732.0
+                }
+
+                b_xennarode = {
+                    color = { 55 252 0 }
+                    color2 = { 255 255 255 }
+                    province = 733.0
+                }
+
+            }
+
+            c_rohalssteg = {
+                color = { 55 252 60 }
+                color2 = { 255 255 255 }
+
+                b_eichstein_2 = {
+                    color = { 55 252 60 }
+                    color2 = { 255 255 255 }
+                    province = 754.0
+                }
+
+                b_rohalssteg = {
+                    color = { 55 252 125 }
+                    color2 = { 255 255 255 }
+                    province = 755.0
+                }
+
+                b_ogertod = {
+                    color = { 55 252 195 }
+                    color2 = { 255 255 255 }
+                    province = 756.0
+                }
+
+            }
+
+        }
+
+        d_schetzeneck = {
+            color = { 55 252 255 }
+            color2 = { 255 255 255 }
+            capital = c_drakfold
+
+            c_drakfold = {
+                color = { 55 252 255 }
+                color2 = { 255 255 255 }
+
+                b_neuensteinigen = {
+                    color = { 55 252 255 }
+                    color2 = { 255 255 255 }
+                    province = 757.0
+                }
+
+                b_koschtal = {
+                    color = { 218 33 0 }
+                    color2 = { 255 255 255 }
+                    province = 758.0
+                }
+
+                b_drakenfels = {
+                    color = { 218 33 60 }
+                    color2 = { 255 255 255 }
+                    province = 759.0
+                }
+
+                b_phexissenthal = {
+                    color = { 218 33 125 }
+                    color2 = { 255 255 255 }
+                    province = 760.0
+                }
+
+            }
+
+            c_fuerstenhort = {
+                color = { 218 33 195 }
+                color2 = { 255 255 255 }
+
+                b_fuerstenhort = {
+                    color = { 218 33 195 }
+                    color2 = { 255 255 255 }
+                    province = 761.0
+                }
+
+                b_porquidstreu = {
+                    color = { 218 33 255 }
+                    color2 = { 255 255 255 }
+                    province = 762.0
+                }
+
+                b_eberfang = {
+                    color = { 143 138 0 }
+                    color2 = { 255 255 255 }
+                    province = 763.0
+                }
+
+                b_ingrahall = {
+                    color = { 143 138 60 }
+                    color2 = { 255 255 255 }
+                    province = 764.0
+                }
+
+            }
+
+            c_baerenfang = {
+                color = { 143 138 125 }
+                color2 = { 255 255 255 }
+
+                b_zwietrutz = {
+                    color = { 143 138 125 }
+                    color2 = { 255 255 255 }
+                    province = 765.0
+                }
+
+                b_drabenburg = {
+                    color = { 143 138 195 }
+                    color2 = { 255 255 255 }
+                    province = 766.0
+                }
+
+                b_braschtôkril = {
+                    color = { 143 138 255 }
+                    color2 = { 255 255 255 }
+                    province = 767.0
+                }
+
+            }
+
+            c_metenar = {
+                color = { 212 119 0 }
+                color2 = { 255 255 255 }
+
+                b_flusswacht_2 = {
+                    color = { 212 119 0 }
+                    color2 = { 255 255 255 }
+                    province = 768.0
+                }
+
+                b_rhondur = {
+                    color = { 212 119 60 }
+                    color2 = { 255 255 255 }
+                    province = 769.0
+                }
+
+                b_trolleck = {
+                    color = { 212 119 125 }
+                    color2 = { 255 255 255 }
+                    province = 770.0
+                }
+
+                b_moorfurt = {
+                    color = { 212 119 195 }
+                    color2 = { 255 255 255 }
+                    province = 771.0
+                }
+
+            }
+
+            c_koschgau = {
+                color = { 212 119 255 }
+                color2 = { 255 255 255 }
+
+                b_grimmenhall = {
+                    color = { 212 119 255 }
+                    color2 = { 255 255 255 }
+                    province = 772.0
+                }
+
+            }
+
+            c_uztrutz = {
+                color = { 224 245 0 }
+                color2 = { 255 255 255 }
+
+                b_alt_rudes_schild = {
+                    color = { 224 245 0 }
+                    color2 = { 255 255 255 }
+                    province = 773.0
+                }
+
+                b_uztrutz = {
+                    color = { 224 245 60 }
+                    color2 = { 255 255 255 }
+                    province = 774.0
+                }
+
+                b_knutenholz = {
+                    color = { 224 245 125 }
+                    color2 = { 255 255 255 }
+                    province = 775.0
+                }
+
+            }
+
+        }
+
+        d_ferdok = {
+            color = { 224 245 195 }
+            color2 = { 255 255 255 }
+            capital = c_ferdok
+
+            c_ferdok = {
+                color = { 224 245 195 }
+                color2 = { 255 255 255 }
+
+                b_ingen = {
+                    color = { 224 245 195 }
+                    color2 = { 255 255 255 }
+                    province = 776.0
+                }
+
+                b_ferdok = {
+                    color = { 224 245 255 }
+                    color2 = { 255 255 255 }
+                    province = 777.0
+                }
+
+                b_lacuna = {
+                    color = { 165 198 0 }
+                    color2 = { 255 255 255 }
+                    province = 778.0
+                }
+
+            }
+
+            c_bragahn = {
+                color = { 165 198 60 }
+                color2 = { 255 255 255 }
+
+                b_warneburg = {
+                    color = { 165 198 60 }
+                    color2 = { 255 255 255 }
+                    province = 779.0
+                }
+
+                b_bragahn = {
+                    color = { 165 198 125 }
+                    color2 = { 255 255 255 }
+                    province = 780.0
+                }
+
+            }
+
+            c_drift = {
+                color = { 165 198 195 }
+                color2 = { 255 255 255 }
+
+                b_waldhof = {
+                    color = { 165 198 195 }
+                    color2 = { 255 255 255 }
+                    province = 781.0
+                }
+
+                b_drift = {
+                    color = { 165 198 255 }
+                    color2 = { 255 255 255 }
+                    province = 782.0
+                }
+
+                b_garrensand = {
+                    color = { 94 180 0 }
+                    color2 = { 255 255 255 }
+                    province = 783.0
+                }
+
+                b_zolchodh = {
+                    color = { 94 180 60 }
+                    color2 = { 255 255 255 }
+                    province = 784.0
+                }
+
+            }
+
+            c_dunkelforst = {
+                color = { 94 180 125 }
+                color2 = { 255 255 255 }
+
+                b_dunkelforst = {
+                    color = { 94 180 125 }
+                    color2 = { 255 255 255 }
+                    province = 785.0
+                }
+
+                b_salmingen = {
+                    color = { 94 180 195 }
+                    color2 = { 255 255 255 }
+                    province = 786.0
+                }
+
+                b_nerbusch = {
+                    color = { 94 180 255 }
+                    color2 = { 255 255 255 }
+                    province = 787.0
+                }
+
+            }
+
+            c_hammerschlag = {
+                color = { 0 0 0 }
+                color2 = { 255 255 255 }
+
+            }
+
+            c_herbonia = {
+                color = { 0 0 0 }
+                color2 = { 255 255 255 }
+
+            }
+
+            c_lur = {
+                color = { 0 0 0 }
+                color2 = { 255 255 255 }
+
+            }
+
+            c_moorbrueck = {
+                color = { 0 0 0 }
+                color2 = { 255 255 255 }
+
+            }
+
+            c_nadoret = {
+                color = { 0 0 0 }
+                color2 = { 255 255 255 }
+
+            }
+
+            c_roterz = {
+                color = { 0 0 0 }
+                color2 = { 255 255 255 }
+
+            }
+
+            c_stanniz = {
+                color = { 0 0 0 }
+                color2 = { 255 255 255 }
+
+            }
+
+            c_tosch_mur = {
+                color = { 0 0 0 }
+                color2 = { 255 255 255 }
+
+            }
+
+        }
+
+        d_wengenholm = {
+            color = { 0 0 0 }
+            color2 = { 255 255 255 }
+        }
+
+        d_huegellande = {
+            color = { 0 0 0 }
+            color2 = { 255 255 255 }
+            capital = c_angbar
+
+        }
 
     }
 
@@ -4410,6 +7079,13 @@ e_schwarze_horde = {
 
     }
 
+    k_transysilien = {
+        color = { 0 0 0 }
+        color2 = { 255 255 255 }
+        capital = c_ysilia
+
+    }
+
 }
 
 k_heliodan = {
@@ -4437,13 +7113,13 @@ k_kurkum = {
             b_kurkum = {
                 color = { 73 189 80 }
                 color2 = { 255 255 255 }
-                province = 479
+                province = 479.0
             }
 
             b_zehnthof = {
                 color = { 73 189 255 }
                 color2 = { 255 255 255 }
-                province = 480
+                province = 480.0
             }
 
         }
@@ -4469,19 +7145,19 @@ k_lorgolosch = {
             b_schatodor = {
                 color = { 73 189 0 }
                 color2 = { 255 255 255 }
-                province = 481
+                province = 481.0
             }
 
             b_west_lorgolosch = {
                 color = { 73 189 160 }
                 color2 = { 255 255 255 }
-                province = 482
+                province = 482.0
             }
 
             b_ost_lorgolosch = {
                 color = { 73 189 120 }
                 color2 = { 255 255 255 }
-                province = 483
+                province = 483.0
             }
 
         }
@@ -4493,13 +7169,13 @@ k_lorgolosch = {
             b_ilderasch = {
                 color = { 247 148 0 }
                 color2 = { 255 255 255 }
-                province = 484
+                province = 484.0
             }
 
             b_kibrom = {
                 color = { 247 148 255 }
                 color2 = { 255 255 255 }
-                province = 485
+                province = 485.0
             }
 
         }

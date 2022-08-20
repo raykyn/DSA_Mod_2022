@@ -34,6 +34,20 @@ class Title(object):
         self.history = []
         self.capital = None  # set it specifically for titular titles
         self.landless = None
+        self.culture = None
+        self.religion = None
+
+    def get_culture(self):
+        if self.culture is None:
+            return self.liege.get_culture()
+        else:
+            return self.culture
+
+    def get_religion(self):
+        if self.religion is None:
+            return self.liege.get_religion()
+        else:
+            return self.religion
 
     def get_capital(self):
         if self.capital is not None:
@@ -109,13 +123,13 @@ def write_province_definition():
         sheet_name="Baronies", 
         index_col=0,
     )
-    with open("./map_data/definition.csv", mode="w", encoding="utf-8-sig") as out:
+    with open("./map_data/definition.csv", mode="w", encoding="ansi") as out:
         out.write("0;0;0;0;x;x;\n")
         for index, row in barony_sheet.iterrows():
             if pd.isnull(row["name"]):
                 continue
             out.write("{};{};{};{};{};x;\n".format(
-                index,
+                str(int(index)),
                 int(row["Red"]),
                 int(row["Green"]),
                 int(row["Blue"]),
@@ -148,6 +162,10 @@ def add_hierarchy_level(sheetname, rank, liegerank, liegelist):
             )
             new_title.province_id = index
             new_title.type = row["type"]
+        elif rank == "c_":
+            new_title.culture = row["culture"]
+            new_title.religion = row["religion"]
+            read_title_history_from_file(row["history"], new_title)
         else:
             if rank != "c_":
                 if not pd.isnull(row["capital"]):
@@ -267,8 +285,8 @@ def write_province_history(top_level_titles):
             for barony in baronies:
                 out.write("# {0} - {1}\n".format(barony.province_id, barony.name))
                 out.write("{0} = {{\n\n".format(barony.province_id))
-                out.write("    culture = {0}\n".format("test_culture"))  # TODO: Put in actual culture
-                out.write("    religion = {0}\n".format("test_faith"))  # TODO: Put in actual culture
+                out.write("    culture = {0}\n".format(barony.get_culture()))
+                out.write("    religion = {0}\n".format(barony.get_religion()))
                 if barony.type == "B":
                     holding_type = "castle_holding"
                 elif barony.type == "T":
@@ -368,12 +386,17 @@ def write_character_history(top_level_titles, dynasty_list):
         sheet_name="Characters", 
         index_col=0,
     )
+    collect_names = set()
     # TODO: Do one file per culture
     out = open("./history/characters/000_test_characters.txt", mode="w", encoding="utf-8-sig")
     for index, row in character_sheet.iterrows():
         if pd.isnull(row["name"]):
             continue
         out.write("{0} = {{\n".format(int(index)))
+
+        if row["culture"] == "garetian" and row["female"] == "yes":
+            for n in row["name"].split():
+                collect_names.add(n)
 
         out.write('    name = "{0}"\n'.format(row["name"]))
         if int(row["dynasty"]) not in dynasty_list and int(row["dynasty"]) != 0:
@@ -413,6 +436,8 @@ def write_character_history(top_level_titles, dynasty_list):
         out.write(write_history_block(row["death"], "death", "yes"))
         
         out.write("}\n\n")
+
+    # print(",".join(list(collect_names)))
 
     out.close()
 

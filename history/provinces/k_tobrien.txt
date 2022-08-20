@@ -1,540 +1,1494 @@
-﻿# 445 - Oberbeilunk
-445 = {
+﻿# 445.0 - Oberbeilunk
+445.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 446 - Beilunk
-446 = {
+# 446.0 - Beilunk
+446.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 447 - Drîleuen
-447 = {
+# 447.0 - Drîleuen
+447.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 448 - Neu-Hargenborn
-448 = {
+# 448.0 - Neu-Hargenborn
+448.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 449 - Borobunth
-449 = {
+# 449.0 - Borobunth
+449.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 450 - Borostett
-450 = {
+# 450.0 - Borostett
+450.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 451 - Greifenau
-451 = {
+# 451.0 - Greifenau
+451.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 452 - Grünau
-452 = {
+# 452.0 - Grünau
+452.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 453 - Bedofeld
-453 = {
+# 453.0 - Bedofeld
+453.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 454 - Grenzmarken
-454 = {
+# 454.0 - Grenzmarken
+454.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 456 - Valdahon
-456 = {
+# 456.0 - Valdahon
+456.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 457 - Maîch
-457 = {
+# 457.0 - Maîch
+457.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 458 - Maîchenmatt
-458 = {
+# 458.0 - Maîchenmatt
+458.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 459 - Ringfeste
-459 = {
+# 459.0 - Ringfeste
+459.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 460 - Durbosch
-460 = {
+# 460.0 - Durbosch
+460.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 461 - Föhrenkuppe
-461 = {
+# 461.0 - Föhrenkuppe
+461.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 462 - Graî
-462 = {
+# 462.0 - Graî
+462.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 455 - Ouhan
-455 = {
+# 455.0 - Ouhan
+455.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 463 - Zweiseen
-463 = {
+# 463.0 - Zweiseen
+463.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 464 - Shamaham
-464 = {
+# 464.0 - Shamaham
+464.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 465 - Kendram
-465 = {
+# 465.0 - Kendram
+465.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 466 - Kleinfurt
-466 = {
+# 466.0 - Kleinfurt
+466.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 467 - Waldereck
-467 = {
+# 467.0 - Waldereck
+467.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 468 - Ogerbusch
-468 = {
+# 468.0 - Ogerbusch
+468.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 469 - Norbenstein
-469 = {
+# 469.0 - Norbenstein
+469.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 470 - Norbeneck
-470 = {
+# 470.0 - Norbeneck
+470.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 471 - Arbenforst
-471 = {
+# 471.0 - Arbenforst
+471.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 472 - Arbasien
-472 = {
+# 472.0 - Arbasien
+472.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 473 - Saldersand
-473 = {
+# 473.0 - Saldersand
+473.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 474 - Salderküst
-474 = {
+# 474.0 - Salderküst
+474.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 475 - Rhoderstein
-475 = {
+# 475.0 - Rhoderstein
+475.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 476 - Ostend
-476 = {
+# 476.0 - Ostend
+476.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 477 - Lyll
-477 = {
+# 477.0 - Lyll
+477.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 478 - Amarasch
-478 = {
+# 478.0 - Amarasch
+478.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 486 - Borowein
-486 = {
+# 486.0 - Borowein
+486.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 487 - Hugesweier
-487 = {
+# 487.0 - Hugesweier
+487.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 488 - Mendena
-488 = {
+# 488.0 - Mendena
+488.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 489 - Burgheym
-489 = {
+# 489.0 - Burgheym
+489.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 490 - Keilerau
-490 = {
+# 490.0 - Keilerau
+490.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 491 - Alkenhorst
-491 = {
+# 491.0 - Alkenhorst
+491.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 492 - Hagensmoor
-492 = {
+# 492.0 - Hagensmoor
+492.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 493 - Rallerfeste
-493 = {
+# 493.0 - Rallerfeste
+493.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 494 - Salvunk
-494 = {
+# 494.0 - Salvunk
+494.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 495 - Löwenstein
-495 = {
+# 495.0 - Löwenstein
+495.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 496 - Sardosk
-496 = {
+# 496.0 - Sardosk
+496.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 497 - Schwarzbuckel
-497 = {
+# 497.0 - Schwarzbuckel
+497.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 498 - Hügelbrunnen
-498 = {
+# 498.0 - Hügelbrunnen
+498.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 499 - Ulracht
-499 = {
+# 499.0 - Ulracht
+499.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 500 - Zossberg
-500 = {
+# 500.0 - Zossberg
+500.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 501 - Föhrenhain
-501 = {
+# 501.0 - Föhrenhain
+501.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 502 - Muschelstrand
-502 = {
+# 502.0 - Muschelstrand
+502.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 503 - Sassandra
-503 = {
+# 503.0 - Sassandra
+503.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 504 - Dinglingen
-504 = {
+# 504.0 - Dinglingen
+504.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 505 - Alsum
-505 = {
+# 505.0 - Alsum
+505.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 506 - Kohlrungen
-506 = {
+# 506.0 - Kohlrungen
+506.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 507 - Isoldern
-507 = {
+# 507.0 - Isoldern
+507.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 508 - Ilsur
-508 = {
+# 508.0 - Ilsur
+508.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 509 - Perlstein
-509 = {
+# 509.0 - Perlstein
+509.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 510 - Port Rulat
-510 = {
+# 510.0 - Port Rulat
+510.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 511 - Tisal
-511 = {
+# 511.0 - Tisal
+511.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = puniner
     holding = castle_holding
+
+}
+
+# 512.0 - Krytzdorf
+512.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 513.0 - Warunk
+513.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 514.0 - Apelenfelde
+514.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 515.0 - Binsenbeck
+515.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 516.0 - Binsenstett
+516.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 517.0 - Dogulsgau
+517.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 518.0 - Natternstein
+518.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 519.0 - Radromsforst
+519.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 520.0 - Radromstorf
+520.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 521.0 - Schlegelstein
+521.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 522.0 - Praske
+522.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 523.0 - Benderhus
+523.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 524.0 - Ehrenstein
+524.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 525.0 - Burmisch
+525.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 526.0 - Drachenturm
+526.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 527.0 - Ebersteg
+527.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 528.0 - Jarlaksgrund
+528.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 529.0 - Freudenberg
+529.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 530.0 - Freudenfeld
+530.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 531.0 - Granelfels
+531.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 532.0 - Flussodem
+532.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 533.0 - Hohenlauchenwart
+533.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 534.0 - Isenborn
+534.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 535.0 - Lindenhain
+535.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 536.0 - Felsing
+536.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 537.0 - Eichenbruch
+537.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 538.0 - Tobelstein
+538.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 539.0 - Gildern
+539.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 540.0 - Wettersklamm
+540.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 541.0 - Rattingen
+541.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 542.0 - Bendromstal
+542.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 543.0 - Willbergen
+543.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 544.0 - Ysilia
+544.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 545.0 - Eichmoor
+545.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 546.0 - Falkenhorst
+546.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 547.0 - Falkenberg
+547.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 548.0 - Kathenberg
+548.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 549.0 - Künssberg
+549.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 550.0 - Liliengrund
+550.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 551.0 - Mundtbach
+551.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 552.0 - Kummerteich
+552.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 553.0 - Münzenberg
+553.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 554.0 - Nevelung
+554.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 555.0 - Wulfenhag
+555.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 556.0 - Radromssprung
+556.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 557.0 - Oberdarpatien
+557.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 558.0 - Ogertrift
+558.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 559.0 - Altdorf
+559.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 560.0 - Trollfeste
+560.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 561.0 - Viereichen
+561.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 562.0 - Kaltenstein
+562.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 563.0 - Winsheym
+563.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 564.0 - Rauffenberg
+564.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 565.0 - Speckfelden
+565.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 566.0 - Dogulstem
+566.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 567.0 - Freudenfelden
+567.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 568.0 - Kleinwardstein
+568.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 569.0 - Spogelsen
+569.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 570.0 - Wolfenstein
+570.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 571.0 - Firunsbrunn
+571.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 572.0 - Misamôr
+572.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 573.0 - Syrdalok
+573.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 574.0 - Firunsschilfen
+574.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 575.0 - Alstfurt
+575.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 576.0 - Wiesengrund
+576.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 577.0 - Schallingspfort
+577.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 578.0 - Deisterfels
+578.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 579.0 - St. Ardarita
+579.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = church_holding
+
+}
+
+# 580.0 - Ebelried
+580.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 581.0 - Tizerquell
+581.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 582.0 - Perainefurten
+582.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 583.0 - Yeshinna
+583.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 584.0 - Derdingen
+584.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 585.0 - Haderstein
+585.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 586.0 - Koppingen
+586.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 587.0 - Becherlingen
+587.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 588.0 - Arnlan
+588.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 589.0 - Nordweide
+589.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 590.0 - Reiherstelz
+590.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 591.0 - Tobimora
+591.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 592.0 - Ällingen
+592.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 593.0 - Eslamsbrück
+593.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 594.0 - Bergenhus
+594.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 595.0 - Grünwalden
+595.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 596.0 - Arkenheim
+596.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 597.0 - Kummersfelden
+597.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 598.0 - Waischenroth
+598.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 599.0 - Windgau
+599.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 600.0 - Schilfsend
+600.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 601.0 - Fischbach
+601.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 602.0 - Moorburg
+602.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 603.0 - Flussbuckel
+603.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 604.0 - Baruns Pappel
+604.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 605.0 - Wickrath
+605.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 606.0 - Flusswacht
+606.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 607.0 - Maus
+607.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 608.0 - Drachenhaupt
+608.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 609.0 - Meilersruh
+609.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 610.0 - Leuentrutz
+610.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = church_holding
+
+}
+
+# 611.0 - Wulfenthurm
+611.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 612.0 - Erlschwerd
+612.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 613.0 - Güldenharsch
+613.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 614.0 - Waldbergen
+614.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 615.0 - Ornaldsruh
+615.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 616.0 - Apeps Säule
+616.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 617.0 - Nissingen
+617.0 = {
+
+    culture = tobrian
+    religion = puniner
+    holding = city_holding
 
 }
 

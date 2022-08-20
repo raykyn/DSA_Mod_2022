@@ -2353,7 +2353,7 @@ c_baerenau = {
     }
 }
 
-b_liliengrund = {
+b_liliengrund_2 = {
     1.1.1 = {
         liege = c_baerenau
     }

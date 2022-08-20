@@ -71,11 +71,12 @@ def write_names():
 	    "mat_grm_name_chance",
 	    "mother_name_chance"
     ]
-    with open("./common/culture/name_lists/00_dsa.txt", mode="w", encoding="utf8") as out:
+    with open("./common/culture/name_lists/00_dsa.txt", mode="w", encoding="utf8") as out, open("./localization/english/dsa_names_l_english.yml", mode="w", encoding="utf-8-sig") as loc:
+        loc.write("l_english:\n")
         for index, row in lang_sheet.iterrows():
             if pd.isnull(row["name"]):
                 continue
-            code = "language_" + row["code"]
+            code = "name_list_" + row["code"]
             out.write("{} = {{\n".format(code))
             male_names = write_entry_brackets("male_names", row["male_names"].split(","))
             female_names = write_entry_brackets("female_names", row["female_names"].split(","))
@@ -89,6 +90,12 @@ def write_names():
                 out.write("    {0} = {1}\n".format(var, val))
             
             out.write("}\n\n")
+
+            # write localization file
+            for name in row["male_names"].split(",") + row["female_names"].split(","):
+                loc.write(' {0}:0 "{1}"\n'.format(name, name))
+
+    
 
 
 def write_cultures():
@@ -127,9 +134,10 @@ def write_cultures():
             out.write("    language = language_{}\n".format(row["language"]))
             out.write("    martial_custom = {}\n".format(row["martial_custom"]))
 
-            out.write("    {}\n".format(write_entry_brackets("traditions", traditions[row["code"]])))
-            
-            out.write("    name_list = {}\n\n".format(row["name_list"]))
+            if row["code"] in traditions:
+                out.write("    {}\n".format(write_entry_brackets("traditions", traditions[row["code"]])))
+
+            out.write("    name_list = name_list_{}\n\n".format(row["name_list"]))
            
             out.write("    {}".format(write_entry_brackets("coa_gfx", [row["coa_gfx"]])))
             out.write("    {}".format(write_entry_brackets("building_gfx", [row["building_gfx"]])))

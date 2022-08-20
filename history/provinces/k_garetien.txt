@@ -1,2852 +1,2852 @@
-﻿# 1 - Rohalsfelden
-1 = {
+﻿# 1.0 - Rohalsfelden
+1.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 2 - Neu-Gareth
-2 = {
+# 2.0 - Neu-Gareth
+2.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 3 - Meilersgrund
-3 = {
+# 3.0 - Meilersgrund
+3.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 4 - Weisshorn
-4 = {
+# 4.0 - Weisshorn
+4.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 5 - Goldenkron
-5 = {
+# 5.0 - Goldenkron
+5.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 6 - Alt-Gareth
-6 = {
+# 6.0 - Alt-Gareth
+6.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 7 - Silkwiesen
-7 = {
+# 7.0 - Silkwiesen
+7.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 8 - Brachenwacht
-8 = {
+# 8.0 - Brachenwacht
+8.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 9 - St. Ancilla
-9 = {
+# 9.0 - St. Ancilla
+9.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 10 - Briskengrund
-10 = {
+# 10.0 - Briskengrund
+10.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 11 - Wiehingen
-11 = {
+# 11.0 - Wiehingen
+11.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 12 - Schellenpfort
-12 = {
+# 12.0 - Schellenpfort
+12.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 13 - Vierok
-13 = {
+# 13.0 - Vierok
+13.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 14 - Garafansbrück
-14 = {
+# 14.0 - Garafansbrück
+14.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 15 - Untergardeln
-15 = {
+# 15.0 - Untergardeln
+15.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 16 - Goldenstein
-16 = {
+# 16.0 - Goldenstein
+16.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 17 - Nattersquell
-17 = {
+# 17.0 - Nattersquell
+17.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 18 - Mühlingen
-18 = {
+# 18.0 - Mühlingen
+18.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 19 - Alrikshorst
-19 = {
+# 19.0 - Alrikshorst
+19.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 20 - Alrikshain
-20 = {
+# 20.0 - Alrikshain
+20.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 21 - St. Belliatlus
-21 = {
+# 21.0 - St. Belliatlus
+21.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 22 - Finkenbach
-22 = {
+# 22.0 - Finkenbach
+22.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 23 - Menzelshall
-23 = {
+# 23.0 - Menzelshall
+23.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 24 - Ackbar
-24 = {
+# 24.0 - Ackbar
+24.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 25 - Perainenau
-25 = {
+# 25.0 - Perainenau
+25.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 26 - Scheuerlintz
-26 = {
+# 26.0 - Scheuerlintz
+26.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 27 - Neusighelmsstein
-27 = {
+# 27.0 - Neusighelmsstein
+27.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 28 - Güldenfeldt
-28 = {
+# 28.0 - Güldenfeldt
+28.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 29 - Aurenwald
-29 = {
+# 29.0 - Aurenwald
+29.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 30 - Sighelmsaue
-30 = {
+# 30.0 - Sighelmsaue
+30.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 31 - Ochsenblut
-31 = {
+# 31.0 - Ochsenblut
+31.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 32 - St. Radul
-32 = {
+# 32.0 - St. Radul
+32.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 33 - Mückenhang
-33 = {
+# 33.0 - Mückenhang
+33.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 34 - Heiterfeld
-34 = {
+# 34.0 - Heiterfeld
+34.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 35 - Wagenhalt
-35 = {
+# 35.0 - Wagenhalt
+35.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 36 - Fandolesch
-36 = {
+# 36.0 - Fandolesch
+36.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 37 - Albenfeld
-37 = {
+# 37.0 - Albenfeld
+37.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 38 - Halden
-38 = {
+# 38.0 - Halden
+38.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 39 - Roden
-39 = {
+# 39.0 - Roden
+39.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 40 - Krauzung
-40 = {
+# 40.0 - Krauzung
+40.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 41 - Gryffenwacht
-41 = {
+# 41.0 - Gryffenwacht
+41.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 42 - Nattergrund
-42 = {
+# 42.0 - Nattergrund
+42.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 43 - Praioslob
-43 = {
+# 43.0 - Praioslob
+43.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 44 - St. Ukurien
-44 = {
+# 44.0 - St. Ukurien
+44.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 45 - Wandleth
-45 = {
+# 45.0 - Wandleth
+45.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 46 - Freudenstein
-46 = {
+# 46.0 - Freudenstein
+46.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 47 - Wiesburg
-47 = {
+# 47.0 - Wiesburg
+47.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 48 - St. Falkhilde
-48 = {
+# 48.0 - St. Falkhilde
+48.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 49 - Erlengrund
-49 = {
+# 49.0 - Erlengrund
+49.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 50 - Murimel
-50 = {
+# 50.0 - Murimel
+50.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 51 - Kuchin
-51 = {
+# 51.0 - Kuchin
+51.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 52 - Ruchin
-52 = {
+# 52.0 - Ruchin
+52.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 53 - Schlund
-53 = {
+# 53.0 - Schlund
+53.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 54 - Untergreupel
-54 = {
+# 54.0 - Untergreupel
+54.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 55 - Hangwald
-55 = {
+# 55.0 - Hangwald
+55.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 56 - Königswaldhüt
-56 = {
+# 56.0 - Königswaldhüt
+56.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 57 - St. Dappertin
-57 = {
+# 57.0 - St. Dappertin
+57.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 58 - Perainsgarten
-58 = {
+# 58.0 - Perainsgarten
+58.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 59 - Unterdachsen
-59 = {
+# 59.0 - Unterdachsen
+59.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 60 - Oberhartsteen
-60 = {
+# 60.0 - Oberhartsteen
+60.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 61 - Hartwalden
-61 = {
+# 61.0 - Hartwalden
+61.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 62 - Desmetal
-62 = {
+# 62.0 - Desmetal
+62.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 63 - Hausen
-63 = {
+# 63.0 - Hausen
+63.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 64 - Darpatwacht
-64 = {
+# 64.0 - Darpatwacht
+64.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 65 - Ox
-65 = {
+# 65.0 - Ox
+65.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 66 - St. Ogdolf
-66 = {
+# 66.0 - St. Ogdolf
+66.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 67 - Torbelstein
-67 = {
+# 67.0 - Torbelstein
+67.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 68 - Dachsen
-68 = {
+# 68.0 - Dachsen
+68.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 69 - Baladinstein
-69 = {
+# 69.0 - Baladinstein
+69.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 70 - Benget
-70 = {
+# 70.0 - Benget
+70.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 71 - Grafenfels
-71 = {
+# 71.0 - Grafenfels
+71.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 72 - Neuenacker
-72 = {
+# 72.0 - Neuenacker
+72.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 73 - Kaisertal
-73 = {
+# 73.0 - Kaisertal
+73.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 74 - Eslamsgrund
-74 = {
+# 74.0 - Eslamsgrund
+74.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 75 - Falkengrund
-75 = {
+# 75.0 - Falkengrund
+75.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 76 - Liebchengrund
-76 = {
+# 76.0 - Liebchengrund
+76.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 77 - Rondratrutz
-77 = {
+# 77.0 - Rondratrutz
+77.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 78 - Dornau
-78 = {
+# 78.0 - Dornau
+78.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 79 - Praiosgnad
-79 = {
+# 79.0 - Praiosgnad
+79.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 80 - Nimmerjoch
-80 = {
+# 80.0 - Nimmerjoch
+80.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 81 - Hortungen
-81 = {
+# 81.0 - Hortungen
+81.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 82 - Rathsamsberge
-82 = {
+# 82.0 - Rathsamsberge
+82.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 83 - St. Berathraban
-83 = {
+# 83.0 - St. Berathraban
+83.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 84 - Tolakstein
-84 = {
+# 84.0 - Tolakstein
+84.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 85 - Joching
-85 = {
+# 85.0 - Joching
+85.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 86 - Silvadon
-86 = {
+# 86.0 - Silvadon
+86.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 87 - Marmonte
-87 = {
+# 87.0 - Marmonte
+87.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 88 - St. Ireanor
-88 = {
+# 88.0 - St. Ireanor
+88.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 89 - Dornbusch
-89 = {
+# 89.0 - Dornbusch
+89.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 90 - Greifenstolz
-90 = {
+# 90.0 - Greifenstolz
+90.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 91 - Eychgras
-91 = {
+# 91.0 - Eychgras
+91.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 92 - Merun
-92 = {
+# 92.0 - Merun
+92.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 93 - Lichterneck
-93 = {
+# 93.0 - Lichterneck
+93.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 94 - Mor'Tres
-94 = {
+# 94.0 - Mor'Tres
+94.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 95 - Gallestra
-95 = {
+# 95.0 - Gallestra
+95.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 96 - Perainefelden
-96 = {
+# 96.0 - Perainefelden
+96.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 97 - Silberblick
-97 = {
+# 97.0 - Silberblick
+97.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 98 - Hahnenfels
-98 = {
+# 98.0 - Hahnenfels
+98.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 99 - Fremmelshof
-99 = {
+# 99.0 - Fremmelshof
+99.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 100 - Gippelstein
-100 = {
+# 100.0 - Gippelstein
+100.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 101 - Zagrosch
-101 = {
+# 101.0 - Zagrosch
+101.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 102 - Zagbar
-102 = {
+# 102.0 - Zagbar
+102.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 103 - Kupfergrab
-103 = {
+# 103.0 - Kupfergrab
+103.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 104 - Rubreth
-104 = {
+# 104.0 - Rubreth
+104.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 105 - Waldwiesen
-105 = {
+# 105.0 - Waldwiesen
+105.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 106 - Cresseneck
-106 = {
+# 106.0 - Cresseneck
+106.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 114 - Randersburg
-114 = {
+# 114.0 - Randersburg
+114.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 115 - Hornbach
-115 = {
+# 115.0 - Hornbach
+115.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 116 - St. Barmhilde
-116 = {
+# 116.0 - St. Barmhilde
+116.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 117 - Sonnenfeld
-117 = {
+# 117.0 - Sonnenfeld
+117.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 129 - Esenfeld
-129 = {
+# 129.0 - Esenfeld
+129.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 130 - Schwarztannen
-130 = {
+# 130.0 - Schwarztannen
+130.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 131 - Hexenmühle
-131 = {
+# 131.0 - Hexenmühle
+131.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 132 - Erlenfall
-132 = {
+# 132.0 - Erlenfall
+132.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 121 - Waldfang
-121 = {
+# 121.0 - Waldfang
+121.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 122 - Goldlinden
-122 = {
+# 122.0 - Goldlinden
+122.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 123 - Schweigende Wacht
-123 = {
+# 123.0 - Schweigende Wacht
+123.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 124 - Hirschpforten
-124 = {
+# 124.0 - Hirschpforten
+124.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 118 - Rotkrähenborn
-118 = {
+# 118.0 - Rotkrähenborn
+118.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 119 - Rallerspfort
-119 = {
+# 119.0 - Rallerspfort
+119.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 120 - Leuchtenfeld
-120 = {
+# 120.0 - Leuchtenfeld
+120.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 111 - Syrrenholt
-111 = {
+# 111.0 - Syrrenholt
+111.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 112 - Untergras
-112 = {
+# 112.0 - Untergras
+112.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 113 - St. Emmeran
-113 = {
+# 113.0 - St. Emmeran
+113.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 107 - Hirschwalden
-107 = {
+# 107.0 - Hirschwalden
+107.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 108 - Samlor
-108 = {
+# 108.0 - Samlor
+108.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 109 - Marano
-109 = {
+# 109.0 - Marano
+109.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 110 - Talbach
-110 = {
+# 110.0 - Talbach
+110.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 125 - Luring
-125 = {
+# 125.0 - Luring
+125.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 126 - Spinnried
-126 = {
+# 126.0 - Spinnried
+126.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 127 - Trügensfeld
-127 = {
+# 127.0 - Trügensfeld
+127.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 128 - Cronenfurt
-128 = {
+# 128.0 - Cronenfurt
+128.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 133 - Natzungen
-133 = {
+# 133.0 - Natzungen
+133.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 134 - Praioreth
-134 = {
+# 134.0 - Praioreth
+134.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 135 - Muhlwasser
-135 = {
+# 135.0 - Muhlwasser
+135.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 136 - Poppelhoven
-136 = {
+# 136.0 - Poppelhoven
+136.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 137 - Langtal
-137 = {
+# 137.0 - Langtal
+137.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 138 - Hartsteen
-138 = {
+# 138.0 - Hartsteen
+138.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 139 - Aldengrund
-139 = {
+# 139.0 - Aldengrund
+139.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 140 - Puleth
-140 = {
+# 140.0 - Puleth
+140.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 141 - Tannenheim
-141 = {
+# 141.0 - Tannenheim
+141.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 142 - Sommerau
-142 = {
+# 142.0 - Sommerau
+142.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 143 - Liliengrund
-143 = {
+# 143.0 - Liliengrund_2
+143.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 144 - Bärenau
-144 = {
+# 144.0 - Bärenau
+144.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 145 - Krolocksaue
-145 = {
+# 145.0 - Krolocksaue
+145.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 146 - Cavans Steg
-146 = {
+# 146.0 - Cavans Steg
+146.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 147 - Ibelstein
-147 = {
+# 147.0 - Ibelstein
+147.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 148 - Feidewald
-148 = {
+# 148.0 - Feidewald
+148.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 149 - Hirschenrode
-149 = {
+# 149.0 - Hirschenrode
+149.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 150 - Hutt
-150 = {
+# 150.0 - Hutt
+150.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 151 - Dorp
-151 = {
+# 151.0 - Dorp
+151.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 152 - Bertolfshufen
-152 = {
+# 152.0 - Bertolfshufen
+152.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 153 - Schirchrain
-153 = {
+# 153.0 - Schirchrain
+153.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 154 - Moorsch
-154 = {
+# 154.0 - Moorsch
+154.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 155 - Rabensbrück
-155 = {
+# 155.0 - Rabensbrück
+155.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 156 - Reck
-156 = {
+# 156.0 - Reck
+156.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 157 - Sturmwacht
-157 = {
+# 157.0 - Sturmwacht
+157.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 158 - Oberdommel
-158 = {
+# 158.0 - Oberdommel
+158.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 159 - Bugenhog
-159 = {
+# 159.0 - Bugenhog
+159.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 160 - Reynhartsbruck
-160 = {
+# 160.0 - Reynhartsbruck
+160.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 161 - Perainsgarten_2
-161 = {
+# 161.0 - Perainsgarten_2
+161.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 162 - Leplenfeld
-162 = {
+# 162.0 - Leplenfeld
+162.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 163 - Zwingzahn
-163 = {
+# 163.0 - Zwingzahn
+163.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 164 - Horeth
-164 = {
+# 164.0 - Horeth
+164.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 165 - St. Noiona
-165 = {
+# 165.0 - St. Noiona
+165.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 166 - Finsterstein
-166 = {
+# 166.0 - Finsterstein
+166.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 167 - Firunshöh
-167 = {
+# 167.0 - Firunshöh
+167.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 181 - Silz
-181 = {
+# 181.0 - Silz
+181.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 182 - Gansbach
-182 = {
+# 182.0 - Gansbach
+182.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 173 - Waldesruh
-173 = {
+# 173.0 - Waldesruh
+173.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 174 - Leihenbutt
-174 = {
+# 174.0 - Leihenbutt
+174.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 175 - Perainelob
-175 = {
+# 175.0 - Perainelob
+175.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 176 - Sommerberg
-176 = {
+# 176.0 - Sommerberg
+176.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 186 - Bitani
-186 = {
+# 186.0 - Bitani
+186.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 187 - Überdiebreite
-187 = {
+# 187.0 - Überdiebreite
+187.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 188 - Rallerwacht
-188 = {
+# 188.0 - Rallerwacht
+188.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 189 - Leuental
-189 = {
+# 189.0 - Leuental
+189.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 193 - Windenstein
-193 = {
+# 193.0 - Windenstein
+193.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 194 - Osenbrück
-194 = {
+# 194.0 - Osenbrück
+194.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 184 - Schwanenbruch
-184 = {
+# 184.0 - Schwanenbruch
+184.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 185 - Seytnach
-185 = {
+# 185.0 - Seytnach
+185.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 179 - Tannwirk
-179 = {
+# 179.0 - Tannwirk
+179.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 180 - Tannewacht
-180 = {
+# 180.0 - Tannewacht
+180.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 195 - Dullerwüben
-195 = {
+# 195.0 - Dullerwüben
+195.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 196 - Hagenbronn
-196 = {
+# 196.0 - Hagenbronn
+196.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 197 - Essental
-197 = {
+# 197.0 - Essental
+197.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 168 - Uslenried
-168 = {
+# 168.0 - Uslenried
+168.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 169 - Streitzensfeld
-169 = {
+# 169.0 - Streitzensfeld
+169.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 170 - Gantekssee
-170 = {
+# 170.0 - Gantekssee
+170.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 171 - Usla
-171 = {
+# 171.0 - Usla
+171.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 172 - Rallersquell
-172 = {
+# 172.0 - Rallersquell
+172.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 177 - Zweifelfels
-177 = {
+# 177.0 - Zweifelfels
+177.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 178 - Sankt Henrica
-178 = {
+# 178.0 - Sankt Henrica
+178.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 190 - Falkenwind
-190 = {
+# 190.0 - Falkenwind
+190.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 191 - Bergensteen
-191 = {
+# 191.0 - Bergensteen
+191.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 192 - Moorwacht
-192 = {
+# 192.0 - Moorwacht
+192.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 201 - Hornbeil
-201 = {
+# 201.0 - Hornbeil
+201.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 202 - Eynweiher
-202 = {
+# 202.0 - Eynweiher
+202.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 198 - Njertal
-198 = {
+# 198.0 - Njertal
+198.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 199 - Klappechs
-199 = {
+# 199.0 - Klappechs
+199.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 200 - Neerquell
-200 = {
+# 200.0 - Neerquell
+200.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 203 - Serrinstein
-203 = {
+# 203.0 - Serrinstein
+203.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 204 - Weissenstein
-204 = {
+# 204.0 - Weissenstein
+204.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 205 - Derrelsbach
-205 = {
+# 205.0 - Derrelsbach
+205.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 206 - Serrinwald
-206 = {
+# 206.0 - Serrinwald
+206.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 183 - Hirschfurt
-183 = {
+# 183.0 - Hirschfurt
+183.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 238 - Rabicum
-238 = {
+# 238.0 - Rabicum
+238.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 239 - Perricum
-239 = {
+# 239.0 - Perricum
+239.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 240 - St. Theria
-240 = {
+# 240.0 - St. Theria
+240.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 241 - Efferdsand
-241 = {
+# 241.0 - Efferdsand
+241.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 233 - Herdentor
-233 = {
+# 233.0 - Herdentor
+233.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = nebachot
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 234 - Sebarin
-234 = {
+# 234.0 - Sebarin
+234.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = nebachot
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 235 - Varintal
-235 = {
+# 235.0 - Varintal
+235.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = nebachot
+    religion = puniner
     holding = city_holding
 
 }
 
-# 236 - Krähenwacht
-236 = {
+# 236.0 - Krähenwacht
+236.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = nebachot
+    religion = puniner
     holding = church_holding
 
 }
 
-# 237 - Ebengard
-237 = {
+# 237.0 - Ebengard
+237.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = nebachot
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 229 - Haselhain
-229 = {
+# 229.0 - Haselhain
+229.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = nebachot
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 230 - Haselhain_2
-230 = {
+# 230.0 - Haselhain_2
+230.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = nebachot
+    religion = puniner
     holding = city_holding
 
 }
 
-# 231 - Eslamskesh
-231 = {
+# 231.0 - Eslamskesh
+231.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = nebachot
+    religion = puniner
     holding = church_holding
 
 }
 
-# 232 - Baran'Scheck
-232 = {
+# 232.0 - Baran'Scheck
+232.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = nebachot
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 224 - Darrenfurt
-224 = {
+# 224.0 - Darrenfurt
+224.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = nebachot
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 225 - Darrenfurt_2
-225 = {
+# 225.0 - Darrenfurt_2
+225.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = nebachot
+    religion = puniner
     holding = city_holding
 
 }
 
-# 226 - Darren-Ulah
-226 = {
+# 226.0 - Darren-Ulah
+226.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = nebachot
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 227 - Dürsten
-227 = {
+# 227.0 - Dürsten
+227.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = nebachot
+    religion = puniner
     holding = city_holding
 
 }
 
-# 228 - Firunswald
-228 = {
+# 228.0 - Firunswald
+228.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = nebachot
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 221 - Alriksauen
-221 = {
+# 221.0 - Alriksauen
+221.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 222 - Gnitzenkuhl
-222 = {
+# 222.0 - Gnitzenkuhl
+222.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 223 - St. Liaiella
-223 = {
+# 223.0 - St. Liaiella
+223.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 218 - Barbenwehr
-218 = {
+# 218.0 - Barbenwehr
+218.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 219 - Gerbental
-219 = {
+# 219.0 - Gerbental
+219.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 220 - Willigental
-220 = {
+# 220.0 - Willigental
+220.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 214 - Ferkinaschreck
-214 = {
+# 214.0 - Ferkinaschreck
+214.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 215 - Hordenberg
-215 = {
+# 215.0 - Hordenberg
+215.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 216 - Ashal'Deyran
-216 = {
+# 216.0 - Ashal'Deyran
+216.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 217 - Dreisteinen
-217 = {
+# 217.0 - Dreisteinen
+217.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 211 - Sturmspitze
-211 = {
+# 211.0 - Sturmspitze
+211.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 212 - Alriksburg
-212 = {
+# 212.0 - Alriksburg
+212.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 213 - Wolfszahn
-213 = {
+# 213.0 - Wolfszahn
+213.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 207 - Rosshang
-207 = {
+# 207.0 - Rosshang
+207.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 208 - Wasserburg
-208 = {
+# 208.0 - Wasserburg
+208.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 209 - Löwentor
-209 = {
+# 209.0 - Löwentor
+209.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 210 - Kelsenburg
-210 = {
+# 210.0 - Kelsenburg
+210.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 242 - Halmengarth
-242 = {
+# 242.0 - Halmengarth
+242.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 243 - Greifenfurt
-243 = {
+# 243.0 - Greifenfurt
+243.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 244 - Syllenwies
-244 = {
+# 244.0 - Syllenwies
+244.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 245 - Haagenstein
-245 = {
+# 245.0 - Haagenstein
+245.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 246 - Waldalriksrode
-246 = {
+# 246.0 - Waldalriksrode
+246.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 247 - Ebersfelde
-247 = {
+# 247.0 - Ebersfelde
+247.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 248 - Quastenbroich
-248 = {
+# 248.0 - Quastenbroich
+248.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 249 - Siebeneichen
-249 = {
+# 249.0 - Siebeneichen
+249.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 295 - Reichsweg
-295 = {
+# 295.0 - Reichsweg
+295.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 296 - Reichsweg_2
-296 = {
+# 296.0 - Reichsweg_2
+296.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 297 - Reichsweg_3
-297 = {
+# 297.0 - Reichsweg_3
+297.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 293 - Dunkelsfarn
-293 = {
+# 293.0 - Dunkelsfarn
+293.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 294 - Kröntenbrunn
-294 = {
+# 294.0 - Kröntenbrunn
+294.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 259 - Schmalfurt
-259 = {
+# 259.0 - Schmalfurt
+259.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 260 - Berleichen
-260 = {
+# 260.0 - Berleichen
+260.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 261 - Nardeshain
-261 = {
+# 261.0 - Nardeshain
+261.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 262 - Karghyde
-262 = {
+# 262.0 - Karghyde
+262.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 256 - Zalgomühlen
-256 = {
+# 256.0 - Zalgomühlen
+256.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 257 - Schillburg
-257 = {
+# 257.0 - Schillburg
+257.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 258 - Fährufer
-258 = {
+# 258.0 - Fährufer
+258.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 263 - Rosskuppe
-263 = {
+# 263.0 - Rosskuppe
+263.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 264 - Ährenfeld
-264 = {
+# 264.0 - Ährenfeld
+264.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 265 - Scraan am Blauen Laach
-265 = {
+# 265.0 - Scraan am Blauen Laach
+265.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 266 - Altricksforst
-266 = {
+# 266.0 - Altricksforst
+266.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 250 - Kressenburg
-250 = {
+# 250.0 - Kressenburg
+250.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 251 - St. Therbûn im Walde
-251 = {
+# 251.0 - St. Therbûn im Walde
+251.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 252 - Kaiserley
-252 = {
+# 252.0 - Kaiserley
+252.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 253 - Waldschatten
-253 = {
+# 253.0 - Waldschatten
+253.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 298 - Breitenquell
-298 = {
+# 298.0 - Breitenquell
+298.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 299 - Eslamsroden
-299 = {
+# 299.0 - Eslamsroden
+299.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 300 - Weidensee
-300 = {
+# 300.0 - Weidensee
+300.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 301 - Karens
-301 = {
+# 301.0 - Karens
+301.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 302 - Orkenwall
-302 = {
+# 302.0 - Orkenwall
+302.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 303 - Kloster zu Orkenwall
-303 = {
+# 303.0 - Kloster zu Orkenwall
+303.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 254 - Feldharsch
-254 = {
+# 254.0 - Feldharsch
+254.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 255 - Perainefried
-255 = {
+# 255.0 - Perainefried
+255.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 315 - Beldenruh
-315 = {
+# 315.0 - Beldenruh
+315.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 316 - Minderbreugen
-316 = {
+# 316.0 - Minderbreugen
+316.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 317 - Schwarzensee
-317 = {
+# 317.0 - Schwarzensee
+317.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 270 - Donfanger
-270 = {
+# 270.0 - Donfanger
+270.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 271 - Donfgrund
-271 = {
+# 271.0 - Donfgrund
+271.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 282 - Finsterwacht
-282 = {
+# 282.0 - Finsterwacht
+282.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 283 - Schwertsleyda
-283 = {
+# 283.0 - Schwertsleyda
+283.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 284 - Waldrast
-284 = {
+# 284.0 - Waldrast
+284.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 285 - Radulfshausen
-285 = {
+# 285.0 - Radulfshausen
+285.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 286 - Gamsdrift
-286 = {
+# 286.0 - Gamsdrift
+286.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 306 - Greifenberg
-306 = {
+# 306.0 - Greifenberg
+306.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 307 - Fuchswinkeln
-307 = {
+# 307.0 - Fuchswinkeln
+307.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 308 - Scraans Zuversicht
-308 = {
+# 308.0 - Scraans Zuversicht
+308.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 275 - Orkenwacht
-275 = {
+# 275.0 - Orkenwacht
+275.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 276 - Greifenhorst
-276 = {
+# 276.0 - Greifenhorst
+276.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 277 - Breitenhof
-277 = {
+# 277.0 - Breitenhof
+277.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 287 - Helberge
-287 = {
+# 287.0 - Helberge
+287.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 288 - Espengrund
-288 = {
+# 288.0 - Espengrund
+288.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 267 - Eichstein
-267 = {
+# 267.0 - Eichstein
+267.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 268 - Hesindelburg
-268 = {
+# 268.0 - Hesindelburg
+268.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 269 - Rabenhorst
-269 = {
+# 269.0 - Rabenhorst
+269.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 309 - Lohengrunde
-309 = {
+# 309.0 - Lohengrunde
+309.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 310 - Hundsgrab
-310 = {
+# 310.0 - Hundsgrab
+310.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 311 - Brandons Ehr
-311 = {
+# 311.0 - Brandons Ehr
+311.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = church_holding
 
 }
 
-# 278 - Orkentrutz
-278 = {
+# 278.0 - Orkentrutz
+278.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 279 - Schroffenstein
-279 = {
+# 279.0 - Schroffenstein
+279.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 280 - Keilholtz
-280 = {
+# 280.0 - Keilholtz
+280.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 281 - Wichelshausen
-281 = {
+# 281.0 - Wichelshausen
+281.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 312 - Pilzhain
-312 = {
+# 312.0 - Pilzhain
+312.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 313 - Schnayttach
-313 = {
+# 313.0 - Schnayttach
+313.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 314 - Dunfion
-314 = {
+# 314.0 - Dunfion
+314.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 304 - Breitenbruck
-304 = {
+# 304.0 - Breitenbruck
+304.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 305 - Breitenbruck_2
-305 = {
+# 305.0 - Breitenbruck_2
+305.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 272 - Weihenhorst
-272 = {
+# 272.0 - Weihenhorst
+272.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 273 - Rieperngaum
-273 = {
+# 273.0 - Rieperngaum
+273.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 274 - Krähenhorst
-274 = {
+# 274.0 - Krähenhorst
+274.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 289 - Boronshof
-289 = {
+# 289.0 - Boronshof
+289.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 290 - Dergelstein
-290 = {
+# 290.0 - Dergelstein
+290.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }
 
-# 291 - Grünwarte
-291 = {
+# 291.0 - Grünwarte
+291.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = castle_holding
 
 }
 
-# 292 - Hainroden
-292 = {
+# 292.0 - Hainroden
+292.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = garetian
+    religion = puniner
     holding = city_holding
 
 }

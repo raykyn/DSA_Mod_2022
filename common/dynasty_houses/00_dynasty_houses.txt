@@ -813,3 +813,392 @@ house_167 = {
     name = dynn_mendena
     dynasty = 167
 }
+house_168 = {
+    prefix = dynnp_von
+    name = dynn_korswandt
+    dynasty = 168
+}
+house_169 = {
+    prefix = dynnp_von
+    name = dynn_gesroth
+    dynasty = 169
+}
+house_170 = {
+    prefix = dynnp_von
+    name = dynn_dunkelstein
+    dynasty = 170
+}
+house_171 = {
+    prefix = dynnp_von
+    name = dynn_weiden
+    dynasty = 171
+}
+house_172 = {
+    prefix = dynnp_von
+    name = dynn_loewenhaupt
+    dynasty = 172
+}
+house_173 = {
+    prefix = dynnp_von
+    name = dynn_kloeppelstein
+    dynasty = 173
+}
+house_174 = {
+    prefix = dynnp_von
+    name = dynn_harffenberg
+    dynasty = 174
+}
+house_175 = {
+    prefix = dynnp_von
+    name = dynn_brueckenau
+    dynasty = 175
+}
+house_176 = {
+    name = dynn_dubej
+    dynasty = 176
+}
+house_177 = {
+    prefix = dynnp_von
+    name = dynn_eberstamm
+    dynasty = 1
+}
+house_178 = {
+    prefix = dynnp_von
+    name = dynn_pandlaril
+    dynasty = 178
+}
+house_179 = {
+    prefix = dynnp_von
+    name = dynn_brauningen
+    dynasty = 178
+}
+house_180 = {
+    prefix = dynnp_von
+    name = dynn_hoelderlingen
+    dynasty = 180
+}
+house_181 = {
+    prefix = dynnp_von 
+    name = dynn_birselburg
+    dynasty = 181
+}
+house_182 = {
+    prefix = dynnp_von
+    name = dynn_moosgrund
+    dynasty = 182
+}
+house_183 = {
+    prefix = dynnp_von
+    name = dynn_wolkenstein
+    dynasty = 183
+}
+house_184 = {
+    prefix = dynnp_von
+    name = dynn_lynnd
+    dynasty = 184
+}
+house_185 = {
+    prefix = dynnp_von
+    name = dynn_sterz
+    dynasty = 185
+}
+house_186 = {
+    prefix = dynnp_vom
+    name = dynn_wilden_tann
+    dynasty = 186
+}
+house_187 = {
+    prefix = dynnp_von
+    name = dynn_silkenau
+    dynasty = 187
+}
+house_188 = {
+    prefix = dynnp_von
+    name = dynn_weissenstein
+    dynasty = 188
+}
+house_189 = {
+    prefix = dynnp_von
+    name = dynn_hahnfels
+    dynasty = 189
+}
+house_190 = {
+    prefix = dynnp_von
+    name = dynn_drôlenhorst
+    dynasty = 190
+}
+house_191 = {
+    prefix = dynnp_von
+    name = dynn_geltring
+    dynasty = 191
+}
+house_192 = {
+    prefix = dynnp_von
+    name = dynn_buchenbruch
+    dynasty = 192
+}
+house_193 = {
+    prefix = dynnp_von
+    name = dynn_rauheneck
+    dynasty = 193
+}
+house_194 = {
+    prefix = dynnp_von
+    name = dynn_graufenbein
+    dynasty = 194
+}
+house_195 = {
+    prefix = dynnp_von
+    name = dynn_erlbach
+    dynasty = 195
+}
+house_196 = {
+    prefix = dynnp_von
+    name = dynn_glueckshaus
+    dynasty = 178
+}
+house_197 = {
+    prefix = dynnp_von
+    name = dynn_daelckenstein
+    dynasty = 197
+}
+house_198 = {
+    prefix = dynnp_von
+    name = dynn_auenwacht
+    dynasty = 198
+}
+house_199 = {
+    prefix = dynnp_von
+    name = dynn_brachfelde
+    dynasty = 199
+}
+house_200 = {
+    prefix = dynnp_von
+    name = dynn_harlburg
+    dynasty = 171
+}
+house_201 = {
+    prefix = dynnp_von
+    name = dynn_binsboeckel
+    dynasty = 178
+}
+house_202 = {
+    prefix = dynnp_von
+    name = dynn_hartenau
+    dynasty = 202
+}
+house_203 = {
+    prefix = dynnp_von
+    name = dynn_blauenburg
+    dynasty = 203
+}
+house_204 = {
+    prefix = dynnp_von
+    name = dynn_leufels
+    dynasty = 204
+}
+house_205 = {
+    prefix = dynnp_von
+    name = dynn_ebelried
+    dynasty = 205
+}
+house_206 = {
+    prefix = dynnp_von
+    name = dynn_rothwilden
+    dynasty = 206
+}
+house_207 = {
+    prefix = dynnp_von
+    name = dynn_finsterkamm
+    dynasty = 207
+}
+house_208 = {
+    prefix = dynnp_von
+    name = dynn_boecklin
+    dynasty = 208
+}
+house_209 = {
+    prefix = dynnp_von
+    name = dynn_gugelforst
+    dynasty = 209
+}
+house_210 = {
+    name = dynn_eichenstein
+    dynasty = 210
+}
+house_211 = {
+    prefix = dynnp_von der
+    name = dynn_tann
+    dynasty = 211
+}
+house_212 = {
+    prefix = dynnp_von
+    name = dynn_sighelms_halm
+    dynasty = 212
+}
+house_213 = {
+    name = dynn_halo
+    dynasty = 213
+}
+house_214 = {
+    prefix = dynnp_von
+    name = dynn_garnelhaun
+    dynasty = 214
+}
+house_215 = {
+    prefix = dynnp_von
+    name = dynn_falstein
+    dynasty = 215
+}
+house_216 = {
+    prefix = dynnp_von der
+    name = dynn_wiesen
+    dynasty = 216
+}
+house_217 = {
+    name = dynn_sternhagel
+    dynasty = 217
+}
+house_218 = {
+    prefix = dynnp_von
+    name = dynn_unterangen
+    dynasty = 218
+}
+house_219 = {
+    prefix = dynnp_von
+    name = dynn_sindelsaum
+    dynasty = 219
+}
+house_220 = {
+    name = dynn_aswadur
+    dynasty = 220
+}
+house_221 = {
+    prefix = dynnp_vom
+    name = dynn_pfloegbaume
+    dynasty = 221
+}
+house_222 = {
+    name = dynn_stoia
+    dynasty = 222
+}
+house_223 = {
+    prefix = dynnp_von
+    name = dynn_falkenhag
+    dynasty = 223
+}
+house_224 = {
+    prefix = dynnp_vom
+    name = dynn_see
+    dynasty = 224
+}
+house_225 = {
+    name = dynn_salfridjes
+    dynasty = 225
+}
+house_226 = {
+    prefix = dynnp_von
+    name = dynn_eichstein
+    dynasty = 226
+}
+house_227 = {
+    prefix = dynnp_di
+    name = dynn_malavista
+    dynasty = 227
+}
+house_228 = {
+    prefix = dynnp_von
+    name = dynn_drakfold
+    dynasty = 228
+}
+house_229 = {
+    prefix = dynnp_von
+    name = dynn_bodrin
+    dynasty = 229
+}
+house_230 = {
+    prefix = dynnp_von
+    name = dynn_hardenfels
+    dynasty = 230
+}
+house_231 = {
+    prefix = dynnp_vom
+    name = dynn_eberstamm
+    dynasty = 231
+}
+house_232 = {
+    prefix = dynnp_von
+    name = dynn_andergast
+    dynasty = 232
+}
+house_233 = {
+    prefix = dynnp_von
+    name = dynn_wengenholm
+    dynasty = 233
+}
+house_234 = {
+    prefix = dynnp_von
+    name = dynn_treublatt
+    dynasty = 234
+}
+house_235 = {
+    prefix = dynnp_auf
+    name = dynn_munkelstein
+    dynasty = 235
+}
+house_236 = {
+    prefix = dynnp_von
+    name = dynn_blauendorn
+    dynasty = 236
+}
+house_237 = {
+    name = dynn_lacara
+    dynasty = 237
+}
+house_238 = {
+    prefix = dynnp_von
+    name = dynn_uztrutz
+    dynasty = 238
+}
+house_239 = {
+    prefix = dynnp_von
+    name = dynn_ferdok
+    dynasty = 239
+}
+house_240 = {
+    prefix = dynnp_von
+    name = dynn_bragahn
+    dynasty = 240
+}
+house_241 = {
+    name = dynn_thuca
+    dynasty = 241
+}
+house_242 = {
+    name = dynn_ceronis
+    dynasty = 242
+}
+house_243 = {
+    name = dynn_boquoi
+    dynasty = 243
+}
+house_244 = {
+    prefix = dynnp_von
+    name = dynn_durstein
+    dynasty = 244
+}
+house_245 = {
+    prefix = dynnp_von der
+    name = dynn_wackersippe
+    dynasty = 245
+}
+house_246 = {
+    prefix = dynnp_von
+    name = dynn_salmingen
+    dynasty = 246
+}
+house_247 = {
+    prefix = dynnp_von
+    name = dynn_herbonia
+    dynasty = 247
+}

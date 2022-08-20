@@ -1,17 +1,17 @@
-﻿# 479 - Kurkum
-479 = {
+﻿# 479.0 - Kurkum
+479.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = amazonian
     holding = castle_holding
 
 }
 
-# 480 - Zehnthof
-480 = {
+# 480.0 - Zehnthof
+480.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = tobrian
+    religion = amazonian
     holding = city_holding
 
 }

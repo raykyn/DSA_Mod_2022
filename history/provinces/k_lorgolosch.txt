@@ -1,44 +1,44 @@
-﻿# 481 - Schatodor
-481 = {
+﻿# 481.0 - Schatodor
+481.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = brilliant_dwarves
+    religion = angrosh
     holding = castle_holding
 
 }
 
-# 482 - West-Lorgolosch
-482 = {
+# 482.0 - West-Lorgolosch
+482.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = brilliant_dwarves
+    religion = angrosh
     holding = city_holding
 
 }
 
-# 483 - Ost-Lorgolosch
-483 = {
+# 483.0 - Ost-Lorgolosch
+483.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = brilliant_dwarves
+    religion = angrosh
     holding = church_holding
 
 }
 
-# 484 - Ilderasch
-484 = {
+# 484.0 - Ilderasch
+484.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = brilliant_dwarves
+    religion = angrosh
     holding = castle_holding
 
 }
 
-# 485 - Kibrom
-485 = {
+# 485.0 - Kibrom
+485.0 = {
 
-    culture = test_culture
-    religion = test_faith
+    culture = brilliant_dwarves
+    religion = angrosh
     holding = city_holding
 
 }

@@ -2,3 +2,5 @@ heritage_gueldenlaendish = { type = heritage }
 
 heritage_dwarvish = { type = heritage }
 
+heritage_elvish = { type = heritage }
+

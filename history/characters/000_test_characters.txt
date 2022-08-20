@@ -7721,6 +7721,8 @@
     female = no
     culture = garetian
     religion = puniner
+    father = 861
+    mother = 859
     1009.1.1 = {
         birth = yes
     }
@@ -10203,6 +10205,4977 @@
         birth = yes
     }
     1004.1.1 = {
+        death = yes
+    }
+}
+
+697 = {
+    name = "Oleana"
+    dynasty_house = house_140
+    female = yes
+    culture = tobrian
+    religion = puniner
+    835.1.1 = {
+        birth = yes
+    }
+    890.1.1 = {
+        death = yes
+    }
+}
+
+698 = {
+    name = "Wildgrimm"
+    dynasty_house = house_140
+    female = no
+    culture = tobrian
+    religion = puniner
+    mother = 697
+    860.1.1 = {
+        birth = yes
+    }
+    911.1.1 = {
+        death = yes
+    }
+}
+
+699 = {
+    name = "Ludelbert"
+    dynasty_house = house_140
+    female = no
+    culture = tobrian
+    religion = puniner
+    father = 698
+    880.1.1 = {
+        birth = yes
+    }
+    920.1.1 = {
+        death = yes
+    }
+}
+
+700 = {
+    name = "Wildgrimm"
+    dynasty_house = house_140
+    female = no
+    culture = tobrian
+    religion = puniner
+    father = 699
+    900.1.1 = {
+        birth = yes
+    }
+    962.1.1 = {
+        death = yes
+    }
+}
+
+701 = {
+    name = "Karloff"
+    dynasty_house = house_140
+    female = no
+    culture = tobrian
+    religion = puniner
+    father = 700
+    929.1.1 = {
+        birth = yes
+    }
+    998.1.1 = {
+        death = yes
+    }
+}
+
+702 = {
+    name = "Throndwig"
+    dynasty_house = house_140
+    female = no
+    culture = tobrian
+    religion = puniner
+    father = 701
+    951.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+703 = {
+    name = "Sumudan"
+    dynasty_house = house_140
+    female = no
+    culture = tobrian
+    religion = puniner
+    father = 702
+    986.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+704 = {
+    name = "Arngrimm"
+    dynasty_house = house_26
+    female = no
+    culture = tobrian
+    religion = puniner
+    969.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+705 = {
+    name = "Galotta"
+    female = no
+    culture = northmarchian
+    religion = puniner
+    950.1.1 = {
+        birth = yes
+    }
+    1027.1.1 = {
+        death = yes
+    }
+}
+
+706 = {
+    name = "Praiodane"
+    dynasty_house = house_30
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    959.1.1 = {
+        birth = yes
+    }
+    1039.1.1 = {
+        death = yes
+    }
+}
+
+707 = {
+    name = "Wendrewka"
+    dynasty_house = house_168
+    female = yes
+    culture = tobrian
+    religion = puniner
+    959.1.1 = {
+        birth = yes
+    }
+    1029.1.1 = {
+        death = yes
+    }
+}
+
+708 = {
+    name = "Meishja"
+    dynasty_house = house_168
+    female = yes
+    culture = tobrian
+    religion = puniner
+    mother = 707
+    1000.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+709 = {
+    name = "Marvin"
+    dynasty_house = house_169
+    female = no
+    culture = tobrian
+    religion = puniner
+    970.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+710 = {
+    name = "Yosmina"
+    dynasty_house = house_170
+    female = yes
+    culture = tobrian
+    religion = puniner
+    1007.1.1 = {
+        birth = yes
+    }
+    1039.1.1 = {
+        death = yes
+    }
+}
+
+711 = {
+    name = "Wallfried"
+    dynasty_house = house_171
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    735.1.1 = {
+        birth = yes
+    }
+    818.1.1 = {
+        death = yes
+    }
+}
+
+712 = {
+    name = "Helmgard"
+    dynasty_house = house_171
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    762.1.1 = {
+        birth = yes
+    }
+    832.1.1 = {
+        death = yes
+    }
+}
+
+713 = {
+    name = "Grimmwulf"
+    dynasty_house = house_171
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    mother = 712
+    784.1.1 = {
+        birth = yes
+    }
+    867.1.1 = {
+        death = yes
+    }
+}
+
+714 = {
+    name = "Selinde"
+    dynasty_house = house_172
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 716
+    828.1.1 = {
+        birth = yes
+    }
+    910.1.1 = {
+        death = yes
+    }
+}
+
+715 = {
+    name = "Wallfried"
+    dynasty_house = house_172
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 716
+    834.1.1 = {
+        birth = yes
+    }
+    921.1.1 = {
+        death = yes
+    }
+}
+
+716 = {
+    name = "Angirst"
+    dynasty_house = house_172
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    780.1.1 = {
+        birth = yes
+    }
+    833.1.1 = {
+        death = yes
+    }
+}
+
+717 = {
+    name = "Wallfried"
+    dynasty_house = house_172
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 715
+    892.1.1 = {
+        birth = yes
+    }
+    981.1.1 = {
+        death = yes
+    }
+}
+
+718 = {
+    name = "Adilgunde"
+    dynasty_house = house_172
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 717
+    937.1.1 = {
+        birth = yes
+    }
+    980.1.1 = {
+        death = yes
+    }
+}
+
+719 = {
+    name = "Waldemar"
+    dynasty_house = house_172
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    mother = 718
+    954.1.1 = {
+        birth = yes
+    }
+    1021.1.1 = {
+        death = yes
+    }
+}
+
+720 = {
+    name = "Walpurga"
+    dynasty_house = house_172
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 719
+    990.1.1 = {
+        birth = yes
+    }
+    1027.1.1 = {
+        add_spouse = 675
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+721 = {
+    name = "Arlan"
+    dynasty_house = house_172
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    mother = 720
+    1016.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+722 = {
+    name = "Berwing"
+    dynasty_house = house_173
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    960.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+723 = {
+    name = "Wilbur"
+    dynasty_house = house_174
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 724
+    1030.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+724 = {
+    name = "Knorrhold"
+    dynasty_house = house_174
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    990.1.1 = {
+        birth = yes
+    }
+    1035.1.1 = {
+        death = yes
+    }
+}
+
+725 = {
+    name = "Silfirnja"
+    dynasty_house = house_175
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 726
+    1000.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+726 = {
+    name = "Yerodin"
+    dynasty_house = house_175
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    970.1.1 = {
+        birth = yes
+    }
+    1020.1.1 = {
+        death = yes
+    }
+}
+
+727 = {
+    name = "Rissan"
+    dynasty_house = house_176
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    1000.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+728 = {
+    name = "Jarl Staubhold"
+    dynasty_house = house_177
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    970.1.1 = {
+        birth = yes
+    }
+    1016.1.1 = {
+        death = yes
+    }
+}
+
+729 = {
+    name = "Ullgrein"
+    dynasty_house = house_177
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 728
+    995.1.1 = {
+        birth = yes
+    }
+    1016.1.1 = {
+        death = yes
+    }
+}
+
+730 = {
+    name = "Arbolf"
+    dynasty_house = house_178
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    970.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+731 = {
+    name = "Borckhart"
+    dynasty_house = house_179
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    970.1.1 = {
+        birth = yes
+    }
+    1030.1.1 = {
+        death = yes
+    }
+}
+
+732 = {
+    name = "Berowein"
+    dynasty_house = house_179
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 731
+    1000.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+733 = {
+    name = "Emegunde"
+    dynasty_house = house_180
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 734
+    994.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+734 = {
+    name = "Anselm"
+    dynasty_house = house_180
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    960.1.1 = {
+        birth = yes
+    }
+    1020.1.1 = {
+        death = yes
+    }
+}
+
+735 = {
+    name = "Furgund"
+    dynasty_house = house_180
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    mother = 733
+    1021.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+736 = {
+    name = "Leuendan"
+    dynasty_house = house_180
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    mother = 733
+    1024.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+737 = {
+    name = "Dythlinde"
+    dynasty_house = house_181
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 738
+    1017.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+738 = {
+    name = "Erwulf"
+    dynasty_house = house_181
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    990.1.1 = {
+        birth = yes
+    }
+    1039.1.1 = {
+        death = yes
+    }
+}
+
+739 = {
+    name = "Ugdalf"
+    dynasty_house = house_181
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 738
+    1020.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+740 = {
+    name = "Ardariel"
+    dynasty_house = house_182
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 811
+    1008.1.1 = {
+        birth = yes
+    }
+    1043.1.1 = {
+        death = yes
+    }
+}
+
+741 = {
+    name = "Avia"
+    dynasty_house = house_182
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    mother = 740
+    1027.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+742 = {
+    name = "Ziplim"
+    female = no
+    culture = cult_goblin
+    religion = faith_goblin
+    997.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+743 = {
+    name = "Bunsenhold"
+    dynasty_house = house_183
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    956.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+744 = {
+    name = "Halmann"
+    dynasty_house = house_183
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 743
+    996.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+745 = {
+    name = "Neunhild"
+    dynasty_house = house_183
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 743
+    999.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+746 = {
+    name = "Begina"
+    dynasty_house = house_183
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 743
+    1001.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+747 = {
+    name = "Wienand"
+    dynasty_house = house_183
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 743
+    1005.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+748 = {
+    name = "Gertraut"
+    dynasty_house = house_183
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 743
+    1008.1.1 = {
+        birth = yes
+    }
+    1036.1.1 = {
+        add_spouse = 928
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+749 = {
+    name = "Olf"
+    dynasty_house = house_184
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    979.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+750 = {
+    name = "Heldar Hal"
+    dynasty_house = house_184
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 749
+    1016.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+751 = {
+    name = "Ulmia Alara"
+    dynasty_house = house_184
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 749
+    1019.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+752 = {
+    name = "Riko"
+    dynasty_house = house_185
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 753
+    1000.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+753 = {
+    name = "Keron"
+    dynasty_house = house_185
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    960.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+754 = {
+    name = "Alrik"
+    dynasty_house = house_186
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    950.1.1 = {
+        birth = yes
+    }
+    1010.1.1 = {
+        death = yes
+    }
+}
+
+755 = {
+    name = "Sindaja"
+    dynasty_house = house_187
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 757
+    1001.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+756 = {
+    name = "Sirlan Haldoran"
+    dynasty_house = house_187
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    mother = 755
+    1033.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+757 = {
+    name = "Sirlan"
+    dynasty_house = house_187
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    mother = 758
+    971.1.1 = {
+        birth = yes
+    }
+    1023.1.1 = {
+        death = yes
+    }
+}
+
+758 = {
+    name = "Amseltraud"
+    dynasty_house = house_187
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    941.1.1 = {
+        birth = yes
+    }
+    991.1.1 = {
+        death = yes
+    }
+}
+
+759 = {
+    name = "Thordenin"
+    dynasty_house = house_188
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 766
+    978.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+760 = {
+    name = "Erlwulf"
+    dynasty_house = house_188
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 759
+    1000.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+761 = {
+    name = "Rinnfolde"
+    dynasty_house = house_188
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 759
+    1002.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+762 = {
+    name = "Urquhardt"
+    dynasty_house = house_188
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 759
+    1005.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+763 = {
+    name = "Ailgid"
+    dynasty_house = house_188
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 759
+    1010.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+764 = {
+    name = "Ailgrimm"
+    dynasty_house = house_188
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 759
+    1013.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+765 = {
+    name = "Thordenan"
+    dynasty_house = house_188
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 759
+    1017.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+766 = {
+    name = "Erlwulf"
+    dynasty_house = house_188
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    948.1.1 = {
+        birth = yes
+    }
+    998.1.1 = {
+        death = yes
+    }
+}
+
+767 = {
+    name = "Melchard"
+    dynasty_house = house_189
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    972.1.1 = {
+        birth = yes
+    }
+    1022.1.1 = {
+        death = yes
+    }
+}
+
+768 = {
+    name = "Mirnhilde"
+    dynasty_house = house_189
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 767
+    994.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+769 = {
+    name = "Bridlin"
+    dynasty_house = house_189
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    mother = 768
+    1010.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+770 = {
+    name = "Ellslin"
+    dynasty_house = house_189
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    mother = 768
+    1020.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+771 = {
+    name = "Auberlin"
+    dynasty_house = house_189
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    mother = 768
+    1025.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+772 = {
+    name = "Geron"
+    dynasty_house = house_190
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 773
+    1021.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+773 = {
+    name = "Fenn"
+    dynasty_house = house_190
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 774
+    994.1.1 = {
+        birth = yes
+    }
+    1033.1.1 = {
+        death = yes
+    }
+}
+
+774 = {
+    name = "Jagotin"
+    dynasty_house = house_190
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    954.1.1 = {
+        birth = yes
+    }
+    1010.1.1 = {
+        death = yes
+    }
+}
+
+775 = {
+    name = "Thyria"
+    dynasty_house = house_124
+    female = yes
+    culture = darpatian
+    religion = puniner
+    father = 599
+    998.1.1 = {
+        birth = yes
+    }
+    1018.1.1 = {
+        add_spouse = 773
+    }
+    1028.1.1 = {
+        death = yes
+    }
+}
+
+776 = {
+    name = "Helmbrecht"
+    dynasty_house = house_191
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    955.1.1 = {
+        birth = yes
+    }
+    995.1.1 = {
+        death = yes
+    }
+}
+
+777 = {
+    name = "Rahjane"
+    dynasty_house = house_172
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    mother = 718
+    966.1.1 = {
+        birth = yes
+    }
+    983.1.1 = {
+        add_spouse = 776
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+778 = {
+    name = "Baeromar Falk"
+    dynasty_house = house_191
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 776
+    mother = 777
+    985.1.1 = {
+        birth = yes
+    }
+    1022.1.1 = {
+        death = yes
+    }
+}
+
+779 = {
+    name = "Terkol"
+    dynasty_house = house_192
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    975.1.1 = {
+        birth = yes
+    }
+    1026.1.1 = {
+        death = yes
+    }
+}
+
+780 = {
+    name = "Widderich"
+    dynasty_house = house_193
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    1000.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+781 = {
+    name = "Erzelhardt"
+    dynasty_house = house_194
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    973.1.1 = {
+        birth = yes
+    }
+    1036.1.1 = {
+        death = yes
+    }
+}
+
+782 = {
+    name = "Gerbold"
+    dynasty_house = house_194
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 781
+    mother = 783
+    1023.1.1 = {
+        birth = yes
+    }
+    1033.1.1 = {
+        death = yes
+    }
+}
+
+783 = {
+    name = "Thargrin"
+    dynasty_house = house_187
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 757
+    1004.1.1 = {
+        birth = yes
+    }
+    1022.1.1 = {
+        add_spouse = 781
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+784 = {
+    name = "Thûan"
+    dynasty_house = house_195
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 785
+    977.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+785 = {
+    name = "Fîrnbold"
+    dynasty_house = house_195
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    937.1.1 = {
+        birth = yes
+    }
+    997.1.1 = {
+        death = yes
+    }
+}
+
+786 = {
+    name = "Tharîna"
+    dynasty_house = house_195
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    mother = 784
+    1024.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+787 = {
+    name = "Thordenan"
+    dynasty_house = house_195
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    mother = 784
+    1028.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+788 = {
+    name = "Weldmar"
+    dynasty_house = house_196
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 791
+    987.1.1 = {
+        birth = yes
+    }
+    1031.1.1 = {
+        death = yes
+    }
+}
+
+789 = {
+    name = "Meinhardt"
+    dynasty_house = house_196
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 788
+    1027.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+790 = {
+    name = "Fredegunde"
+    dynasty_house = house_196
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 788
+    1029.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+791 = {
+    name = "Meinhardt"
+    dynasty_house = house_196
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    947.1.1 = {
+        birth = yes
+    }
+    990.1.1 = {
+        death = yes
+    }
+}
+
+792 = {
+    name = "Falk"
+    dynasty_house = house_197
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 793
+    1000.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+793 = {
+    name = "Seyfrid"
+    dynasty_house = house_197
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    960.1.1 = {
+        birth = yes
+    }
+    1020.1.1 = {
+        death = yes
+    }
+}
+
+794 = {
+    name = "Walderia"
+    dynasty_house = house_172
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    mother = 718
+    956.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+795 = {
+    name = "Griseldis"
+    dynasty_house = house_172
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    mother = 794
+    1017.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+796 = {
+    name = "Lavinija"
+    dynasty_house = house_198
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 797
+    949.1.1 = {
+        birth = yes
+    }
+    1009.1.1 = {
+        death = yes
+    }
+}
+
+797 = {
+    name = "Baerngrimm"
+    dynasty_house = house_198
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    909.1.1 = {
+        birth = yes
+    }
+    969.1.1 = {
+        death = yes
+    }
+}
+
+798 = {
+    name = "Gamhain"
+    dynasty_house = house_199
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 801
+    989.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+799 = {
+    name = "Rondrasil"
+    dynasty_house = house_199
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 798
+    1023.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+800 = {
+    name = "Leonil"
+    dynasty_house = house_199
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 798
+    1024.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+801 = {
+    name = "Valgor"
+    dynasty_house = house_199
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    962.1.1 = {
+        birth = yes
+    }
+    1021.1.1 = {
+        death = yes
+    }
+}
+
+802 = {
+    name = "Yolanda"
+    dynasty_house = house_199
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 801
+    992.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+803 = {
+    name = "Artos"
+    dynasty_house = house_199
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    mother = 802
+    1018.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+804 = {
+    name = "Mirya"
+    dynasty_house = house_199
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    mother = 802
+    1021.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+805 = {
+    name = "Lanzelund"
+    dynasty_house = house_200
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 809
+    1006.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+806 = {
+    name = "Isegrein"
+    dynasty_house = house_200
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 805
+    1037.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+807 = {
+    name = "Reonar"
+    dynasty_house = house_200
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 805
+    1040.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+808 = {
+    name = "Griniguld"
+    dynasty_house = house_200
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 805
+    1041.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+809 = {
+    name = "Arnfried"
+    dynasty_house = house_200
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 810
+    966.1.1 = {
+        birth = yes
+    }
+    1027.1.1 = {
+        death = yes
+    }
+}
+
+810 = {
+    name = "Isegrein"
+    dynasty_house = house_200
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    936.1.1 = {
+        birth = yes
+    }
+    990.1.1 = {
+        death = yes
+    }
+}
+
+811 = {
+    name = "Avon"
+    dynasty_house = house_182
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    mother = 812
+    968.1.1 = {
+        birth = yes
+    }
+    1029.1.1 = {
+        death = yes
+    }
+}
+
+812 = {
+    name = "Lofanheid"
+    dynasty_house = house_182
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    943.1.1 = {
+        birth = yes
+    }
+    988.1.1 = {
+        death = yes
+    }
+}
+
+813 = {
+    name = "Tannfried"
+    dynasty_house = house_201
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    950.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+814 = {
+    name = "Grimmwulf"
+    dynasty_house = house_202
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 815
+    990.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+815 = {
+    name = "Ludopoldt"
+    dynasty_house = house_202
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    950.1.1 = {
+        birth = yes
+    }
+    1000.1.1 = {
+        death = yes
+    }
+}
+
+816 = {
+    name = "Rondrian"
+    dynasty_house = house_203
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    mother = 820
+    980.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+817 = {
+    name = "Leodora"
+    dynasty_house = house_203
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 816
+    1002.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+818 = {
+    name = "Amelie"
+    dynasty_house = house_203
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 816
+    1006.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+819 = {
+    name = "Rondrian"
+    dynasty_house = house_203
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 816
+    1010.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+820 = {
+    name = "Leodora"
+    dynasty_house = house_203
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    950.1.1 = {
+        birth = yes
+    }
+    1000.1.1 = {
+        death = yes
+    }
+}
+
+821 = {
+    name = "Geron"
+    dynasty_house = house_203
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    mother = 820
+    988.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+822 = {
+    name = "Jarlak"
+    dynasty_house = house_26
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 675
+    mother = 642
+    1020.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+823 = {
+    name = "Emmeran"
+    dynasty_house = house_172
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 824
+    981.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+824 = {
+    name = "Wallfried"
+    dynasty_house = house_172
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    mother = 718
+    960.1.1 = {
+        birth = yes
+    }
+    1020.1.1 = {
+        death = yes
+    }
+}
+
+825 = {
+    name = "Yalagunde"
+    dynasty_house = house_37
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 188
+    983.1.1 = {
+        birth = yes
+    }
+    1000.1.1 = {
+        add_spouse = 823
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+826 = {
+    name = "Firunian"
+    dynasty_house = house_172
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 823
+    mother = 825
+    1005.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+827 = {
+    name = "Walthari"
+    dynasty_house = house_204
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    998.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+828 = {
+    name = "Grotjan"
+    dynasty_house = house_205
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    959.1.1 = {
+        birth = yes
+    }
+    1032.1.1 = {
+        death = yes
+    }
+}
+
+829 = {
+    name = "Yandebirg"
+    dynasty_house = house_204
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 827
+    1017.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+830 = {
+    name = "Gero"
+    dynasty_house = house_204
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 827
+    mother = 832
+    1033.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+831 = {
+    name = "Olvida"
+    dynasty_house = house_204
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 827
+    mother = 832
+    1035.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+832 = {
+    name = "Rovena"
+    dynasty_house = house_205
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    999.1.1 = {
+        birth = yes
+    }
+    1032.1.1 = {
+        add_spouse = 827
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+833 = {
+    name = "Leudane"
+    dynasty_house = house_206
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    1009.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+834 = {
+    name = "Firian"
+    dynasty_house = house_207
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 835
+    1007.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+835 = {
+    name = "Marbert"
+    dynasty_house = house_207
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 836
+    983.1.1 = {
+        birth = yes
+    }
+    1032.1.1 = {
+        death = yes
+    }
+}
+
+836 = {
+    name = "Firian"
+    dynasty_house = house_207
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    953.1.1 = {
+        birth = yes
+    }
+    995.1.1 = {
+        death = yes
+    }
+}
+
+837 = {
+    name = "Ewein"
+    dynasty_house = house_207
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 835
+    mother = 841
+    1008.1.1 = {
+        birth = yes
+    }
+    1008.1.1 = {
+        death = yes
+    }
+}
+
+838 = {
+    name = "Sindaja"
+    dynasty_house = house_207
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 835
+    mother = 841
+    1006.1.1 = {
+        birth = yes
+    }
+    1006.1.1 = {
+        death = yes
+    }
+}
+
+839 = {
+    name = "Derenald"
+    dynasty_house = house_207
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 835
+    mother = 841
+    1009.1.1 = {
+        birth = yes
+    }
+    1009.1.1 = {
+        death = yes
+    }
+}
+
+840 = {
+    name = "Firutin"
+    dynasty_house = house_207
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 835
+    1017.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+841 = {
+    name = "Walderia"
+    dynasty_house = house_173
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    986.1.1 = {
+        birth = yes
+    }
+    999.1.1 = {
+        add_spouse = 835
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+842 = {
+    name = "Lebanus"
+    dynasty_house = house_207
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 834
+    1033.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+843 = {
+    name = "Boronica"
+    dynasty_house = house_207
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 834
+    1035.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+844 = {
+    name = "Suminia"
+    dynasty_house = house_207
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 834
+    1037.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+845 = {
+    name = "Albur"
+    dynasty_house = house_207
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 834
+    1039.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+846 = {
+    name = "Gwidûhenna"
+    dynasty_house = house_209
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 851
+    mother = 852
+    1005.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+847 = {
+    name = "Gorfried"
+    dynasty_house = house_56
+    female = no
+    culture = darpatian
+    religion = puniner
+    1005.1.1 = {
+        birth = yes
+    }
+    1032.1.1 = {
+        add_spouse = 846
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+848 = {
+    name = "Travinian"
+    dynasty_house = house_209
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 847
+    mother = 846
+    1035.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+849 = {
+    name = "Firuna"
+    dynasty_house = house_209
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 847
+    mother = 846
+    1035.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+850 = {
+    name = "Barnhelm"
+    dynasty_house = house_209
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 847
+    mother = 846
+    1038.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+851 = {
+    name = "Andîlgarn"
+    dynasty_house = house_209
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 858
+    980.1.1 = {
+        birth = yes
+    }
+    1034.1.1 = {
+        death = yes
+    }
+}
+
+852 = {
+    name = "Rodwiga"
+    dynasty_house = house_210
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    983.1.1 = {
+        birth = yes
+    }
+    1002.1.1 = {
+        add_spouse = 851
+    }
+    1026.1.1 = {
+        death = yes
+    }
+}
+
+853 = {
+    name = "Wilfred"
+    dynasty_house = house_209
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 851
+    mother = 852
+    1007.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+854 = {
+    name = "Ullgrein"
+    dynasty_house = house_209
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 851
+    mother = 852
+    1009.1.1 = {
+        birth = yes
+    }
+    1034.1.1 = {
+        add_spouse = 752
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+855 = {
+    name = "Rika"
+    dynasty_house = house_185
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 752
+    mother = 854
+    1035.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+856 = {
+    name = "Arlene"
+    dynasty_house = house_185
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 752
+    mother = 854
+    1037.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+857 = {
+    name = "Keron"
+    dynasty_house = house_185
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    father = 752
+    mother = 854
+    1037.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+858 = {
+    name = "Erlbrecht"
+    dynasty_house = house_209
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    952.1.1 = {
+        birth = yes
+    }
+    1010.1.1 = {
+        death = yes
+    }
+}
+
+859 = {
+    name = "Holdwiep"
+    dynasty_house = house_209
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 858
+    987.1.1 = {
+        birth = yes
+    }
+    1009.1.1 = {
+        add_spouse = 861
+    }
+    1024.1.1 = {
+        death = yes
+    }
+}
+
+860 = {
+    name = "Travine"
+    dynasty_house = house_209
+    female = yes
+    culture = cult_weiden
+    religion = puniner
+    father = 858
+    985.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+861 = {
+    name = "Wulfhart"
+    dynasty_house = house_101
+    female = no
+    culture = garetian
+    religion = puniner
+    988.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+862 = {
+    name = "Rondwin"
+    dynasty_house = house_101
+    female = no
+    culture = garetian
+    religion = puniner
+    father = 861
+    mother = 859
+    1013.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+863 = {
+    name = "Travhelm"
+    dynasty_house = house_101
+    female = yes
+    culture = garetian
+    religion = puniner
+    father = 861
+    mother = 859
+    1016.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+864 = {
+    name = "Firnward"
+    dynasty_house = house_101
+    female = no
+    culture = garetian
+    religion = puniner
+    father = 861
+    mother = 859
+    1018.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+865 = {
+    name = "Lisande"
+    dynasty_house = house_101
+    female = yes
+    culture = garetian
+    religion = puniner
+    father = 861
+    mother = 859
+    1024.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+866 = {
+    name = "Rondrian"
+    dynasty_house = house_211
+    female = no
+    culture = cult_weiden
+    religion = puniner
+    960.1.1 = {
+        birth = yes
+    }
+    1033.1.1 = {
+        death = yes
+    }
+}
+
+867 = {
+    name = "Derwart"
+    dynasty_house = house_212
+    female = no
+    culture = koschian
+    religion = puniner
+    945.1.1 = {
+        birth = yes
+    }
+    1003.1.1 = {
+        death = yes
+    }
+}
+
+868 = {
+    name = "Asmodin"
+    dynasty_house = house_212
+    female = no
+    culture = koschian
+    religion = puniner
+    982.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+869 = {
+    name = "Mihl"
+    dynasty_house = house_213
+    female = no
+    culture = koschian
+    religion = puniner
+    975.1.1 = {
+        birth = yes
+    }
+    1012.1.1 = {
+        death = yes
+    }
+}
+
+870 = {
+    name = "Kordan"
+    dynasty_house = house_212
+    female = no
+    culture = koschian
+    religion = puniner
+    981.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+871 = {
+    name = "Efferdane"
+    dynasty_house = house_212
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 870
+    1022.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+872 = {
+    name = "Baduar"
+    dynasty_house = house_212
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 870
+    1025.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+873 = {
+    name = "Birbart"
+    dynasty_house = house_214
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 1023
+    960.1.1 = {
+        birth = yes
+    }
+    1012.1.1 = {
+        death = yes
+    }
+}
+
+874 = {
+    name = "Tsaja"
+    dynasty_house = house_214
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 873
+    993.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+875 = {
+    name = "Brinessa"
+    dynasty_house = house_214
+    female = yes
+    culture = koschian
+    religion = puniner
+    mother = 874
+    1019.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+876 = {
+    name = "Govena"
+    dynasty_house = house_214
+    female = yes
+    culture = koschian
+    religion = puniner
+    mother = 874
+    1021.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+877 = {
+    name = "Sminkrates"
+    female = no
+    culture = koschian
+    religion = puniner
+    970.1.1 = {
+        birth = yes
+    }
+    1016.1.1 = {
+        death = yes
+    }
+}
+
+878 = {
+    name = "Risk"
+    dynasty_house = house_215
+    female = no
+    culture = koschian
+    religion = puniner
+    980.1.1 = {
+        birth = yes
+    }
+    1018.1.1 = {
+        death = yes
+    }
+}
+
+879 = {
+    name = "Tradan"
+    dynasty_house = house_218
+    female = no
+    culture = koschian
+    religion = puniner
+    985.1.1 = {
+        birth = yes
+    }
+    1027.1.1 = {
+        death = yes
+    }
+}
+
+880 = {
+    name = "Cathine"
+    dynasty_house = house_218
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 879
+    973.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+881 = {
+    name = "Wolfhardt"
+    dynasty_house = house_216
+    female = no
+    culture = koschian
+    religion = puniner
+    995.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+882 = {
+    name = "Travian"
+    dynasty_house = house_214
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 873
+    1000.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+883 = {
+    name = "Nadyana"
+    dynasty_house = house_214
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 882
+    1022.1.1 = {
+        birth = yes
+    }
+    1043.1.1 = {
+        add_spouse = 881
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+884 = {
+    name = "Madrax"
+    dynasty_house = house_217
+    female = no
+    culture = hill_dwarves
+    religion = angrosh
+    879.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+885 = {
+    name = "Erlan"
+    dynasty_house = house_219
+    female = no
+    culture = koschian
+    religion = puniner
+    997.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+886 = {
+    name = "Halmar"
+    dynasty_house = house_219
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 885
+    1014.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+887 = {
+    name = "Yolande"
+    dynasty_house = house_219
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 885
+    1015.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+888 = {
+    name = "Ifirnia"
+    dynasty_house = house_219
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 885
+    1016.1.1 = {
+        birth = yes
+    }
+    1039.1.1 = {
+        death = yes
+    }
+}
+
+889 = {
+    name = "Ambros"
+    dynasty_house = house_219
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 885
+    1017.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+890 = {
+    name = "Pergrim"
+    dynasty_house = house_219
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 885
+    1018.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+891 = {
+    name = "Kordan"
+    dynasty_house = house_219
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 885
+    1019.1.1 = {
+        birth = yes
+    }
+    1033.1.1 = {
+        death = yes
+    }
+}
+
+892 = {
+    name = "Firuna"
+    dynasty_house = house_219
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 885
+    1020.1.1 = {
+        birth = yes
+    }
+    1041.1.1 = {
+        death = yes
+    }
+}
+
+893 = {
+    name = "Nirwulf"
+    dynasty_house = house_220
+    female = no
+    culture = hill_dwarves
+    religion = angrosh
+    868.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+894 = {
+    name = "Ferk"
+    dynasty_house = house_221
+    female = no
+    culture = koschian
+    religion = puniner
+    957.1.1 = {
+        birth = yes
+    }
+    1009.1.1 = {
+        death = yes
+    }
+}
+
+895 = {
+    name = "Kien"
+    dynasty_house = house_221
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 894
+    983.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+896 = {
+    name = "Merwerd"
+    dynasty_house = house_222
+    female = no
+    culture = bornlandish
+    religion = puniner
+    988.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+897 = {
+    name = "Yesatan"
+    dynasty_house = house_30
+    female = no
+    culture = garetian
+    religion = puniner
+    father = 156
+    944.1.1 = {
+        birth = yes
+    }
+    1038.1.1 = {
+        death = yes
+    }
+}
+
+898 = {
+    name = "Olbert"
+    dynasty_house = house_30
+    female = no
+    culture = garetian
+    religion = puniner
+    father = 897
+    975.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+899 = {
+    name = "Gidiane"
+    dynasty_house = house_30
+    female = yes
+    culture = garetian
+    religion = puniner
+    father = 898
+    1006.1.1 = {
+        birth = yes
+    }
+    1032.1.1 = {
+        add_spouse = 896
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+900 = {
+    name = "Idamil"
+    dynasty_house = house_222
+    female = no
+    culture = garetian
+    religion = puniner
+    father = 896
+    mother = 899
+    1033.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+901 = {
+    name = "Rohaja"
+    dynasty_house = house_222
+    female = yes
+    culture = garetian
+    religion = puniner
+    father = 896
+    mother = 899
+    1036.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+902 = {
+    name = "Wolfhelm"
+    dynasty_house = house_223
+    female = no
+    culture = koschian
+    religion = puniner
+    908.1.1 = {
+        birth = yes
+    }
+    986.1.1 = {
+        death = yes
+    }
+}
+
+903 = {
+    name = "Praiodan"
+    dynasty_house = house_223
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 902
+    937.1.1 = {
+        birth = yes
+    }
+    1005.1.1 = {
+        death = yes
+    }
+}
+
+904 = {
+    name = "Orsino"
+    dynasty_house = house_223
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 903
+    971.1.1 = {
+        birth = yes
+    }
+    1029.1.1 = {
+        death = yes
+    }
+}
+
+905 = {
+    name = "Wilbur"
+    dynasty_house = house_224
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 907
+    1015.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+906 = {
+    name = "Niope"
+    dynasty_house = house_224
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 907
+    1020.1.1 = {
+        birth = yes
+    }
+    1042.1.1 = {
+        add_spouse = 255
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+907 = {
+    name = "Nottel"
+    dynasty_house = house_224
+    female = no
+    culture = koschian
+    religion = puniner
+    979.1.1 = {
+        birth = yes
+    }
+    1027.1.1 = {
+        death = yes
+    }
+}
+
+908 = {
+    name = "Mechtessa"
+    dynasty_house = house_223
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 904
+    1012.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+909 = {
+    name = "Padora"
+    dynasty_house = house_223
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 904
+    1019.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+910 = {
+    name = "Voltan"
+    dynasty_house = house_223
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 903
+    977.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+911 = {
+    name = "Bohemund"
+    dynasty_house = house_223
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 910
+    994.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+912 = {
+    name = "Hernobert"
+    dynasty_house = house_223
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 903
+    989.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+913 = {
+    name = "Blasius"
+    dynasty_house = house_223
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 912
+    1031.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+914 = {
+    name = "Erlan"
+    dynasty_house = house_223
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 902
+    945.1.1 = {
+        birth = yes
+    }
+    1025.1.1 = {
+        death = yes
+    }
+}
+
+915 = {
+    name = "Conrad"
+    dynasty_house = house_225
+    female = no
+    culture = horasian
+    religion = puniner
+    979.1.1 = {
+        birth = yes
+    }
+    1039.1.1 = {
+        death = yes
+    }
+}
+
+916 = {
+    name = "Boltsa"
+    dynasty_house = house_225
+    female = yes
+    culture = horasian
+    religion = puniner
+    father = 915
+    1010.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+917 = {
+    name = "Enno"
+    dynasty_house = house_225
+    female = no
+    culture = horasian
+    religion = puniner
+    father = 915
+    1012.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+918 = {
+    name = "Baduar"
+    dynasty_house = house_226
+    female = no
+    culture = koschian
+    religion = puniner
+    997.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+919 = {
+    name = "Aldare"
+    dynasty_house = house_227
+    female = yes
+    culture = horasian
+    religion = puniner
+    1005.1.1 = {
+        birth = yes
+    }
+    1028.1.1 = {
+        add_spouse = 918
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+920 = {
+    name = "Quendan"
+    dynasty_house = house_226
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 918
+    mother = 919
+    1030.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+921 = {
+    name = "Fiana"
+    dynasty_house = house_226
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 918
+    mother = 919
+    1032.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+922 = {
+    name = "Firutin"
+    dynasty_house = house_226
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 918
+    mother = 919
+    1038.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+923 = {
+    name = "Celissa"
+    dynasty_house = house_226
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 918
+    mother = 919
+    1040.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+924 = {
+    name = "Crothin"
+    dynasty_house = house_228
+    female = no
+    culture = koschian
+    religion = puniner
+    940.1.1 = {
+        birth = yes
+    }
+    1015.1.1 = {
+        death = yes
+    }
+}
+
+925 = {
+    name = "Beregon"
+    dynasty_house = house_229
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 926
+    995.1.1 = {
+        birth = yes
+    }
+    1027.1.1 = {
+        death = yes
+    }
+}
+
+926 = {
+    name = "Helkor"
+    dynasty_house = house_229
+    female = no
+    culture = koschian
+    religion = puniner
+    965.1.1 = {
+        birth = yes
+    }
+    1027.1.1 = {
+        death = yes
+    }
+}
+
+927 = {
+    name = "Iralda"
+    dynasty_house = house_229
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 926
+    992.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+928 = {
+    name = "Reto"
+    dynasty_house = house_229
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 925
+    mother = 932
+    1010.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+929 = {
+    name = "Geldor"
+    dynasty_house = house_229
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 925
+    mother = 932
+    1012.1.1 = {
+        birth = yes
+    }
+    1039.1.1 = {
+        death = yes
+    }
+}
+
+930 = {
+    name = "Emer"
+    dynasty_house = house_229
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 925
+    mother = 932
+    1017.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+931 = {
+    name = "Alara"
+    dynasty_house = house_229
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 925
+    mother = 932
+    1021.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+932 = {
+    name = "Gilda"
+    dynasty_house = house_230
+    female = yes
+    culture = northmarchian
+    religion = puniner
+    993.1.1 = {
+        birth = yes
+    }
+    1008.1.1 = {
+        add_spouse = 925
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+933 = {
+    name = "Nale"
+    dynasty_house = house_229
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 928
+    mother = 748
+    1037.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+934 = {
+    name = "Waldemar"
+    dynasty_house = house_229
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 928
+    mother = 748
+    1037.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+935 = {
+    name = "Bunsenhold"
+    dynasty_house = house_229
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 928
+    mother = 748
+    1039.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+936 = {
+    name = "Throndwig"
+    dynasty_house = house_229
+    female = no
+    culture = koschian
+    religion = puniner
+    mother = 927
+    1028.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+937 = {
+    name = "Berndrich"
+    dynasty_house = house_231
+    female = no
+    culture = koschian
+    religion = puniner
+    934.1.1 = {
+        birth = yes
+    }
+    995.1.1 = {
+        death = yes
+    }
+}
+
+938 = {
+    name = "Thalessia"
+    dynasty_house = house_26
+    female = yes
+    culture = garetian
+    religion = puniner
+    father = 641
+    940.1.1 = {
+        birth = yes
+    }
+    964.1.1 = {
+        add_spouse = 937
+    }
+    1036.1.1 = {
+        death = yes
+    }
+}
+
+939 = {
+    name = "Blasius"
+    dynasty_house = house_231
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 937
+    mother = 938
+    968.1.1 = {
+        birth = yes
+    }
+    1041.1.1 = {
+        death = yes
+    }
+}
+
+940 = {
+    name = "Gunelida"
+    dynasty_house = house_49
+    female = yes
+    culture = garetian
+    religion = puniner
+    father = 260
+    968.1.1 = {
+        birth = yes
+    }
+    992.1.1 = {
+        add_spouse = 939
+    }
+    998.1.1 = {
+        death = yes
+    }
+}
+
+941 = {
+    name = "Geldor"
+    dynasty_house = house_231
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 937
+    mother = 938
+    972.1.1 = {
+        birth = yes
+    }
+    1027.1.1 = {
+        death = yes
+    }
+}
+
+942 = {
+    name = "Efferdane"
+    dynasty_house = house_231
+    female = yes
+    culture = koschian
+    religion = puniner
+    991.1.1 = {
+        birth = yes
+    }
+    1018.1.1 = {
+        add_spouse = 675
+    }
+    1020.1.1 = {
+        death = yes
+    }
+}
+
+943 = {
+    name = "Anshold"
+    dynasty_house = house_231
+    female = no
+    culture = koschian
+    religion = puniner
+    994.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+944 = {
+    name = "Idamil"
+    dynasty_house = house_231
+    female = no
+    culture = koschian
+    religion = puniner
+    998.1.1 = {
+        birth = yes
+    }
+    1027.1.1 = {
+        death = yes
+    }
+}
+
+945 = {
+    name = "Edelbrecht"
+    dynasty_house = house_231
+    female = no
+    culture = koschian
+    religion = puniner
+    998.1.1 = {
+        birth = yes
+    }
+    1026.1.1 = {
+        add_spouse = 504
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+946 = {
+    name = "Nadyana"
+    dynasty_house = house_233
+    female = yes
+    culture = koschian
+    religion = puniner
+    1000.1.1 = {
+        birth = yes
+    }
+    1026.1.1 = {
+        add_spouse = 943
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+947 = {
+    name = "Erlan"
+    dynasty_house = house_231
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 943
+    mother = 946
+    1032.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+948 = {
+    name = "Baldur"
+    dynasty_house = house_231
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 943
+    mother = 946
+    1035.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+949 = {
+    name = "Efferdane"
+    dynasty_house = house_231
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 943
+    mother = 946
+    1036.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+950 = {
+    name = "Hesine"
+    dynasty_house = house_231
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 944
+    1028.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+951 = {
+    name = "Ulfried"
+    dynasty_house = house_5
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 945
+    mother = 504
+    1027.1.1 = {
+        birth = yes
+    }
+    1034.1.1 = {
+        death = yes
+    }
+}
+
+952 = {
+    name = "Aldec"
+    dynasty_house = house_5
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 945
+    mother = 504
+    1032.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+953 = {
+    name = "Roban"
+    dynasty_house = house_234
+    female = no
+    culture = koschian
+    religion = puniner
+    956.1.1 = {
+        birth = yes
+    }
+    1043.1.1 = {
+        death = yes
+    }
+}
+
+954 = {
+    name = "Balinor"
+    dynasty_house = house_66
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 956
+    979.1.1 = {
+        birth = yes
+    }
+    1039.1.1 = {
+        death = yes
+    }
+}
+
+955 = {
+    name = "Erzbart"
+    dynasty_house = house_66
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 956
+    983.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+956 = {
+    name = "Alrik"
+    dynasty_house = house_66
+    female = no
+    culture = koschian
+    religion = puniner
+    940.1.1 = {
+        birth = yes
+    }
+    974.1.1 = {
+        death = yes
+    }
+}
+
+957 = {
+    name = "Bernwart"
+    dynasty_house = house_66
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 954
+    1005.1.1 = {
+        birth = yes
+    }
+    1038.1.1 = {
+        death = yes
+    }
+}
+
+958 = {
+    name = "Gerwin"
+    dynasty_house = house_235
+    female = no
+    culture = koschian
+    religion = puniner
+    945.1.1 = {
+        birth = yes
+    }
+    1004.1.1 = {
+        death = yes
+    }
+}
+
+959 = {
+    name = "Myros"
+    dynasty_house = house_236
+    female = no
+    culture = northern_settlers
+    religion = puniner
+    964.1.1 = {
+        birth = yes
+    }
+    1020.1.1 = {
+        death = yes
+    }
+}
+
+960 = {
+    name = "Graphiel"
+    dynasty_house = house_236
+    female = no
+    culture = koschian
+    religion = puniner
+    999.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+961 = {
+    name = "Shanija"
+    dynasty_house = house_236
+    female = yes
+    culture = koschian
+    religion = puniner
+    1002.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+962 = {
+    name = "Jachob"
+    dynasty_house = house_236
+    female = no
+    culture = koschian
+    religion = puniner
+    1003.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+963 = {
+    name = "Jileia"
+    dynasty_house = house_236
+    female = yes
+    culture = koschian
+    religion = puniner
+    1007.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+964 = {
+    name = "Ina"
+    dynasty_house = house_237
+    female = yes
+    culture = almadan
+    religion = puniner
+    999.1.1 = {
+        birth = yes
+    }
+    1019.1.1 = {
+        add_spouse = 960
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+965 = {
+    name = "Elchard"
+    dynasty_house = house_236
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 960
+    mother = 964
+    1020.1.1 = {
+        birth = yes
+    }
+    1024.1.1 = {
+        death = yes
+    }
+}
+
+966 = {
+    name = "Baduar"
+    dynasty_house = house_236
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 960
+    mother = 964
+    1026.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+967 = {
+    name = "Bolzbold"
+    dynasty_house = house_238
+    female = no
+    culture = koschian
+    religion = puniner
+    920.1.1 = {
+        birth = yes
+    }
+    980.1.1 = {
+        death = yes
+    }
+}
+
+968 = {
+    name = "Ontho"
+    dynasty_house = house_238
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 967
+    954.1.1 = {
+        birth = yes
+    }
+    1038.1.1 = {
+        death = yes
+    }
+}
+
+969 = {
+    name = "Lorine"
+    dynasty_house = house_238
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 968
+    986.1.1 = {
+        birth = yes
+    }
+    1027.1.1 = {
+        death = yes
+    }
+}
+
+970 = {
+    name = "Metzel"
+    dynasty_house = house_238
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 968
+    991.1.1 = {
+        birth = yes
+    }
+    1019.1.1 = {
+        death = yes
+    }
+}
+
+971 = {
+    name = "Grimbart"
+    dynasty_house = house_238
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 968
+    993.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+972 = {
+    name = "Alrich"
+    dynasty_house = house_238
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 968
+    995.1.1 = {
+        birth = yes
+    }
+    1038.1.1 = {
+        death = yes
+    }
+}
+
+973 = {
+    name = "Metzel"
+    dynasty_house = house_238
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 970
+    1009.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+974 = {
+    name = "Haldana"
+    dynasty_house = house_238
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 973
+    1035.1.1 = {
+        birth = yes
+    }
+    1038.1.1 = {
+        death = yes
+    }
+}
+
+975 = {
+    name = "Bolzbert"
+    dynasty_house = house_238
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 973
+    1035.1.1 = {
+        birth = yes
+    }
+    1038.1.1 = {
+        death = yes
+    }
+}
+
+976 = {
+    name = "Wulfmar"
+    dynasty_house = house_238
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 971
+    1012.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+977 = {
+    name = "Wunnemine"
+    dynasty_house = house_238
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 971
+    1013.1.1 = {
+        birth = yes
+    }
+    1039.1.1 = {
+        death = yes
+    }
+}
+
+978 = {
+    name = "Rondralieb"
+    dynasty_house = house_238
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 971
+    1015.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+979 = {
+    name = "Derya"
+    dynasty_house = house_238
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 972
+    1014.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+980 = {
+    name = "Bolzerich"
+    dynasty_house = house_238
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 972
+    1016.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+981 = {
+    name = "Korgrimma"
+    dynasty_house = house_238
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 972
+    1018.1.1 = {
+        birth = yes
+    }
+    1039.1.1 = {
+        death = yes
+    }
+}
+
+982 = {
+    name = "Berwin"
+    dynasty_house = house_234
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 983
+    1016.1.1 = {
+        birth = yes
+    }
+    1035.1.1 = {
+        add_spouse = 979
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+983 = {
+    name = "Gisbrun"
+    dynasty_house = house_234
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 953
+    mother = 1005
+    1001.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+984 = {
+    name = "Growin"
+    dynasty_house = house_239
+    female = no
+    culture = ore_dwarves
+    religion = angrosh
+    957.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+985 = {
+    name = "Waldtrut"
+    dynasty_house = house_240
+    female = yes
+    culture = koschian
+    religion = puniner
+    925.1.1 = {
+        birth = yes
+    }
+    980.1.1 = {
+        death = yes
+    }
+}
+
+986 = {
+    name = "Sjard"
+    dynasty_house = house_240
+    female = no
+    culture = koschian
+    religion = puniner
+    mother = 985
+    960.1.1 = {
+        birth = yes
+    }
+    1000.1.1 = {
+        death = yes
+    }
+}
+
+987 = {
+    name = "Falfud"
+    dynasty_house = house_240
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 986
+    982.1.1 = {
+        birth = yes
+    }
+    1002.1.1 = {
+        death = yes
+    }
+}
+
+988 = {
+    name = "Barytoc"
+    dynasty_house = house_241
+    female = no
+    culture = ore_dwarves
+    religion = angrosh
+    960.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+989 = {
+    name = "Mormiac"
+    dynasty_house = house_241
+    female = no
+    culture = ore_dwarves
+    religion = angrosh
+    father = 988
+    1010.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+990 = {
+    name = "Norgoscha"
+    dynasty_house = house_241
+    female = yes
+    culture = ore_dwarves
+    religion = angrosh
+    father = 988
+    1034.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+991 = {
+    name = "Mirka"
+    dynasty_house = house_242
+    female = yes
+    culture = koschian
+    religion = puniner
+    970.1.1 = {
+        birth = yes
+    }
+    1010.1.1 = {
+        death = yes
+    }
+}
+
+992 = {
+    name = "Tarjok"
+    dynasty_house = house_243
+    female = no
+    culture = koschian
+    religion = puniner
+    970.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+993 = {
+    name = "Narmur"
+    dynasty_house = house_244
+    female = no
+    culture = koschian
+    religion = puniner
+    982.1.1 = {
+        birth = yes
+    }
+    1041.1.1 = {
+        death = yes
+    }
+}
+
+994 = {
+    name = "Brumil"
+    dynasty_house = house_245
+    female = no
+    culture = ore_dwarves
+    religion = angrosh
+    853.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+995 = {
+    name = "Brom"
+    dynasty_house = house_245
+    female = no
+    culture = ore_dwarves
+    religion = angrosh
+    father = 994
+    934.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+996 = {
+    name = "Burgom"
+    dynasty_house = house_245
+    female = no
+    culture = ore_dwarves
+    religion = angrosh
+    father = 994
+    934.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+997 = {
+    name = "Gambira"
+    dynasty_house = house_245
+    female = yes
+    culture = ore_dwarves
+    religion = angrosh
+    father = 994
+    969.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+998 = {
+    name = "Brugol"
+    dynasty_house = house_245
+    female = no
+    culture = ore_dwarves
+    religion = angrosh
+    father = 994
+    991.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+999 = {
+    name = "Burgul"
+    dynasty_house = house_245
+    female = no
+    culture = ore_dwarves
+    religion = angrosh
+    father = 994
+    991.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+1000 = {
+    name = "Gerescha"
+    dynasty_house = house_245
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 994
+    1021.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+1001 = {
+    name = "Gramward"
+    dynasty_house = house_246
+    female = no
+    culture = koschian
+    religion = puniner
+    950.1.1 = {
+        birth = yes
+    }
+    1010.1.1 = {
+        death = yes
+    }
+}
+
+1002 = {
+    name = "Gundulf"
+    dynasty_house = house_246
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 1001
+    970.1.1 = {
+        birth = yes
+    }
+    1027.1.1 = {
+        death = yes
+    }
+}
+
+1003 = {
+    name = "Frylinde"
+    dynasty_house = house_246
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 1001
+    983.1.1 = {
+        birth = yes
+    }
+    1007.1.1 = {
+        add_spouse = 1008
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+1004 = {
+    name = "Charissia"
+    dynasty_house = house_246
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 1001
+    983.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+1005 = {
+    name = "Bachede"
+    dynasty_house = house_246
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 1001
+    987.1.1 = {
+        birth = yes
+    }
+    1001.1.1 = {
+        add_spouse = 953
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+1006 = {
+    name = "Anghard"
+    dynasty_house = house_246
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 1002
+    998.1.1 = {
+        birth = yes
+    }
+    1021.1.1 = {
+        death = yes
+    }
+}
+
+1007 = {
+    name = "Sindar"
+    dynasty_house = house_246
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 1002
+    1005.1.1 = {
+        birth = yes
+    }
+    1019.1.1 = {
+        death = yes
+    }
+}
+
+1008 = {
+    name = "Bernhelm"
+    dynasty_house = house_56
+    female = no
+    culture = northmarchian
+    religion = puniner
+    970.1.1 = {
+        birth = yes
+    }
+    1029.1.1 = {
+        death = yes
+    }
+}
+
+1009 = {
+    name = "Hagen"
+    dynasty_house = house_56
+    female = no
+    culture = northmarchian
+    religion = puniner
+    father = 1008
+    mother = 1003
+    1008.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+1010 = {
+    name = "Durinya"
+    dynasty_house = house_56
+    female = yes
+    culture = northmarchian
+    religion = puniner
+    father = 1008
+    mother = 1003
+    1013.1.1 = {
+        birth = yes
+    }
+    1041.1.1 = {
+        add_spouse = 1013
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+1011 = {
+    name = "Bernhelmine"
+    dynasty_house = house_56
+    female = yes
+    culture = northmarchian
+    religion = puniner
+    father = 1009
+    1033.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+1012 = {
+    name = "Rotgar"
+    dynasty_house = house_56
+    female = no
+    culture = northmarchian
+    religion = puniner
+    father = 1009
+    1035.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+1013 = {
+    name = "Halmbart"
+    dynasty_house = house_247
+    female = no
+    culture = koschian
+    religion = puniner
+    1012.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+1014 = {
+    name = "Bernhelm"
+    dynasty_house = house_247
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 1013
+    mother = 1010
+    1042.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+1015 = {
+    name = "Gundulf"
+    dynasty_house = house_247
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 1013
+    mother = 1010
+    1044.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+1016 = {
+    name = "Goswine"
+    dynasty_house = house_234
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 953
+    mother = 1005
+    1003.1.1 = {
+        birth = yes
+    }
+    1020.1.1 = {
+        add_spouse = 1022
+    }
+    1044.1.1 = {
+        death = yes
+    }
+}
+
+1017 = {
+    name = "Rondriane"
+    dynasty_house = house_234
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 953
+    mother = 1005
+    1006.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+1018 = {
+    name = "Grimma"
+    dynasty_house = house_234
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 953
+    mother = 1005
+    1007.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+1019 = {
+    name = "Ontho"
+    dynasty_house = house_234
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 953
+    mother = 1005
+    1008.1.1 = {
+        birth = yes
+    }
+    1044.1.1 = {
+        death = yes
+    }
+}
+
+1020 = {
+    name = "Selissa"
+    dynasty_house = house_234
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 953
+    mother = 1005
+    1009.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
+        death = yes
+    }
+}
+
+1021 = {
+    name = "Anglinde"
+    dynasty_house = house_234
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 953
+    mother = 1005
+    1010.1.1 = {
+        birth = yes
+    }
+    1029.1.1 = {
+        death = yes
+    }
+}
+
+1022 = {
+    name = "Firundal"
+    dynasty_house = house_214
+    female = no
+    culture = koschian
+    religion = puniner
+    father = 1023
+    965.1.1 = {
+        birth = yes
+    }
+    1042.1.1 = {
+        death = yes
+    }
+}
+
+1023 = {
+    name = "Alrich"
+    dynasty_house = house_214
+    female = no
+    culture = koschian
+    religion = puniner
+    930.1.1 = {
+        birth = yes
+    }
+    975.1.1 = {
+        death = yes
+    }
+}
+
+1024 = {
+    name = "Lechdan"
+    dynasty_house = house_1
+    female = no
+    culture = garetian
+    religion = puniner
+    father = 5
+    957.1.1 = {
+        birth = yes
+    }
+    1028.1.1 = {
+        death = yes
+    }
+}
+
+1025 = {
+    name = "Cella"
+    dynasty_house = house_234
+    female = yes
+    culture = koschian
+    religion = puniner
+    father = 1024
+    mother = 1021
+    1028.1.1 = {
+        birth = yes
+    }
+    1100.1.1 = {
         death = yes
     }
 }
