@@ -1,0 +1,12 @@
+﻿k_heldentrutz = {
+    1.1.1 = {
+        liege = e_mittelreich
+    }
+    1014.1.1 = {
+        holder = 720
+    }
+    1022.1.1 = {
+        holder = 0
+    }
+}
+

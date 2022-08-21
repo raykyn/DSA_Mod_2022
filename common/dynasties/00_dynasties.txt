@@ -1132,3 +1132,27 @@
     name = dynn_herbonia
     culture = koschian
 }
+248 = {
+    prefix = dynnp_von
+    name = dynn_hammerschlag
+    culture = koschian
+}
+249 = {
+    name = dynn_flusskrabbe
+    culture = meadow_elvish
+}
+250 = {
+    prefix = dynnp_von
+    name = dynn_grimsau
+    culture = koschian
+}
+251 = {
+    prefix = dynnp_von
+    name = dynn_grantelweiher
+    culture = koschian
+}
+252 = {
+    prefix = dynnp_von
+    name = dynn_nadoret
+    culture = koschian
+}

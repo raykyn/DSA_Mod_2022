@@ -1,0 +1,15 @@
+﻿k_warunk = {
+    1.1.1 = {
+        liege = e_mittelreich
+    }
+    982.1.1 = {
+        holder = 701
+    }
+    998.1.1 = {
+        holder = 702
+    }
+    1026.1.1 = {
+        holder = 703
+    }
+}
+

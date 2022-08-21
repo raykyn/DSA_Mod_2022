@@ -786,3 +786,17 @@
 785.0=forest
 786.0=plains
 787.0=forest
+788.0=hills
+789.0=forest
+790.0=mountains
+791.0=hills
+792.0=plains
+793.0=plains
+794.0=mountains
+795.0=hills
+796.0=wetlands
+797.0=wetlands
+798.0=plains
+799.0=farmlands
+800.0=forest
+801.0=plains

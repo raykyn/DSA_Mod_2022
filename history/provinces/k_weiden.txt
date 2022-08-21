@@ -1,0 +1,1008 @@
+﻿# 686.0 - Olat
+686.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 687.0 - Mittenberge
+687.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 688.0 - Dragentodt
+688.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 689.0 - Biberstein
+689.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 690.0 - Dûrensend
+690.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 691.0 - Blaubinge
+691.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 692.0 - Anbalinsruh
+692.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 693.0 - Balsaith
+693.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 694.0 - Beonfirn
+694.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = church_holding
+
+}
+
+# 695.0 - Dornstein
+695.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 696.0 - Perainetrutz
+696.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = church_holding
+
+}
+
+# 697.0 - Distelstein
+697.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 698.0 - Rhodenstein
+698.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = church_holding
+
+}
+
+# 699.0 - Moosgrund
+699.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 700.0 - Leinhaus
+700.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 701.0 - Grevenstein
+701.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 702.0 - Rotdorn
+702.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 703.0 - Ährenstatt
+703.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 704.0 - Trallop
+704.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 705.0 - Waldstein
+705.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 706.0 - Wederath
+706.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 707.0 - Urkenfurt
+707.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 708.0 - Schwarze Au
+708.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 709.0 - Oberwaldig
+709.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 710.0 - Blauenburg
+710.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 711.0 - Wulfenhain
+711.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 712.0 - Rotherwald
+712.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 713.0 - Reichsend
+713.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 714.0 - Wolfspfort
+714.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 715.0 - Gramburg
+715.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 716.0 - Loe
+716.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = church_holding
+
+}
+
+# 717.0 - Norrburg
+717.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 718.0 - Nordhag
+718.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 719.0 - Firnhag
+719.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 720.0 - Etiliengrund
+720.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = church_holding
+
+}
+
+# 721.0 - Leuengrund
+721.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 722.0 - Ulmenau
+722.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 723.0 - Leuinried
+723.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = church_holding
+
+}
+
+# 724.0 - Waldscheidt
+724.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 725.0 - Radbruch
+725.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 726.0 - Finsterfels
+726.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 727.0 - Welkensteyn
+727.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 728.0 - Weidenhag
+728.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 729.0 - Sankta Perainme
+729.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = church_holding
+
+}
+
+# 618.0 - Nordheim
+618.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 619.0 - Holzhaven
+619.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 620.0 - Bernau
+620.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = church_holding
+
+}
+
+# 621.0 - Klöppelstein
+621.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 622.0 - Aarstein
+622.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = church_holding
+
+}
+
+# 623.0 - Heidenstein
+623.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 624.0 - Nalgardis
+624.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 625.0 - Ahornswacht
+625.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 626.0 - Läjansturm
+626.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = church_holding
+
+}
+
+# 627.0 - Menzstein
+627.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 628.0 - Menzheim
+628.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 629.0 - Anderath
+629.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 630.0 - Ifirnskappeln
+630.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 631.0 - Braunenfels
+631.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 632.0 - Binsböckel
+632.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 633.0 - Auen
+633.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 634.0 - Domina Rondra trans Aquae
+634.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = church_holding
+
+}
+
+# 635.0 - Rotfels
+635.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 636.0 - Rössenwede
+636.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 637.0 - St. Hagebald
+637.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = church_holding
+
+}
+
+# 638.0 - Fuchsstein
+638.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 639.0 - Teichenberg
+639.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 640.0 - Bärhegen
+640.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 641.0 - Espen
+641.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 642.0 - Wittkopp
+642.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 643.0 - Giselwarth
+643.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 644.0 - Schwangbühl
+644.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 645.0 - Donnerschalck
+645.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 646.0 - Salach
+646.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 647.0 - Räuharsch
+647.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 648.0 - Baliho
+648.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 649.0 - Altnorden
+649.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 650.0 - Aarkopf
+650.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 651.0 - Salthel
+651.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 652.0 - Zweileuen
+652.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = church_holding
+
+}
+
+# 653.0 - Sichelweg
+653.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 654.0 - Wehspitz
+654.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 655.0 - Sinopje
+655.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 656.0 - Mandelhir
+656.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 657.0 - Altentrallop
+657.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 658.0 - Trallopfurten
+658.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 659.0 - Beonspfort
+659.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 660.0 - Beilstadt
+660.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 661.0 - Tannengrund
+661.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 662.0 - Lonatfurt
+662.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 663.0 - Drachenforst
+663.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = church_holding
+
+}
+
+# 664.0 - Finisrath
+664.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 665.0 - Rathilda
+665.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 666.0 - Rathilmuend
+666.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 667.0 - Hahnfels
+667.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 668.0 - Tatzelschlund
+668.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 669.0 - Dunkelbrunn
+669.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 670.0 - Drôlenhorst
+670.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 671.0 - Dragenfeld
+671.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 672.0 - Trutzfels
+672.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 673.0 - Braunsfurt
+673.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 674.0 - Dreybircken
+674.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 675.0 - Braunenklamm
+675.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 676.0 - Balcken
+676.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 677.0 - Klagenfels
+677.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 678.0 - Birken
+678.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 679.0 - Schwarzensteyn
+679.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 680.0 - Runforst
+680.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 681.0 - Runhag
+681.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 682.0 - Tiefenfurt
+682.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 683.0 - Gurvanshort
+683.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = church_holding
+
+}
+
+# 684.0 - Zollhaus
+684.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 685.0 - Mühlental
+685.0 = {
+
+    culture = cult_weiden
+    religion = puniner
+    holding = city_holding
+
+}
+

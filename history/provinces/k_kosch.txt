@@ -1,0 +1,648 @@
+﻿# 734.0 - Angbar
+734.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 735.0 - Halmwacht
+735.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 736.0 - Bauersglueck
+736.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 737.0 - Storchsklausen
+737.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = church_holding
+
+}
+
+# 738.0 - Erlenschloss
+738.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 739.0 - Trallik
+739.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 740.0 - Oberangbar
+740.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 741.0 - Halming
+741.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 742.0 - Stippwitz
+742.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 743.0 - Sindelsaum
+743.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 744.0 - Eichenholtz
+744.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = church_holding
+
+}
+
+# 745.0 - Entensteg
+745.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 746.0 - Birnbrosch
+746.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 747.0 - Alt-Garnelen
+747.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 748.0 - Findelstin
+748.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = church_holding
+
+}
+
+# 749.0 - Anpforten
+749.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 750.0 - Steinbrücken
+750.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 751.0 - Gaschenk
+751.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 752.0 - Leuwensteyn
+752.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = church_holding
+
+}
+
+# 753.0 - Toroschs Aue
+753.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 730.0 - Grauensee
+730.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 731.0 - Gôrmel
+731.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = church_holding
+
+}
+
+# 732.0 - Ibeck
+732.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 733.0 - Xennarode
+733.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 754.0 - Eichstein_2
+754.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 755.0 - Rohalssteg
+755.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 756.0 - Ogertod
+756.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 757.0 - Neuensteinigen
+757.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 758.0 - Koschtal
+758.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 759.0 - Drakenfels
+759.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 760.0 - Phexissenthal
+760.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 761.0 - Fürstenhort
+761.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 762.0 - Porquidstreu
+762.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 763.0 - Eberfang
+763.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 764.0 - Ingrahall
+764.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = church_holding
+
+}
+
+# 765.0 - Zwietrutz
+765.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 766.0 - Drabenburg
+766.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 767.0 - Braschtôkril
+767.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 768.0 - Flusswacht_2
+768.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 769.0 - Rhondur
+769.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 770.0 - Trolleck
+770.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = church_holding
+
+}
+
+# 771.0 - Moorfurt
+771.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 772.0 - Grimmenhall
+772.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 773.0 - Alt-Rudes Schild
+773.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 774.0 - Uztrutz
+774.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 775.0 - Knutenholz
+775.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 776.0 - Ingen
+776.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 777.0 - Ferdok
+777.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 778.0 - Lacuna
+778.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 779.0 - Warneburg
+779.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 780.0 - Bragahn
+780.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 781.0 - Waldhof
+781.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 782.0 - Drift
+782.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 783.0 - Garrensand
+783.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = church_holding
+
+}
+
+# 784.0 - Zolchodh
+784.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 785.0 - Dunkelforst
+785.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 786.0 - Salmingen
+786.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 787.0 - Nerbusch
+787.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 788.0 - Salingen
+788.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 789.0 - Hammerschlag
+789.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 790.0 - St. Ilpetta
+790.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = church_holding
+
+}
+
+# 791.0 - Tarnelfurt
+791.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 792.0 - Kargel
+792.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 793.0 - Hollerheide
+793.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 794.0 - Lûr
+794.0 = {
+
+    culture = anvil_dwarves
+    religion = angrosh
+    holding = castle_holding
+
+}
+
+# 795.0 - Grimsau
+795.0 = {
+
+    culture = anvil_dwarves
+    religion = angrosh
+    holding = city_holding
+
+}
+
+# 796.0 - Grantelturm
+796.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 797.0 - Moorbrück
+797.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 798.0 - Kemlar
+798.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+
+# 799.0 - Nadoret
+799.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = city_holding
+
+}
+
+# 800.0 - Prasunk
+800.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = church_holding
+
+}
+
+# 801.0 - Gerrun
+801.0 = {
+
+    culture = koschian
+    religion = puniner
+    holding = castle_holding
+
+}
+

@@ -1202,3 +1202,27 @@ house_247 = {
     name = dynn_herbonia
     dynasty = 247
 }
+house_248 = {
+    prefix = dynnp_von
+    name = dynn_hammerschlag
+    dynasty = 248
+}
+house_249 = {
+    name = dynn_flusskrabbe
+    dynasty = 249
+}
+house_250 = {
+    prefix = dynnp_von
+    name = dynn_grimsau
+    dynasty = 250
+}
+house_251 = {
+    prefix = dynnp_von
+    name = dynn_grantelweiher
+    dynasty = 251
+}
+house_252 = {
+    prefix = dynnp_von
+    name = dynn_nadoret
+    dynasty = 252
+}

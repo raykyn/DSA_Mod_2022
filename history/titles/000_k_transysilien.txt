@@ -1,0 +1,12 @@
+﻿k_transysilien = {
+    1.1.1 = {
+        liege = e_schwarze_horde
+    }
+    1020.1.1 = {
+        holder = 705
+    }
+    1027.1.1 = {
+        holder = 704
+    }
+}
+
